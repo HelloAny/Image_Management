@@ -1,0 +1,1527 @@
+2019-09-28 00:34:55,160 ERROR 57466 [-/::1/-/14ms POST /uploadImage] nodejs.Error: Illegal argument undefined
+    at module.exports (/Users/aiyining/Desktop/node/egg/node_modules/_md5@2.2.1@md5/md5.js:152:13)
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:25:47)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 57466
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:34:59,118 ERROR 57466 [-/::1/-/5ms POST /uploadImage] nodejs.Error: Illegal argument undefined
+    at module.exports (/Users/aiyining/Desktop/node/egg/node_modules/_md5@2.2.1@md5/md5.js:152:13)
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:25:47)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 57466
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:35:11,336 ERROR 57544 [-/::1/-/17ms POST /uploadImage] nodejs.Error: Illegal argument undefined
+    at module.exports (/Users/aiyining/Desktop/node/egg/node_modules/_md5@2.2.1@md5/md5.js:152:13)
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:25:47)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 57544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:48:31,800 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:48:38,942 ERROR 57615 [-/::1/-/5ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:48:59,387 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:49:26,542 ERROR 57615 [-/::1/-/7ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:49:34,682 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:49:39,990 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:50:11,365 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:51:07,275 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:51:11,722 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:52:31,277 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:52:36,005 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:54:56,825 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:02,760 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:33,704 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:37,737 ERROR 57615 [-/::1/-/4ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:40,375 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:56:21,777 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:56:26,386 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 01:07:35,920 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 572393ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 01:17:52,794 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576851ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 01:28:09,693 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576877ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 01:38:06,579 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576870ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 01:48:23,465 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576873ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 01:58:40,342 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576866ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 02:08:37,222 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576864ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 02:18:54,100 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576855ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 02:29:10,983 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576870ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 02:39:09,004 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 578002ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 02:49:25,875 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576850ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 02:59:42,756 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576857ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 03:09:59,643 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576852ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 03:19:56,528 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576859ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 03:30:13,413 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576864ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 03:40:30,300 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576864ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 03:50:27,168 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576853ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 04:00:44,040 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576854ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 04:20:59,003 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 578093ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 04:31:15,905 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 04:41:32,796 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576877ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 04:51:49,701 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576873ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 05:01:46,590 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576879ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 05:12:03,454 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576846ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 05:22:20,343 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576867ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 05:32:17,221 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576870ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 05:42:33,115 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575872ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 05:52:50,997 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577859ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 06:02:48,005 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 06:13:04,904 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576886ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 06:23:21,794 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576874ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 06:33:38,662 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576838ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 06:43:35,546 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576829ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 06:53:52,448 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576881ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 07:04:09,343 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576877ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 07:14:06,226 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576857ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 07:24:23,128 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576880ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 07:34:40,009 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576868ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 07:44:38,003 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577977ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 07:51:37,894 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 379870ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 08:01:54,567 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576660ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 08:12:11,530 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576945ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 08:15:01,490 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 149945ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 09:24:38,469 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575776ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 09:34:35,421 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576936ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 09:44:52,372 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576936ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 09:55:10,335 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577944ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 10:05:07,004 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576651ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 10:15:23,988 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576893ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 10:25:40,972 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576960ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 10:32:10,962 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 349971ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 10:42:07,912 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 10:47:29,881 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 281946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:23:49,843 ERROR 732 [-/::1/-/14ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 732
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:27:01,438 ERROR 2168 [-/::1/-/17ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2168
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:30:16,320 ERROR 3072 [-/::1/-/13ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3072
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:30:56,960 ERROR 3270 [-/::1/-/16ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3270
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 13:03:14,433 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 61708ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 13:13:11,388 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576913ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 13:23:27,363 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575958ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 13:33:44,332 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576944ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 13:44:01,298 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576950ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 13:53:58,226 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576917ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 14:04:15,204 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576959ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 14:14:32,175 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576954ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 14:24:29,132 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576930ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 16:11:06,079 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576170ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 16:21:22,996 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576897ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 16:31:39,953 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 16:41:56,906 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576932ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 16:51:53,860 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 17:02:09,803 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575925ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 17:12:26,787 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 17:14:56,762 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 129950ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 20:14:24,081 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 558804ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 20:24:40,982 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576880ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 20:34:57,940 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 20:45:14,906 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576936ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 20:55:12,881 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577955ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 21:05:29,813 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576909ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 21:15:46,777 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576949ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 21:25:42,749 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575956ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 21:35:59,706 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576937ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 21:46:16,689 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576962ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 21:56:14,004 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577303ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 22:06:30,954 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576935ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 22:16:47,917 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 22:27:03,881 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 22:37:00,850 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576953ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 22:47:17,810 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 22:57:34,765 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 23:01:55,709 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 240925ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 00:01:24,720 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 88272ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 00:11:22,005 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577250ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 00:21:38,965 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 00:31:55,925 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 00:42:12,891 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 00:52:08,859 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575949ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 01:02:25,817 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 01:12:42,764 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576931ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 01:22:39,720 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576941ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 01:32:56,677 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576937ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 01:43:13,665 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576972ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 01:53:11,003 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577329ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 02:03:26,968 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575951ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 02:13:43,910 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576921ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 02:24:00,870 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576938ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 02:33:57,827 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576938ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 02:44:14,794 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576955ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 02:54:31,774 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 03:04:28,745 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576960ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 03:14:45,704 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576944ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 03:25:01,674 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575948ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 03:34:59,003 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577311ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 03:45:15,981 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576957ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 03:55:32,941 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576939ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 04:05:49,905 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 04:16:06,471 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576543ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 04:26:23,455 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576961ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 04:36:20,402 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576931ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 04:46:37,377 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576953ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 04:56:54,357 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576965ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 05:06:51,003 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576621ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 05:17:07,941 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576921ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 05:27:24,906 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576945ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 05:37:41,869 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576943ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 05:47:38,828 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 05:57:55,799 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576953ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 06:08:12,777 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576963ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 06:18:09,715 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576920ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 06:28:25,699 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575969ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 06:38:42,667 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576949ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 06:48:40,004 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577317ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 06:58:56,976 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576949ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 07:09:13,951 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576951ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 07:19:30,698 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576732ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 07:29:47,685 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576971ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 07:40:04,667 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576964ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 07:50:01,625 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 08:00:17,580 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 575946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 08:10:34,538 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576941ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 08:20:32,003 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 577448ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 08:30:48,969 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576944ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 08:41:05,932 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576941ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 08:51:22,911 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 576953ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 09:00:03,848 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 500921ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 09:16:56,453 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 252324ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 09:46:58,588 ERROR 91879 nodejs.ClusterClientNoResponseError: client no response in 1782094ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 91879
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 10:35:12,609 ERROR 20279 [-/::1/-/13ms POST /deleteImage] nodejs.TypeError: Cannot read property 'body' of undefined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:12:33)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 20279
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 10:38:05,906 ERROR 22256 [-/::1/-/28ms POST /deleteImage] nodejs.TypeError: Cannot read property 'body' of undefined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:12:33)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22256
+hostname: aiyiningdeMBP
+
+2019-09-29 10:38:34,712 ERROR 22413 [-/::1/-/36ms POST /deleteImage] nodejs.TypeError: Cannot read property 'body' of undefined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:12:33)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22413
+hostname: aiyiningdeMBP
+
+2019-09-29 10:38:52,019 ERROR 22485 [-/::1/-/39ms POST /deleteImage] nodejs.ReferenceError: data is not defined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:23:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22485
+hostname: aiyiningdeMBP
+
+2019-09-29 10:39:29,478 ERROR 22596 [-/::1/-/44ms POST /deleteImage] nodejs.ReferenceError: data is not defined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:23:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22596
+hostname: aiyiningdeMBP
+
+2019-09-29 10:40:37,854 ERROR 22964 [-/::1/-/46ms POST /deleteImage] nodejs.ReferenceError: data is not defined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:23:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22964
+hostname: aiyiningdeMBP
+

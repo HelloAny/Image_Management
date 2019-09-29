@@ -1,0 +1,260 @@
+2019-09-25 15:16:20,778 INFO 20544 [egg-logrotator] agent logger reload: got log-reload message
+2019-09-25 15:54:43,303 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693980832161.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29114957,"size":97618,"blocks":192,"atimeMs":1569398083217.5112,"mtimeMs":1569398083223.7505,"ctimeMs":1569398083223.7505,"birthtimeMs":1569398083217.5112,"atime":"2019-09-25T07:54:43.218Z","mtime":"2019-09-25T07:54:43.224Z","ctime":"2019-09-25T07:54:43.224Z","birthtime":"2019-09-25T07:54:43.218Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 15:54:54,024 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693980940031.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29115062,"size":97618,"blocks":192,"atimeMs":1569398094004.3018,"mtimeMs":1569398094006.7314,"ctimeMs":1569398094006.7314,"birthtimeMs":1569398094004.3018,"atime":"2019-09-25T07:54:54.004Z","mtime":"2019-09-25T07:54:54.007Z","ctime":"2019-09-25T07:54:54.007Z","birthtime":"2019-09-25T07:54:54.004Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 15:55:04,280 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693981042631.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29115171,"size":97618,"blocks":192,"atimeMs":1569398104264.8367,"mtimeMs":1569398104265.764,"ctimeMs":1569398104265.764,"birthtimeMs":1569398104264.8367,"atime":"2019-09-25T07:55:04.265Z","mtime":"2019-09-25T07:55:04.266Z","ctime":"2019-09-25T07:55:04.266Z","birthtime":"2019-09-25T07:55:04.265Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 15:59:53,660 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693983935771.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29116754,"size":97618,"blocks":192,"atimeMs":1569398393577.799,"mtimeMs":1569398393579.2114,"ctimeMs":1569398393579.2114,"birthtimeMs":1569398393577.799,"atime":"2019-09-25T07:59:53.578Z","mtime":"2019-09-25T07:59:53.579Z","ctime":"2019-09-25T07:59:53.579Z","birthtime":"2019-09-25T07:59:53.578Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 16:00:10,584 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693984105191.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29116922,"size":97618,"blocks":192,"atimeMs":1569398410520.1687,"mtimeMs":1569398410522.5405,"ctimeMs":1569398410522.5405,"birthtimeMs":1569398410520.1687,"atime":"2019-09-25T08:00:10.520Z","mtime":"2019-09-25T08:00:10.523Z","ctime":"2019-09-25T08:00:10.523Z","birthtime":"2019-09-25T08:00:10.520Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 16:00:52,006 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693984519331.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29117107,"size":97618,"blocks":192,"atimeMs":1569398451933.3376,"mtimeMs":1569398451933.7866,"ctimeMs":1569398451933.7866,"birthtimeMs":1569398451933.3376,"atime":"2019-09-25T08:00:51.933Z","mtime":"2019-09-25T08:00:51.934Z","ctime":"2019-09-25T08:00:51.934Z","birthtime":"2019-09-25T08:00:51.933Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 16:03:26,340 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693986062631.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29117997,"size":97618,"blocks":192,"atimeMs":1569398606278.3677,"mtimeMs":1569398606279.3174,"ctimeMs":1569398606279.3174,"birthtimeMs":1569398606278.3677,"atime":"2019-09-25T08:03:26.278Z","mtime":"2019-09-25T08:03:26.279Z","ctime":"2019-09-25T08:03:26.279Z","birthtime":"2019-09-25T08:03:26.278Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 16:03:42,552 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693986224901.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29118114,"size":97618,"blocks":192,"atimeMs":1569398622490.3877,"mtimeMs":1569398622498.2732,"ctimeMs":1569398622498.2732,"birthtimeMs":1569398622490.3877,"atime":"2019-09-25T08:03:42.490Z","mtime":"2019-09-25T08:03:42.498Z","ctime":"2019-09-25T08:03:42.498Z","birthtime":"2019-09-25T08:03:42.490Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 18:21:20,387 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 7212977ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 19:10:43,005 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 381962ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 19:24:33,304 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694106732011.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29124066,"size":97618,"blocks":192,"atimeMs":1569410673203.057,"mtimeMs":1569410673203.537,"ctimeMs":1569410673203.537,"birthtimeMs":1569410673203.057,"atime":"2019-09-25T11:24:33.203Z","mtime":"2019-09-25T11:24:33.204Z","ctime":"2019-09-25T11:24:33.204Z","birthtime":"2019-09-25T11:24:33.203Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 19:24:59,002 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694106989071.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29124272,"size":97618,"blocks":192,"atimeMs":1569410698907.5417,"mtimeMs":1569410698913.2732,"ctimeMs":1569410698913.2732,"birthtimeMs":1569410698907.5417,"atime":"2019-09-25T11:24:58.908Z","mtime":"2019-09-25T11:24:58.913Z","ctime":"2019-09-25T11:24:58.913Z","birthtime":"2019-09-25T11:24:58.908Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 19:35:16,736 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694113166571.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29128450,"size":97618,"blocks":192,"atimeMs":1569411316663.688,"mtimeMs":1569411316667.497,"ctimeMs":1569411316667.497,"birthtimeMs":1569411316663.688,"atime":"2019-09-25T11:35:16.664Z","mtime":"2019-09-25T11:35:16.667Z","ctime":"2019-09-25T11:35:16.667Z","birthtime":"2019-09-25T11:35:16.664Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 19:48:01,333 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694120812611.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29132093,"size":97618,"blocks":192,"atimeMs":1569412081263.183,"mtimeMs":1569412081264.6978,"ctimeMs":1569412081264.6978,"birthtimeMs":1569412081263.183,"atime":"2019-09-25T11:48:01.263Z","mtime":"2019-09-25T11:48:01.265Z","ctime":"2019-09-25T11:48:01.265Z","birthtime":"2019-09-25T11:48:01.263Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 20:13:09,619 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694135895191.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29139607,"size":97618,"blocks":192,"atimeMs":1569413589520.2466,"mtimeMs":1569413589520.9746,"ctimeMs":1569413589520.9746,"birthtimeMs":1569413589520.2466,"atime":"2019-09-25T12:13:09.520Z","mtime":"2019-09-25T12:13:09.521Z","ctime":"2019-09-25T12:13:09.521Z","birthtime":"2019-09-25T12:13:09.520Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 20:15:43,684 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694137435431.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29140938,"size":97618,"blocks":192,"atimeMs":1569413743571.2917,"mtimeMs":1569413743572.9185,"ctimeMs":1569413743572.9185,"birthtimeMs":1569413743571.2917,"atime":"2019-09-25T12:15:43.571Z","mtime":"2019-09-25T12:15:43.573Z","ctime":"2019-09-25T12:15:43.573Z","birthtime":"2019-09-25T12:15:43.571Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-25 20:57:00,946 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576386ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 21:07:18,334 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577370ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 21:17:34,214 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 575860ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 21:27:31,096 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576867ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 21:37:47,978 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576841ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 21:48:04,887 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576889ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 21:57:29,730 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 524786ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 23:59:40,568 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569427180470屏幕快照 2019-09-19 下午7.22.05.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29197439,"size":130723,"blocks":256,"atimeMs":1569427180473.4343,"mtimeMs":1569427180482.312,"ctimeMs":1569427180482.312,"birthtimeMs":1569427180473.4343,"atime":"2019-09-25T15:59:40.473Z","mtime":"2019-09-25T15:59:40.482Z","ctime":"2019-09-25T15:59:40.482Z","birthtime":"2019-09-25T15:59:40.473Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 00:00:22,196 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569427180470屏幕快照 2019-09-19 下午7.22.05.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,197 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693943462361.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,200 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693943707021.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,205 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693943801591.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,244 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693980832161.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,247 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693980940031.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,248 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693981042631.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,250 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693983935771.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,296 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693984105191.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,298 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693984519331.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,298 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693986062631.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,299 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15693986224901.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,349 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694106989071.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,351 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694106732011.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,357 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694113166571.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,397 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694120812611.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,397 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694135895191.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:22,398 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/15694137435431.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-26 00:00:30,245 WARN 20544 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js change
+2019-09-26 00:00:29,989 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29053887,"size":569,"blocks":8,"atimeMs":1569427229975.5542,"mtimeMs":1569427229976.2908,"ctimeMs":1569427229976.2908,"birthtimeMs":1569379361098.3896,"atime":"2019-09-25T16:00:29.976Z","mtime":"2019-09-25T16:00:29.976Z","ctime":"2019-09-25T16:00:29.976Z","birthtime":"2019-09-25T02:42:41.098Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 00:00:30,041 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29053887,"size":569,"blocks":8,"atimeMs":1569427229975.5542,"mtimeMs":1569427229976.2908,"ctimeMs":1569427229976.2908,"birthtimeMs":1569379361098.3896,"atime":"2019-09-25T16:00:29.976Z","mtime":"2019-09-25T16:00:29.976Z","ctime":"2019-09-25T16:00:29.976Z","birthtime":"2019-09-25T02:42:41.098Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 00:01:17,245 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569427277182屏幕快照 2019-09-19 下午7.22.05.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29198468,"size":130723,"blocks":256,"atimeMs":1569427277183.5078,"mtimeMs":1569427277183.824,"ctimeMs":1569427277183.824,"birthtimeMs":1569427277183.5078,"atime":"2019-09-25T16:01:17.184Z","mtime":"2019-09-25T16:01:17.184Z","ctime":"2019-09-25T16:01:17.184Z","birthtime":"2019-09-25T16:01:17.184Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 00:07:29,135 WARN 20544 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js change
+2019-09-26 00:07:28,928 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":1181,"blocks":8,"atimeMs":1569427648850.4282,"mtimeMs":1569427648851.615,"ctimeMs":1569427648851.615,"birthtimeMs":1569140178901.3625,"atime":"2019-09-25T16:07:28.850Z","mtime":"2019-09-25T16:07:28.852Z","ctime":"2019-09-25T16:07:28.852Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 00:07:39,611 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569427659587b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29201919,"size":130723,"blocks":256,"atimeMs":1569427659598.121,"mtimeMs":1569427659599.073,"ctimeMs":1569427659599.073,"birthtimeMs":1569427659598.121,"atime":"2019-09-25T16:07:39.598Z","mtime":"2019-09-25T16:07:39.599Z","ctime":"2019-09-25T16:07:39.599Z","birthtime":"2019-09-25T16:07:39.598Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 03:18:35,209 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 7208635ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 05:49:12,889 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 7217067ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 06:23:48,259 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 294763ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 06:39:41,136 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 912849ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 06:55:33,580 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 912414ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 07:07:44,443 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 710686ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 07:20:17,076 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 712538ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 07:30:33,895 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576792ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 07:40:50,787 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576863ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 07:51:08,435 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577617ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 08:01:25,299 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576844ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 08:11:42,187 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576868ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 08:21:58,306 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576052ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 08:32:15,735 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577396ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 08:42:31,949 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576181ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 08:45:07,364 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 115397ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 09:47:48,536 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 1700470ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 09:47:50,197 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569462470127d344f15545bec39b6e339d1ab12b5409","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29208411,"size":4259672,"blocks":8320,"atimeMs":1569462470129.4016,"mtimeMs":1569462470193.2346,"ctimeMs":1569462470193.2346,"birthtimeMs":1569462470129.4016,"atime":"2019-09-26T01:47:50.129Z","mtime":"2019-09-26T01:47:50.193Z","ctime":"2019-09-26T01:47:50.193Z","birthtime":"2019-09-26T01:47:50.129Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 09:47:50,240 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569462470127d344f15545bec39b6e339d1ab12b5409","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29208411,"size":4731509,"blocks":9248,"atimeMs":1569462470129.4016,"mtimeMs":1569462470203.3413,"ctimeMs":1569462470203.3413,"birthtimeMs":1569462470129.4016,"atime":"2019-09-26T01:47:50.129Z","mtime":"2019-09-26T01:47:50.203Z","ctime":"2019-09-26T01:47:50.203Z","birthtime":"2019-09-26T01:47:50.129Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 09:50:06,471 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/public/cdn/iview.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29028571,"size":1187584,"blocks":4224,"atimeMs":1569462606351.167,"mtimeMs":1569462606358.4014,"ctimeMs":1569462606358.4014,"birthtimeMs":1569339870743.8542,"atime":"2019-09-26T01:50:06.351Z","mtime":"2019-09-26T01:50:06.358Z","ctime":"2019-09-26T01:50:06.358Z","birthtime":"2019-09-24T15:44:30.744Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:05:20,974 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467120885b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29231972,"size":130723,"blocks":256,"atimeMs":1569467120886.4092,"mtimeMs":1569467120893.8298,"ctimeMs":1569467120893.8298,"birthtimeMs":1569467120886.4092,"atime":"2019-09-26T03:05:20.886Z","mtime":"2019-09-26T03:05:20.894Z","ctime":"2019-09-26T03:05:20.894Z","birthtime":"2019-09-26T03:05:20.886Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:10:07,260 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467407191b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29234378,"size":130723,"blocks":256,"atimeMs":1569467407194.3108,"mtimeMs":1569467407196.951,"ctimeMs":1569467407196.951,"birthtimeMs":1569467407194.3108,"atime":"2019-09-26T03:10:07.194Z","mtime":"2019-09-26T03:10:07.197Z","ctime":"2019-09-26T03:10:07.197Z","birthtime":"2019-09-26T03:10:07.194Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:13:03,548 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467583442b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29236273,"size":130723,"blocks":256,"atimeMs":1569467583444.8623,"mtimeMs":1569467583446.4976,"ctimeMs":1569467583446.4976,"birthtimeMs":1569467583444.8623,"atime":"2019-09-26T03:13:03.445Z","mtime":"2019-09-26T03:13:03.446Z","ctime":"2019-09-26T03:13:03.446Z","birthtime":"2019-09-26T03:13:03.445Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:13:43,066 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467622975b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29236725,"size":130723,"blocks":256,"atimeMs":1569467622975.969,"mtimeMs":1569467622976.8115,"ctimeMs":1569467622976.8115,"birthtimeMs":1569467622975.969,"atime":"2019-09-26T03:13:42.976Z","mtime":"2019-09-26T03:13:42.977Z","ctime":"2019-09-26T03:13:42.977Z","birthtime":"2019-09-26T03:13:42.976Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:14:07,089 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467647025b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29237003,"size":130723,"blocks":256,"atimeMs":1569467647025.9229,"mtimeMs":1569467647026.756,"ctimeMs":1569467647026.756,"birthtimeMs":1569467647025.9229,"atime":"2019-09-26T03:14:07.026Z","mtime":"2019-09-26T03:14:07.027Z","ctime":"2019-09-26T03:14:07.027Z","birthtime":"2019-09-26T03:14:07.026Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:14:23,833 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467663750b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29237193,"size":130723,"blocks":256,"atimeMs":1569467663751.281,"mtimeMs":1569467663751.721,"ctimeMs":1569467663751.721,"birthtimeMs":1569467663751.281,"atime":"2019-09-26T03:14:23.751Z","mtime":"2019-09-26T03:14:23.752Z","ctime":"2019-09-26T03:14:23.752Z","birthtime":"2019-09-26T03:14:23.751Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:14:49,235 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467689171b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29237451,"size":130723,"blocks":256,"atimeMs":1569467689172.601,"mtimeMs":1569467689173.0635,"ctimeMs":1569467689173.0635,"birthtimeMs":1569467689172.601,"atime":"2019-09-26T03:14:49.173Z","mtime":"2019-09-26T03:14:49.173Z","ctime":"2019-09-26T03:14:49.173Z","birthtime":"2019-09-26T03:14:49.173Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-26 11:15:20,436 INFO 20544 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/img/1569467720323b15c84e9401c61430e2a170790e4bfab","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":29237802,"size":130723,"blocks":256,"atimeMs":1569467720324.493,"mtimeMs":1569467720333.208,"ctimeMs":1569467720333.208,"birthtimeMs":1569467720324.493,"atime":"2019-09-26T03:15:20.324Z","mtime":"2019-09-26T03:15:20.333Z","ctime":"2019-09-26T03:15:20.333Z","birthtime":"2019-09-26T03:15:20.324Z"},"remove":false,"isDirectory":false,"isFile":true}

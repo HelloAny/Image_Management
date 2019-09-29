@@ -1,0 +1,15 @@
+2019-09-27 23:50:32,102 ERROR 45235 [-/::1/-/14ms POST /uploadImage] nodejs.ReferenceError: file is not defined
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:23:45)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 45235
+hostname: aiyiningdeMacBook-Pro.local
+

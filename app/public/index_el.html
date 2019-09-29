@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <!-- 引入样式 -->
+  <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+  <!-- 引入组件库 -->
+  <script src="https://cdn.bootcss.com/vue/2.6.10/vue.js"></script>
+  <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+
+</head>
+
+<body>
+  <div id="app">
+    <el-upload class="upload-demo" :before-upload="beforeAvatarUpload" :on-success="handleAvatarSuccess" drag
+      action="http://localhost:7001/uploadImage" multiple>
+      <i class="el-icon-upload"></i>
+      <div class="el-upload__text">将文件拖到此处，或<em>点击上传</em></div>
+      <!-- <div class="el-upload__tip" slot="tip">只能上传jpg/png文件，且不超过2MB</div> -->
+    </el-upload>
+
+    <template>
+      <el-table :data="tableData" border style="width: 1000px">
+        <el-table-column prop="images" label="图片" width="120">
+          <template slot-scope="scope">
+            <el-popover trigger="hover" placement="right">
+              <img :src="scope.row.images" style="max-width:1000px;max-height:500px ">
+              <img slot="reference" :src="scope.row.images" alt="" style="height: 100px;width: 100px">
+            </el-popover>
+          </template>
+        </el-table-column>
+        <el-table-column prop="name" label="文件名" width="180">
+          <template slot-scope="scope">
+            <div style="text-align: center">{{scope.row.name}}</div>
+            <el-button size="mini" @click="handleEdit(scope.$index, scope.row.name)">编辑</el-button>
+            <el-button size="mini" type="danger" @click="handleDelete(scope.$index, scope.row.name)">删除</el-button>
+          </template>
+        </el-table-column>
+        <el-table-column prop="tag" label="链接">
+          <template scope="scope">
+            <span>{{scope.row.tag}}</span>
+            <el-tooltip class="item" effect="dark" :content="scope.row.tag" placement="top">
+              <el-button type="text" @click="copyText(scope.row.tag)">复制</el-button>
+          </template>
+        </el-table-column>
+      </el-table>
+    </template>
+
+    <el-dialog title="修改文件名" :visible.sync="dialogVisible" width="30%">
+      <el-row :gutter="20">
+        <el-col :span="16">
+          <el-input maxlength="80%" v-model="fileName" placeholder="请输入内容"></el-input>
+        </el-col>
+        <el-col :span="8">
+          <el-tag type="info">{{fileSuffix}}</el-tag>
+        </el-col>
+      </el-row>
+      <span slot="footer" class="dialog-footer">
+        <el-button @click="cancelChange">取 消</el-button>
+        <el-button type="primary" @click="postChangeName">确 定</el-button>
+      </span>
+    </el-dialog>
+  </div>
+  <script>
+    new Vue({
+      el: '#app',
+      data() {
+        return {
+          //修改文件名控制参数
+          dialogVisible: false,
+          //判断首次打开窗口参数
+          getStates: false,
+          //文件名
+          fileName: '',
+          //文件类型
+          fileSuffix: '',
+          //回调文件参数
+          fileData: '',
+          //获取某行
+          index: '',
+          //表格数据
+          tableData: [],
+        };
+      },
+      methods: {
+        //修改文件名
+        handleEdit(index, name) {
+          //获取表格中的文件名和文件类型
+          this.fileName = name;
+          this.fileSuffix = null;
+          //获得某行的参数回调
+          this.fileData = this.tableData[index]
+          this.index = index
+          //修改窗口参数
+          this.getStates = true
+          //打开修改窗口
+          this.dialogVisible = true
+        },
+        //关闭窗口回调
+        cancelChange() {
+          //关闭窗口
+          this.dialogVisible = true
+          //修改窗口参数
+          this.getStates = false
+        },
+        //点击复制
+        copyText(row) {
+          // console.log(row); //每一行的数据
+          Url2 = row; //每一行的某个值，如选中的当前行的url
+          var oInput = document.createElement('input'); //创建一个隐藏input（重要！）
+          oInput.value = Url2; //赋值
+          // console.log(oInput.value);
+          document.body.appendChild(oInput);
+          oInput.select(); // 选择对象
+          document.execCommand("Copy"); // 执行浏览器复制命令
+          oInput.className = 'oInput';
+          oInput.style.display = 'none';
+          this.$message('复制成功')
+        },
+        //上传图片成功的回调
+        handleAvatarSuccess(response, file, fileList) {
+          //获取文件名
+          const filedata = this.getName(file.name)
+          this.fileName = filedata.name
+          this.fileSuffix = filedata.suffix
+          //获得参数回调
+          this.fileData = response
+          //打开修改窗口
+          this.dialogVisible = true
+        },
+        //修改文件名——————连接到服务器
+        postChangeName(fileSuffix) {
+          var httpRequest = new XMLHttpRequest(); //第一步：创建需要的对象
+          httpRequest.open('POST', 'http://localhost:7001/changeImageName',
+            true); //第二步：打开连接
+          httpRequest.setRequestHeader("Content-type",
+            "application/x-www-form-urlencoded"); //设置请求头
+          var name = this.fileName
+          var data = this.fileData.filename
+          // console.log(name, data)
+          httpRequest.send(`name=${name}&data=${data}`); //发送请求 将情头体写在send中
+          /**
+           * 获取数据后的处理程序
+           */
+          var _this = this;
+          httpRequest.onreadystatechange = function () { //请求后的回调接口，可将请求成功后要执行的程序写在其中
+            if (httpRequest.readyState == 4 && httpRequest.status ==
+              200) { //验证请求是否发送成功
+              // var json = httpRequest.responseText; //获取到服务端返回的数据
+              // if (json == 'false') {
+              //   alert('修改失败')
+              // }
+              //判断是否首次修改文件名
+              if (_this.getStates == true) {
+                //首次修改文件名
+                _this.tableData[_this.index].name = name
+                console.log(_this.tableData[_this.index].name)
+                _this.index = ''
+                //关闭窗口
+                _this.getStates = false
+              } else {
+                const filedata = {
+                  images: _this.fileData.path,
+                  name: name,
+                  tag: _this.fileData.tag,
+                  filename: _this.fileData.filename
+                }
+                //将数据放入表格
+                _this.tableData.unshift(filedata)
+              }
+
+            }
+          };
+          //关闭窗口
+          this.dialogVisible = false
+        },
+        //获取文件名和文件格式
+        getName(filename) {
+          //文件名转化为数组
+          let filenameArr = filename.split('')
+          //定义新数组
+          let fileArr = [];
+          var file = {
+            name: String,
+            suffix: String
+          };
+          //遍历文件名数组
+          for (let index = filenameArr.length - 1, order = 0; index >= 0; index--, order++) {
+            fileArr[order] = filenameArr[index]
+            if (filenameArr[index] == '.') {
+              //获取文件格式
+              file.suffix = fileArr.reverse().join('');
+              //获取文件名
+              filenameArr.splice(filenameArr.length - fileArr.length, fileArr.length)
+              file.name = filenameArr.join('')
+              //退出遍历
+              break;
+            }
+          }
+          return file;
+        },
+        //规定文件大小
+        beforeAvatarUpload(file) {
+          // const isJPG = file.type === 'image/jpeg';
+          const isLt2M = file.size / 1024 / 1024 < 2;
+          // if (!isJPG) {
+          //   this.$message.error('上传头像图片只能是 JPG 格式!');
+          // }
+          if (!isLt2M) {
+            this.$message.error('上传头像图片大小不能超过 2MB!');
+          }
+          // return isJPG && isLt2M && isPNG;
+          return isLt2M;
+        },
+        //获取表单
+        getFileList() {
+          var httpRequest = new XMLHttpRequest(); //第一步：创建需要的对象
+          httpRequest.open('GET', 'http://localhost:7001/getImage',
+            true); //第二步：打开连接
+          httpRequest.setRequestHeader("Content-type",
+            "application/x-www-form-urlencoded"); //设置请求头
+          httpRequest.send(); //发送请求 将情头体写在send中
+          /**
+           * 获取数据后的处理程序
+           */
+          var _this = this;
+          httpRequest.onreadystatechange = function () { //请求后的回调接口，可将请求成功后要执行的程序写在其中
+            if (httpRequest.readyState == 4 && httpRequest.status ==
+              200) { //验证请求是否发送成功
+              var json = httpRequest.responseText; //获取到服务端返回的数据
+              // if (!!json) {
+              //   alert('获取失败')
+              // }
+              //将获取的参数转化为数组
+              var json = JSON.parse(json)
+              //遍历数据到本地数组
+              for (let index in json) {
+                let data = {
+                  images: json[index].images,
+                  name: json[index].name,
+                  tag: json[index].tag,
+                  filename: json[index].filename
+                }
+                //将数组放入列表
+                _this.tableData.unshift(data)
+              }
+            };
+          }
+        },
+        async handleDelete(index, item) {
+          this.$confirm('确认删除？')
+            .then(_ => {
+              var httpRequest = new XMLHttpRequest(); //第一步：创建需要的对象
+              httpRequest.open('POST', 'http://localhost:7001/deleteImage',
+                true); //第二步：打开连接
+              httpRequest.setRequestHeader("Content-type",
+                "application/x-www-form-urlencoded"); //设置请求头
+              const file = this.tableData[index].filename
+              console.log('filename', file)
+              httpRequest.send(`filename=${file}`); //发送请求 将情头体写在send中
+              /**
+               * 获取数据后的处理程序
+               */
+              var _this = this;
+              httpRequest.onreadystatechange = function () { //请求后的回调接口，可将请求成功后要执行的程序写在其中
+                if (httpRequest.readyState == 4 && httpRequest.status ==
+                  200) { //验证请求是否发送成功
+                  var json = httpRequest.responseText; //获取到服务端返回的数据
+                  // if (!!json) {
+                  // alert('获取失败')
+                  // }
+                  //将获取的参数转化为数组
+                  _this.tableData.splice(index, 1)
+                };
+              }
+            })
+            .catch(_ => {});
+
+        }
+      },
+      mounted() {
+        //刷新加载获取列表
+        this.getFileList();
+      }
+    });
+  </script>
+  </script>
+</body>
+
+</html>

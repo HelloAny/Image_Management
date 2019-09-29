@@ -1,0 +1,1411 @@
+2019-08-13 00:00:01,049 INFO 5907 [egg-logrotator] agent logger reload: got log-reload message
+2019-08-13 02:17:17,259 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 560025ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 02:27:34,344 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577063ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 02:48:07,347 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576088ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 02:58:05,005 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577641ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 03:18:39,237 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577093ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 03:28:55,329 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576067ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 03:38:52,014 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576669ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 03:49:09,117 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577091ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 03:59:26,216 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 04:09:22,311 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576083ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 04:19:39,426 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577101ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 04:29:56,508 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577065ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 04:39:53,606 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577081ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 04:50:09,706 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576087ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 05:00:26,809 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 05:10:25,006 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 578180ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 05:20:41,100 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 05:30:58,208 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577094ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 05:41:15,308 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577075ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 05:51:12,400 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577072ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 06:01:28,498 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576085ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 06:11:45,614 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577097ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 06:21:42,695 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577066ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 06:31:58,785 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 06:42:15,589 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576786ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 06:52:12,684 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577081ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 07:02:29,779 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577074ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 07:12:45,885 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576085ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 07:22:44,006 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 578105ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 07:33:01,108 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577074ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 07:43:17,108 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 575986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 07:53:34,223 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577090ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 08:13:47,434 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576092ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 08:24:04,552 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577096ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 08:34:01,647 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577078ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 08:44:17,750 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576087ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 08:54:34,849 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 09:04:31,951 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577083ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 09:14:48,052 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 09:25:05,151 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 09:35:03,007 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577840ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 09:45:19,118 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576088ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 09:55:36,210 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577081ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 10:05:53,319 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577090ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 10:15:04,417 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 531086ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 11:24:41,536 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 575940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 11:34:38,618 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577069ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 11:44:54,718 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576082ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 11:55:11,819 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577078ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 12:05:08,912 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577078ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 12:15:25,012 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576090ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 12:25:42,106 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577077ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 12:35:39,205 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 12:45:55,315 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576096ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 12:56:12,227 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576892ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 13:06:29,318 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577044ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 13:16:26,407 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577069ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 13:26:42,487 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576058ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 13:36:59,584 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 13:46:56,686 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577083ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 13:57:13,778 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577075ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 14:07:29,875 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576086ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 14:17:27,005 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577112ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 14:27:44,084 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577056ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 14:38:00,193 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576089ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 14:48:17,286 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577055ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 14:58:14,377 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577073ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 15:08:30,477 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576092ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 15:18:47,582 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577087ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 15:28:44,674 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577080ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 15:39:00,759 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576081ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 15:49:17,848 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577069ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 15:59:14,776 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576910ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 16:09:30,879 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576085ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 16:19:47,966 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577063ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 16:29:46,004 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 578017ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 16:40:03,102 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577078ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 17:00:36,292 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577082ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 17:04:20,385 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 204076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 17:27:35,387 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 17:27:35,181 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":217,"blocks":8,"atimeMs":1565688455065.8416,"mtimeMs":1565688455067.8816,"ctimeMs":1565688455067.8816,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T09:27:35.066Z","mtime":"2019-08-13T09:27:35.068Z","ctime":"2019-08-13T09:27:35.068Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 17:27:58,698 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":214,"blocks":8,"atimeMs":1565688478586.1038,"mtimeMs":1565688478586.7913,"ctimeMs":1565688478586.7913,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T09:27:58.586Z","mtime":"2019-08-13T09:27:58.587Z","ctime":"2019-08-13T09:27:58.587Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 17:27:58,902 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 17:28:12,466 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 17:28:12,260 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":220,"blocks":8,"atimeMs":1565688492248.6255,"mtimeMs":1565688492249.128,"ctimeMs":1565688492249.128,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T09:28:12.249Z","mtime":"2019-08-13T09:28:12.249Z","ctime":"2019-08-13T09:28:12.249Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 17:28:15,819 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":221,"blocks":8,"atimeMs":1565688495807.7449,"mtimeMs":1565688495808.378,"ctimeMs":1565688495808.378,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T09:28:15.808Z","mtime":"2019-08-13T09:28:15.808Z","ctime":"2019-08-13T09:28:15.808Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 17:28:16,022 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 17:28:19,237 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 17:28:19,032 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":225,"blocks":8,"atimeMs":1565688499020.5176,"mtimeMs":1565688499020.9304,"ctimeMs":1565688499020.9304,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T09:28:19.021Z","mtime":"2019-08-13T09:28:19.021Z","ctime":"2019-08-13T09:28:19.021Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 17:28:23,748 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":226,"blocks":8,"atimeMs":1565688503736.0112,"mtimeMs":1565688503736.539,"ctimeMs":1565688503736.539,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T09:28:23.736Z","mtime":"2019-08-13T09:28:23.737Z","ctime":"2019-08-13T09:28:23.737Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 17:28:23,953 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:11:50,093 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:11:49,886 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":214,"blocks":8,"atimeMs":1565694709770.7305,"mtimeMs":1565694709772.9285,"ctimeMs":1565694709772.9285,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:11:49.771Z","mtime":"2019-08-13T11:11:49.773Z","ctime":"2019-08-13T11:11:49.773Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:11:51,905 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:11:51,700 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":728,"blocks":8,"atimeMs":1565694711694.638,"mtimeMs":1565694711688.8547,"ctimeMs":1565694711688.8547,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:11:51.695Z","mtime":"2019-08-13T11:11:51.689Z","ctime":"2019-08-13T11:11:51.689Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:11:56,644 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":731,"blocks":8,"atimeMs":1565694716634.1587,"mtimeMs":1565694716634.5815,"ctimeMs":1565694716634.5815,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:11:56.634Z","mtime":"2019-08-13T11:11:56.635Z","ctime":"2019-08-13T11:11:56.635Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:11:56,848 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:12:16,446 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:12:16,240 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":303,"blocks":8,"atimeMs":1565694736177.0388,"mtimeMs":1565694736178.189,"ctimeMs":1565694736178.189,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:12:16.177Z","mtime":"2019-08-13T11:12:16.178Z","ctime":"2019-08-13T11:12:16.178Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:12:29,768 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:12:29,563 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":303,"blocks":8,"atimeMs":1565694749551.8354,"mtimeMs":1565694749552.3506,"ctimeMs":1565694749552.3506,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:12:29.552Z","mtime":"2019-08-13T11:12:29.552Z","ctime":"2019-08-13T11:12:29.552Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:12:31,788 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":304,"blocks":8,"atimeMs":1565694751776.1367,"mtimeMs":1565694751776.5293,"ctimeMs":1565694751776.5293,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:12:31.776Z","mtime":"2019-08-13T11:12:31.777Z","ctime":"2019-08-13T11:12:31.777Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:12:31,991 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:12:36,756 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:12:36,555 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":303,"blocks":8,"atimeMs":1565694756544.6348,"mtimeMs":1565694756545.054,"ctimeMs":1565694756545.054,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:12:36.545Z","mtime":"2019-08-13T11:12:36.545Z","ctime":"2019-08-13T11:12:36.545Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:12:57,582 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:12:57,378 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":303,"blocks":8,"atimeMs":1565694777098.9968,"mtimeMs":1565694777099.352,"ctimeMs":1565694777099.352,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:12:57.099Z","mtime":"2019-08-13T11:12:57.099Z","ctime":"2019-08-13T11:12:57.099Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:13:02,404 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:13:02,197 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":303,"blocks":8,"atimeMs":1565694782185.3604,"mtimeMs":1565694782186.187,"ctimeMs":1565694782186.187,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:13:02.185Z","mtime":"2019-08-13T11:13:02.186Z","ctime":"2019-08-13T11:13:02.186Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:29:17,264 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":236,"blocks":8,"atimeMs":1565695756986.5684,"mtimeMs":1565695756987.7068,"ctimeMs":1565695756987.7068,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:29:16.987Z","mtime":"2019-08-13T11:29:16.988Z","ctime":"2019-08-13T11:29:16.988Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:29:17,471 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:31:44,437 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:31:44,234 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":679,"blocks":8,"atimeMs":1565695904122.0474,"mtimeMs":1565695904122.611,"ctimeMs":1565695904122.611,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:31:44.122Z","mtime":"2019-08-13T11:31:44.123Z","ctime":"2019-08-13T11:31:44.123Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:31:47,787 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:31:47,585 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":664,"blocks":8,"atimeMs":1565695907573.5935,"mtimeMs":1565695907573.9998,"ctimeMs":1565695907573.9998,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:31:47.574Z","mtime":"2019-08-13T11:31:47.574Z","ctime":"2019-08-13T11:31:47.574Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:31:52,466 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:31:52,261 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":671,"blocks":8,"atimeMs":1565695912250.1047,"mtimeMs":1565695912250.5464,"ctimeMs":1565695912250.5464,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:31:52.250Z","mtime":"2019-08-13T11:31:52.251Z","ctime":"2019-08-13T11:31:52.251Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:31:56,848 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":655,"blocks":8,"atimeMs":1565695916836.8113,"mtimeMs":1565695916837.2456,"ctimeMs":1565695916837.2456,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:31:56.837Z","mtime":"2019-08-13T11:31:56.837Z","ctime":"2019-08-13T11:31:56.837Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:31:57,053 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:31:58,848 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":660,"blocks":8,"atimeMs":1565695918834.443,"mtimeMs":1565695918834.8884,"ctimeMs":1565695918834.8884,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:31:58.834Z","mtime":"2019-08-13T11:31:58.835Z","ctime":"2019-08-13T11:31:58.835Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:31:58,896 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":660,"blocks":8,"atimeMs":1565695918834.443,"mtimeMs":1565695918834.8884,"ctimeMs":1565695918834.8884,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:31:58.834Z","mtime":"2019-08-13T11:31:58.835Z","ctime":"2019-08-13T11:31:58.835Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:31:59,099 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:32:27,547 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:32:27,342 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":654,"blocks":8,"atimeMs":1565695947229.19,"mtimeMs":1565695947229.6567,"ctimeMs":1565695947229.6567,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:32:27.229Z","mtime":"2019-08-13T11:32:27.230Z","ctime":"2019-08-13T11:32:27.230Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:32:30,636 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:32:30,432 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":657,"blocks":8,"atimeMs":1565695950421.4033,"mtimeMs":1565695950421.8481,"ctimeMs":1565695950421.8481,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:32:30.421Z","mtime":"2019-08-13T11:32:30.422Z","ctime":"2019-08-13T11:32:30.422Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:32:32,631 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:32:32,426 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":664,"blocks":8,"atimeMs":1565695952415.471,"mtimeMs":1565695952415.882,"ctimeMs":1565695952415.882,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:32:32.415Z","mtime":"2019-08-13T11:32:32.416Z","ctime":"2019-08-13T11:32:32.416Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:32:41,908 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:32:41,705 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":652,"blocks":8,"atimeMs":1565695961693.305,"mtimeMs":1565695961693.648,"ctimeMs":1565695961693.648,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:32:41.693Z","mtime":"2019-08-13T11:32:41.694Z","ctime":"2019-08-13T11:32:41.694Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:35:13,571 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":303,"blocks":8,"atimeMs":1565696113456.7927,"mtimeMs":1565696113457.9011,"ctimeMs":1565696113457.9011,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:35:13.457Z","mtime":"2019-08-13T11:35:13.458Z","ctime":"2019-08-13T11:35:13.458Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:35:13,776 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:35:18,270 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:35:18,065 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":302,"blocks":8,"atimeMs":1565696118054.3662,"mtimeMs":1565696118056.3735,"ctimeMs":1565696118056.3735,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:35:18.054Z","mtime":"2019-08-13T11:35:18.056Z","ctime":"2019-08-13T11:35:18.056Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:35:22,150 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:35:21,942 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":290,"blocks":8,"atimeMs":1565696121930.9434,"mtimeMs":1565696121931.3215,"ctimeMs":1565696121931.3215,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:35:21.931Z","mtime":"2019-08-13T11:35:21.931Z","ctime":"2019-08-13T11:35:21.931Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:35:23,585 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":287,"blocks":8,"atimeMs":1565696123574.7473,"mtimeMs":1565696123575.1274,"ctimeMs":1565696123575.1274,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:35:23.575Z","mtime":"2019-08-13T11:35:23.575Z","ctime":"2019-08-13T11:35:23.575Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:35:23,791 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:35:25,408 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:35:25,204 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":289,"blocks":8,"atimeMs":1565696125192.505,"mtimeMs":1565696125192.8435,"ctimeMs":1565696125192.8435,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:35:25.193Z","mtime":"2019-08-13T11:35:25.193Z","ctime":"2019-08-13T11:35:25.193Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:35:27,154 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:35:26,950 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":288,"blocks":8,"atimeMs":1565696126936.0234,"mtimeMs":1565696126936.4673,"ctimeMs":1565696126936.4673,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:35:26.936Z","mtime":"2019-08-13T11:35:26.936Z","ctime":"2019-08-13T11:35:26.936Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:35:31,141 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 19:35:30,939 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":282,"blocks":8,"atimeMs":1565696130928.2947,"mtimeMs":1565696130928.677,"ctimeMs":1565696130928.677,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T11:35:30.928Z","mtime":"2019-08-13T11:35:30.929Z","ctime":"2019-08-13T11:35:30.929Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:36:44,186 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:36:43,981 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":652,"blocks":8,"atimeMs":1565696203895.0386,"mtimeMs":1565696203895.4136,"ctimeMs":1565696203895.4136,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:36:43.895Z","mtime":"2019-08-13T11:36:43.895Z","ctime":"2019-08-13T11:36:43.895Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:36:50,439 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:36:50,239 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":563,"blocks":8,"atimeMs":1565696210227.5764,"mtimeMs":1565696210229.248,"ctimeMs":1565696210229.248,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:36:50.228Z","mtime":"2019-08-13T11:36:50.229Z","ctime":"2019-08-13T11:36:50.229Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:36:53,886 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":552,"blocks":8,"atimeMs":1565696213874.7734,"mtimeMs":1565696213875.2188,"ctimeMs":1565696213875.2188,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:36:53.875Z","mtime":"2019-08-13T11:36:53.875Z","ctime":"2019-08-13T11:36:53.875Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:36:54,090 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:36:56,671 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:36:56,465 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":549,"blocks":8,"atimeMs":1565696216453.1177,"mtimeMs":1565696216453.5408,"ctimeMs":1565696216453.5408,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:36:56.453Z","mtime":"2019-08-13T11:36:56.454Z","ctime":"2019-08-13T11:36:56.454Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:37:02,923 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":552,"blocks":8,"atimeMs":1565696222911.5747,"mtimeMs":1565696222911.9233,"ctimeMs":1565696222911.9233,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:37:02.912Z","mtime":"2019-08-13T11:37:02.912Z","ctime":"2019-08-13T11:37:02.912Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:37:03,128 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:37:23,888 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":532,"blocks":8,"atimeMs":1565696243826.3774,"mtimeMs":1565696243826.6191,"ctimeMs":1565696243826.6191,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:37:23.826Z","mtime":"2019-08-13T11:37:23.827Z","ctime":"2019-08-13T11:37:23.827Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:37:24,090 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:37:50,124 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:37:49,920 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":552,"blocks":8,"atimeMs":1565696269809.1797,"mtimeMs":1565696269809.7932,"ctimeMs":1565696269809.7932,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:37:49.809Z","mtime":"2019-08-13T11:37:49.810Z","ctime":"2019-08-13T11:37:49.810Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:38:12,167 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":551,"blocks":8,"atimeMs":1565696292092.666,"mtimeMs":1565696292092.9858,"ctimeMs":1565696292092.9858,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:38:12.093Z","mtime":"2019-08-13T11:38:12.093Z","ctime":"2019-08-13T11:38:12.093Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:38:12,371 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:38:15,782 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:38:15,580 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":555,"blocks":8,"atimeMs":1565696295568.298,"mtimeMs":1565696295568.7744,"ctimeMs":1565696295568.7744,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:38:15.568Z","mtime":"2019-08-13T11:38:15.569Z","ctime":"2019-08-13T11:38:15.569Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:38:16,937 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:38:16,734 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":555,"blocks":8,"atimeMs":1565696296722.5457,"mtimeMs":1565696296722.8267,"ctimeMs":1565696296722.8267,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:38:16.723Z","mtime":"2019-08-13T11:38:16.723Z","ctime":"2019-08-13T11:38:16.723Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:38:37,507 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:38:37,302 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":552,"blocks":8,"atimeMs":1565696317223.9202,"mtimeMs":1565696317224.2854,"ctimeMs":1565696317224.2854,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:38:37.224Z","mtime":"2019-08-13T11:38:37.224Z","ctime":"2019-08-13T11:38:37.224Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:32,946 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:32,742 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":569,"blocks":8,"atimeMs":1565696432637.825,"mtimeMs":1565696432638.9968,"ctimeMs":1565696432638.9968,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:32.638Z","mtime":"2019-08-13T11:40:32.639Z","ctime":"2019-08-13T11:40:32.639Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:34,099 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:33,895 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":570,"blocks":8,"atimeMs":1565696433882.7568,"mtimeMs":1565696433883.7378,"ctimeMs":1565696433883.7378,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:33.883Z","mtime":"2019-08-13T11:40:33.884Z","ctime":"2019-08-13T11:40:33.884Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:38,314 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:38,110 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":570,"blocks":8,"atimeMs":1565696438098.7053,"mtimeMs":1565696438099.0984,"ctimeMs":1565696438099.0984,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:38.099Z","mtime":"2019-08-13T11:40:38.099Z","ctime":"2019-08-13T11:40:38.099Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:45,700 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:45,494 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":574,"blocks":8,"atimeMs":1565696445483.2798,"mtimeMs":1565696445483.764,"ctimeMs":1565696445483.764,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:45.483Z","mtime":"2019-08-13T11:40:45.484Z","ctime":"2019-08-13T11:40:45.484Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:48,206 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:48,001 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":591,"blocks":8,"atimeMs":1565696447990.4548,"mtimeMs":1565696447990.8977,"ctimeMs":1565696447990.8977,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:47.990Z","mtime":"2019-08-13T11:40:47.991Z","ctime":"2019-08-13T11:40:47.991Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:52,362 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:52,107 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":595,"blocks":8,"atimeMs":1565696452104.9866,"mtimeMs":1565696452105.5723,"ctimeMs":1565696452105.5723,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:52.105Z","mtime":"2019-08-13T11:40:52.106Z","ctime":"2019-08-13T11:40:52.106Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:52,158 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":595,"blocks":8,"atimeMs":1565696452104.9866,"mtimeMs":1565696452105.5723,"ctimeMs":1565696452105.5723,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:52.105Z","mtime":"2019-08-13T11:40:52.106Z","ctime":"2019-08-13T11:40:52.106Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:54,292 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:54,091 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":597,"blocks":8,"atimeMs":1565696454080.6873,"mtimeMs":1565696454081.305,"ctimeMs":1565696454081.305,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:54.081Z","mtime":"2019-08-13T11:40:54.081Z","ctime":"2019-08-13T11:40:54.081Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:40:55,517 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:40:55,312 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":599,"blocks":8,"atimeMs":1565696455299.769,"mtimeMs":1565696455301.2947,"ctimeMs":1565696455301.2947,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:40:55.300Z","mtime":"2019-08-13T11:40:55.301Z","ctime":"2019-08-13T11:40:55.301Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:01,332 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:01,077 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":604,"blocks":8,"atimeMs":1565696461065.7717,"mtimeMs":1565696461066.3018,"ctimeMs":1565696461066.3018,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:01.066Z","mtime":"2019-08-13T11:41:01.066Z","ctime":"2019-08-13T11:41:01.066Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:01,127 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":604,"blocks":8,"atimeMs":1565696461065.7717,"mtimeMs":1565696461066.3018,"ctimeMs":1565696461066.3018,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:01.066Z","mtime":"2019-08-13T11:41:01.066Z","ctime":"2019-08-13T11:41:01.066Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:04,483 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:04,278 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":600,"blocks":8,"atimeMs":1565696464266.753,"mtimeMs":1565696464267.2563,"ctimeMs":1565696464267.2563,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:04.267Z","mtime":"2019-08-13T11:41:04.267Z","ctime":"2019-08-13T11:41:04.267Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:07,617 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:07,415 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":604,"blocks":8,"atimeMs":1565696467404.0066,"mtimeMs":1565696467404.513,"ctimeMs":1565696467404.513,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:07.404Z","mtime":"2019-08-13T11:41:07.405Z","ctime":"2019-08-13T11:41:07.405Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:10,566 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:10,362 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":617,"blocks":8,"atimeMs":1565696470350.1052,"mtimeMs":1565696470350.6082,"ctimeMs":1565696470350.6082,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:10.350Z","mtime":"2019-08-13T11:41:10.351Z","ctime":"2019-08-13T11:41:10.351Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:13,402 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:13,199 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":618,"blocks":8,"atimeMs":1565696473187.711,"mtimeMs":1565696473188.168,"ctimeMs":1565696473188.168,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:13.188Z","mtime":"2019-08-13T11:41:13.188Z","ctime":"2019-08-13T11:41:13.188Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:16,782 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:16,581 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":620,"blocks":8,"atimeMs":1565696476569.5234,"mtimeMs":1565696476570.0989,"ctimeMs":1565696476570.0989,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:16.570Z","mtime":"2019-08-13T11:41:16.570Z","ctime":"2019-08-13T11:41:16.570Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:21,367 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:21,162 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":625,"blocks":8,"atimeMs":1565696481151.1248,"mtimeMs":1565696481151.6235,"ctimeMs":1565696481151.6235,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:21.151Z","mtime":"2019-08-13T11:41:21.152Z","ctime":"2019-08-13T11:41:21.152Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:35,821 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:35,617 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":619,"blocks":8,"atimeMs":1565696495606.7593,"mtimeMs":1565696495607.2173,"ctimeMs":1565696495607.2173,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:35.607Z","mtime":"2019-08-13T11:41:35.607Z","ctime":"2019-08-13T11:41:35.607Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:38,106 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:37,903 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":625,"blocks":8,"atimeMs":1565696497892.2947,"mtimeMs":1565696497892.739,"ctimeMs":1565696497892.739,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:37.892Z","mtime":"2019-08-13T11:41:37.893Z","ctime":"2019-08-13T11:41:37.893Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:41:40,599 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:41:40,395 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":633,"blocks":8,"atimeMs":1565696500383.4114,"mtimeMs":1565696500383.734,"ctimeMs":1565696500383.734,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:41:40.383Z","mtime":"2019-08-13T11:41:40.384Z","ctime":"2019-08-13T11:41:40.384Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:42:01,623 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:42:01,418 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":634,"blocks":8,"atimeMs":1565696521351.5823,"mtimeMs":1565696521351.9858,"ctimeMs":1565696521351.9858,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:42:01.352Z","mtime":"2019-08-13T11:42:01.352Z","ctime":"2019-08-13T11:42:01.352Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:42:45,592 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:42:45,387 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":634,"blocks":8,"atimeMs":1565696565325.8696,"mtimeMs":1565696565326.288,"ctimeMs":1565696565326.288,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:42:45.326Z","mtime":"2019-08-13T11:42:45.326Z","ctime":"2019-08-13T11:42:45.326Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:42:48,505 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:42:48,302 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":635,"blocks":8,"atimeMs":1565696568292.1018,"mtimeMs":1565696568292.6274,"ctimeMs":1565696568292.6274,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:42:48.292Z","mtime":"2019-08-13T11:42:48.293Z","ctime":"2019-08-13T11:42:48.293Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:42:51,767 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:42:51,562 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":641,"blocks":8,"atimeMs":1565696571551.3909,"mtimeMs":1565696571551.9314,"ctimeMs":1565696571551.9314,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:42:51.551Z","mtime":"2019-08-13T11:42:51.552Z","ctime":"2019-08-13T11:42:51.552Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:42:52,805 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:42:52,551 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":646,"blocks":8,"atimeMs":1565696572540.9714,"mtimeMs":1565696572542.0134,"ctimeMs":1565696572542.0134,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:42:52.541Z","mtime":"2019-08-13T11:42:52.542Z","ctime":"2019-08-13T11:42:52.542Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:42:52,602 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":646,"blocks":8,"atimeMs":1565696572540.9714,"mtimeMs":1565696572542.0134,"ctimeMs":1565696572542.0134,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:42:52.541Z","mtime":"2019-08-13T11:42:52.542Z","ctime":"2019-08-13T11:42:52.542Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 19:43:12,765 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 19:43:12,563 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":615,"blocks":8,"atimeMs":1565696592450.936,"mtimeMs":1565696592451.2747,"ctimeMs":1565696592451.2747,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T11:43:12.451Z","mtime":"2019-08-13T11:43:12.451Z","ctime":"2019-08-13T11:43:12.451Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:31,878 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:31,672 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":609,"blocks":8,"atimeMs":1565697931585.3462,"mtimeMs":1565697931585.9927,"ctimeMs":1565697931585.9927,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:31.585Z","mtime":"2019-08-13T12:05:31.586Z","ctime":"2019-08-13T12:05:31.586Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:33,340 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:33,135 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":605,"blocks":8,"atimeMs":1565697933126.817,"mtimeMs":1565697933127.2192,"ctimeMs":1565697933127.2192,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:33.127Z","mtime":"2019-08-13T12:05:33.127Z","ctime":"2019-08-13T12:05:33.127Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:35,574 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":607,"blocks":8,"atimeMs":1565697935563.3276,"mtimeMs":1565697935563.9397,"ctimeMs":1565697935563.9397,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:35.563Z","mtime":"2019-08-13T12:05:35.564Z","ctime":"2019-08-13T12:05:35.564Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:35,827 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:35,624 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":607,"blocks":8,"atimeMs":1565697935563.3276,"mtimeMs":1565697935563.9397,"ctimeMs":1565697935563.9397,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:35.563Z","mtime":"2019-08-13T12:05:35.564Z","ctime":"2019-08-13T12:05:35.564Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:38,414 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:38,211 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":612,"blocks":8,"atimeMs":1565697938199.7385,"mtimeMs":1565697938200.3674,"ctimeMs":1565697938200.3674,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:38.200Z","mtime":"2019-08-13T12:05:38.200Z","ctime":"2019-08-13T12:05:38.200Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:41,620 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:41,414 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":620,"blocks":8,"atimeMs":1565697941402.864,"mtimeMs":1565697941403.2534,"ctimeMs":1565697941403.2534,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:41.403Z","mtime":"2019-08-13T12:05:41.403Z","ctime":"2019-08-13T12:05:41.403Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:47,176 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:46,971 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":615,"blocks":8,"atimeMs":1565697946960.3174,"mtimeMs":1565697946960.8154,"ctimeMs":1565697946960.8154,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:46.960Z","mtime":"2019-08-13T12:05:46.961Z","ctime":"2019-08-13T12:05:46.961Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:50,337 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:50,083 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":615,"blocks":8,"atimeMs":1565697950075.7695,"mtimeMs":1565697950076.3542,"ctimeMs":1565697950076.3542,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:50.076Z","mtime":"2019-08-13T12:05:50.076Z","ctime":"2019-08-13T12:05:50.076Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:50,133 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":615,"blocks":8,"atimeMs":1565697950075.7695,"mtimeMs":1565697950076.3542,"ctimeMs":1565697950076.3542,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:50.076Z","mtime":"2019-08-13T12:05:50.076Z","ctime":"2019-08-13T12:05:50.076Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:52,557 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:52,353 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":619,"blocks":8,"atimeMs":1565697952342.289,"mtimeMs":1565697952342.8213,"ctimeMs":1565697952342.8213,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:52.342Z","mtime":"2019-08-13T12:05:52.343Z","ctime":"2019-08-13T12:05:52.343Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:05:56,421 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:05:56,217 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":622,"blocks":8,"atimeMs":1565697956206.258,"mtimeMs":1565697956206.6782,"ctimeMs":1565697956206.6782,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:05:56.206Z","mtime":"2019-08-13T12:05:56.207Z","ctime":"2019-08-13T12:05:56.207Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:00,443 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:00,238 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":628,"blocks":8,"atimeMs":1565697960227.5,"mtimeMs":1565697960228.0889,"ctimeMs":1565697960228.0889,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:00.228Z","mtime":"2019-08-13T12:06:00.228Z","ctime":"2019-08-13T12:06:00.228Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:11,158 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:10,954 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":636,"blocks":8,"atimeMs":1565697970942.3428,"mtimeMs":1565697970942.9026,"ctimeMs":1565697970942.9026,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:10.942Z","mtime":"2019-08-13T12:06:10.943Z","ctime":"2019-08-13T12:06:10.943Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:13,642 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:13,437 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":640,"blocks":8,"atimeMs":1565697973426.1162,"mtimeMs":1565697973426.6582,"ctimeMs":1565697973426.6582,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:13.426Z","mtime":"2019-08-13T12:06:13.427Z","ctime":"2019-08-13T12:06:13.427Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:15,721 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":645,"blocks":8,"atimeMs":1565697975710.321,"mtimeMs":1565697975710.8584,"ctimeMs":1565697975710.8584,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:15.710Z","mtime":"2019-08-13T12:06:15.711Z","ctime":"2019-08-13T12:06:15.711Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:16,077 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:15,871 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":645,"blocks":8,"atimeMs":1565697975710.321,"mtimeMs":1565697975710.8584,"ctimeMs":1565697975710.8584,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:15.710Z","mtime":"2019-08-13T12:06:15.711Z","ctime":"2019-08-13T12:06:15.711Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:17,611 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:17,407 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":647,"blocks":8,"atimeMs":1565697977395.2356,"mtimeMs":1565697977395.808,"ctimeMs":1565697977395.808,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:17.395Z","mtime":"2019-08-13T12:06:17.396Z","ctime":"2019-08-13T12:06:17.396Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:20,609 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":653,"blocks":8,"atimeMs":1565697980597.918,"mtimeMs":1565697980598.3772,"ctimeMs":1565697980598.3772,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:20.598Z","mtime":"2019-08-13T12:06:20.598Z","ctime":"2019-08-13T12:06:20.598Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:20,814 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:22,666 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":657,"blocks":8,"atimeMs":1565697982655.1863,"mtimeMs":1565697982655.718,"ctimeMs":1565697982655.718,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:22.655Z","mtime":"2019-08-13T12:06:22.656Z","ctime":"2019-08-13T12:06:22.656Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:22,870 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:41,667 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":644,"blocks":8,"atimeMs":1565698001603.9143,"mtimeMs":1565698001606.0188,"ctimeMs":1565698001606.0188,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:41.604Z","mtime":"2019-08-13T12:06:41.606Z","ctime":"2019-08-13T12:06:41.606Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:41,870 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:52,394 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:52,190 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":649,"blocks":8,"atimeMs":1565698012179.1123,"mtimeMs":1565698012179.6409,"ctimeMs":1565698012179.6409,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:52.179Z","mtime":"2019-08-13T12:06:52.180Z","ctime":"2019-08-13T12:06:52.180Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:54,603 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:54,398 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":655,"blocks":8,"atimeMs":1565698014386.4358,"mtimeMs":1565698014387.021,"ctimeMs":1565698014387.021,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:54.386Z","mtime":"2019-08-13T12:06:54.387Z","ctime":"2019-08-13T12:06:54.387Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:57,416 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:06:57,213 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":661,"blocks":8,"atimeMs":1565698017200.6414,"mtimeMs":1565698017201.0908,"ctimeMs":1565698017201.0908,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:57.201Z","mtime":"2019-08-13T12:06:57.201Z","ctime":"2019-08-13T12:06:57.201Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:58,690 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":664,"blocks":8,"atimeMs":1565698018678.8584,"mtimeMs":1565698018679.506,"ctimeMs":1565698018679.506,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:06:58.679Z","mtime":"2019-08-13T12:06:58.680Z","ctime":"2019-08-13T12:06:58.680Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:06:58,893 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:01,264 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:01,058 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":667,"blocks":8,"atimeMs":1565698021047.191,"mtimeMs":1565698021047.7664,"ctimeMs":1565698021047.7664,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:01.047Z","mtime":"2019-08-13T12:07:01.048Z","ctime":"2019-08-13T12:07:01.048Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:03,726 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:03,525 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":675,"blocks":8,"atimeMs":1565698023512.147,"mtimeMs":1565698023512.8423,"ctimeMs":1565698023512.8423,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:03.512Z","mtime":"2019-08-13T12:07:03.513Z","ctime":"2019-08-13T12:07:03.513Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:06,197 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:05,993 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":676,"blocks":8,"atimeMs":1565698025982.3237,"mtimeMs":1565698025983.411,"ctimeMs":1565698025983.411,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:05.982Z","mtime":"2019-08-13T12:07:05.983Z","ctime":"2019-08-13T12:07:05.983Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:10,703 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:10,498 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":682,"blocks":8,"atimeMs":1565698030487.1406,"mtimeMs":1565698030487.6184,"ctimeMs":1565698030487.6184,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:10.487Z","mtime":"2019-08-13T12:07:10.488Z","ctime":"2019-08-13T12:07:10.488Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:23,869 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:23,664 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":672,"blocks":8,"atimeMs":1565698043652.2378,"mtimeMs":1565698043652.8274,"ctimeMs":1565698043652.8274,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:23.652Z","mtime":"2019-08-13T12:07:23.653Z","ctime":"2019-08-13T12:07:23.653Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:26,523 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:26,319 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":677,"blocks":8,"atimeMs":1565698046305.473,"mtimeMs":1565698046308.2627,"ctimeMs":1565698046308.2627,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:26.305Z","mtime":"2019-08-13T12:07:26.308Z","ctime":"2019-08-13T12:07:26.308Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:29,719 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:29,514 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":678,"blocks":8,"atimeMs":1565698049504.1008,"mtimeMs":1565698049504.6433,"ctimeMs":1565698049504.6433,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:29.504Z","mtime":"2019-08-13T12:07:29.505Z","ctime":"2019-08-13T12:07:29.505Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:38,829 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:38,626 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":688,"blocks":8,"atimeMs":1565698058614.6758,"mtimeMs":1565698058615.2239,"ctimeMs":1565698058615.2239,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:38.615Z","mtime":"2019-08-13T12:07:38.615Z","ctime":"2019-08-13T12:07:38.615Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:42,745 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:42,542 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":696,"blocks":8,"atimeMs":1565698062531.4065,"mtimeMs":1565698062531.9392,"ctimeMs":1565698062531.9392,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:42.531Z","mtime":"2019-08-13T12:07:42.532Z","ctime":"2019-08-13T12:07:42.532Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:45,405 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:45,151 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":700,"blocks":8,"atimeMs":1565698065139.6187,"mtimeMs":1565698065142.0603,"ctimeMs":1565698065142.0603,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:45.140Z","mtime":"2019-08-13T12:07:45.142Z","ctime":"2019-08-13T12:07:45.142Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:45,201 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":700,"blocks":8,"atimeMs":1565698065139.6187,"mtimeMs":1565698065142.0603,"ctimeMs":1565698065142.0603,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:45.140Z","mtime":"2019-08-13T12:07:45.142Z","ctime":"2019-08-13T12:07:45.142Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:47,669 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:47,465 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":708,"blocks":8,"atimeMs":1565698067453.5088,"mtimeMs":1565698067454.0046,"ctimeMs":1565698067454.0046,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:47.454Z","mtime":"2019-08-13T12:07:47.454Z","ctime":"2019-08-13T12:07:47.454Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:51,559 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:51,356 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":713,"blocks":8,"atimeMs":1565698071345.2156,"mtimeMs":1565698071345.7556,"ctimeMs":1565698071345.7556,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:51.345Z","mtime":"2019-08-13T12:07:51.346Z","ctime":"2019-08-13T12:07:51.346Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:58,531 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:07:58,328 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":722,"blocks":8,"atimeMs":1565698078316.467,"mtimeMs":1565698078316.9854,"ctimeMs":1565698078316.9854,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:58.316Z","mtime":"2019-08-13T12:07:58.317Z","ctime":"2019-08-13T12:07:58.317Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:07:59,872 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":725,"blocks":8,"atimeMs":1565698079862.194,"mtimeMs":1565698079862.79,"ctimeMs":1565698079862.79,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:07:59.862Z","mtime":"2019-08-13T12:07:59.863Z","ctime":"2019-08-13T12:07:59.863Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:08:00,073 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:08:07,023 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":727,"blocks":8,"atimeMs":1565698087011.0508,"mtimeMs":1565698087011.693,"ctimeMs":1565698087011.693,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:08:07.011Z","mtime":"2019-08-13T12:08:07.012Z","ctime":"2019-08-13T12:08:07.012Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:08:07,226 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:08:09,901 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/controller/home.js change
+2019-08-13 20:08:09,696 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674444,"size":733,"blocks":8,"atimeMs":1565698089685.163,"mtimeMs":1565698089685.5537,"ctimeMs":1565698089685.5537,"birthtimeMs":1565622497868.883,"atime":"2019-08-13T12:08:09.685Z","mtime":"2019-08-13T12:08:09.686Z","ctime":"2019-08-13T12:08:09.686Z","birthtime":"2019-08-12T15:08:17.869Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:08:18,051 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 20:08:17,849 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":283,"blocks":8,"atimeMs":1565698097837.3242,"mtimeMs":1565698097837.7458,"ctimeMs":1565698097837.7458,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T12:08:17.837Z","mtime":"2019-08-13T12:08:17.838Z","ctime":"2019-08-13T12:08:17.838Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:08:22,448 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 20:08:22,244 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":285,"blocks":8,"atimeMs":1565698102233.2036,"mtimeMs":1565698102233.5469,"ctimeMs":1565698102233.5469,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T12:08:22.233Z","mtime":"2019-08-13T12:08:22.234Z","ctime":"2019-08-13T12:08:22.234Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:08:23,526 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 20:08:23,322 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":286,"blocks":8,"atimeMs":1565698103311.4,"mtimeMs":1565698103311.7644,"ctimeMs":1565698103311.7644,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T12:08:23.311Z","mtime":"2019-08-13T12:08:23.312Z","ctime":"2019-08-13T12:08:23.312Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 20:08:28,014 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/app/router.js change
+2019-08-13 20:08:27,808 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":296,"blocks":8,"atimeMs":1565698107796.968,"mtimeMs":1565698107797.278,"ctimeMs":1565698107797.278,"birthtimeMs":1565622497867.2212,"atime":"2019-08-13T12:08:27.797Z","mtime":"2019-08-13T12:08:27.797Z","ctime":"2019-08-13T12:08:27.797Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 21:28:35,353 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/config/config.default.js change
+2019-08-13 21:28:35,147 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":589,"blocks":8,"atimeMs":1565702915083.492,"mtimeMs":1565702915084.6287,"ctimeMs":1565702915084.6287,"birthtimeMs":1565622497867.4893,"atime":"2019-08-13T13:28:35.083Z","mtime":"2019-08-13T13:28:35.085Z","ctime":"2019-08-13T13:28:35.085Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 21:28:37,582 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":588,"blocks":8,"atimeMs":1565702917571.2073,"mtimeMs":1565702917571.6697,"ctimeMs":1565702917571.6697,"birthtimeMs":1565622497867.4893,"atime":"2019-08-13T13:28:37.571Z","mtime":"2019-08-13T13:28:37.572Z","ctime":"2019-08-13T13:28:37.572Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-13 21:28:37,789 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/config/config.default.js change
+2019-08-13 21:28:39,511 WARN 5907 [agent:development] reload worker because /Users/aiyining/Desktop/egg/eggjs/config/config.default.js change
+2019-08-13 21:28:39,306 INFO 5907 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/eggjs/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":560,"blocks":8,"atimeMs":1565702919294.9993,"mtimeMs":1565702919295.306,"ctimeMs":1565702919295.306,"birthtimeMs":1565622497867.4893,"atime":"2019-08-13T13:28:39.295Z","mtime":"2019-08-13T13:28:39.295Z","ctime":"2019-08-13T13:28:39.295Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-08-14 03:09:09,154 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 557915ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 03:19:26,242 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577075ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 03:29:43,333 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 03:40:00,441 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 03:49:56,545 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576090ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 04:00:13,629 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577059ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 04:10:29,750 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576101ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 04:20:26,809 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577039ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 04:30:43,912 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577086ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 04:41:00,005 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576080ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 04:50:57,080 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577059ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 05:01:14,161 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577061ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 05:11:30,265 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 05:21:28,005 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 05:31:45,090 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577056ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 05:42:02,194 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577092ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 05:52:18,296 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 06:02:15,385 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 06:12:32,499 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577095ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 06:22:48,600 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 06:32:45,693 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 06:43:02,801 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577091ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 06:53:19,901 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577081ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 07:03:15,968 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576053ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 07:13:32,876 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576888ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 07:23:49,979 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577083ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 07:33:47,005 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577011ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 07:44:04,087 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577051ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 08:53:41,408 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576152ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 09:03:38,517 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577099ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 09:14:15,171 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576620ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 09:24:12,260 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577081ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 09:34:29,357 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577077ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 09:44:45,465 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576095ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 10:31:06,186 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 10:41:02,262 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576043ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 10:51:19,359 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577074ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 11:01:36,463 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577075ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 11:11:32,519 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576043ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 11:21:49,612 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577072ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 11:32:06,720 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577085ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 11:42:04,006 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577274ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 11:52:21,002 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576970ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 12:02:38,104 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577086ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 12:12:55,200 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577077ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 12:22:52,272 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577035ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 12:33:09,368 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577082ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 12:43:25,449 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576068ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 12:53:23,006 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577543ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 13:03:40,102 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577071ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 13:13:57,190 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577065ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 13:24:13,285 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576076ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 13:34:10,369 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577075ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 13:44:27,327 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576939ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 13:54:44,439 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577087ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 14:04:41,005 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576552ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 14:14:58,106 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 14:25:15,197 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577077ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 14:35:31,821 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 576596ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 14:45:29,006 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577167ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 14:55:46,111 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 577080ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-14 15:00:25,196 ERROR 5907 nodejs.ClusterClientNoResponseError: client no response in 239066ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/eggjs/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 5907
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-19 23:39:38,764 INFO 54663 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-19 23:39:38,773 INFO 54663 [egg:core] dump config after load, 5ms
+2019-09-19 23:39:38,810 INFO 54663 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/egg/app","/Users/aiyining/Desktop/egg/config","/Users/aiyining/Desktop/egg/mocks","/Users/aiyining/Desktop/egg/mocks_proxy","/Users/aiyining/Desktop/egg/app.js"]
+2019-09-19 23:39:38,810 INFO 54663 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/app"
+2019-09-19 23:39:38,811 INFO 54663 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/config"
+2019-09-19 23:39:38,811 INFO 54663 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/mocks"
+2019-09-19 23:39:38,812 INFO 54663 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/mocks_proxy"
+2019-09-19 23:39:38,812 INFO 54663 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/app.js"
+2019-09-19 23:39:38,812 INFO 54663 [egg-watcher:agent] watcher start success
+2019-09-19 23:39:38,858 INFO 54663 [egg:core] dump config after ready, 4ms
+2019-09-19 23:40:58,685 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/controller/search.js change
+2019-09-19 23:40:58,481 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/controller/search.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22709092,"size":165,"blocks":8,"atimeMs":1568907658418.6526,"mtimeMs":1568907658419.3545,"ctimeMs":1568907658419.3545,"birthtimeMs":1565625156136.3293,"atime":"2019-09-19T15:40:58.419Z","mtime":"2019-09-19T15:40:58.419Z","ctime":"2019-09-19T15:40:58.419Z","birthtime":"2019-08-12T15:52:36.136Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:41:28,781 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:41:28,576 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":240,"blocks":8,"atimeMs":1568907688512.0352,"mtimeMs":1568907688514.687,"ctimeMs":1568907688514.687,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:41:28.512Z","mtime":"2019-09-19T15:41:28.515Z","ctime":"2019-09-19T15:41:28.515Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:41:36,014 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:41:35,808 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":240,"blocks":8,"atimeMs":1568907695788.584,"mtimeMs":1568907695788.9812,"ctimeMs":1568907695788.9812,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:41:35.789Z","mtime":"2019-09-19T15:41:35.789Z","ctime":"2019-09-19T15:41:35.789Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:41:48,872 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/middleware","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26838596,"size":64,"blocks":0,"atimeMs":1568907708866.6682,"mtimeMs":1568907708863.9827,"ctimeMs":1568907708863.9827,"birthtimeMs":1568907708863.9827,"atime":"2019-09-19T15:41:48.867Z","mtime":"2019-09-19T15:41:48.864Z","ctime":"2019-09-19T15:41:48.864Z","birthtime":"2019-09-19T15:41:48.864Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-09-19 23:42:00,519 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/middleware/middleWare.js rename
+2019-09-19 23:42:00,318 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/middleware/middleWare.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26838652,"size":0,"blocks":0,"atimeMs":1568907720304.7449,"mtimeMs":1568907720304.7449,"ctimeMs":1568907720304.7449,"birthtimeMs":1568907720304.7449,"atime":"2019-09-19T15:42:00.305Z","mtime":"2019-09-19T15:42:00.305Z","ctime":"2019-09-19T15:42:00.305Z","birthtime":"2019-09-19T15:42:00.305Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:44:26,043 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-19 23:44:25,840 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":569,"blocks":8,"atimeMs":1568907865777.659,"mtimeMs":1568907865781.7573,"ctimeMs":1568907865781.7573,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T15:44:25.778Z","mtime":"2019-09-19T15:44:25.782Z","ctime":"2019-09-19T15:44:25.782Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:44:27,270 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/middleware/middleWare.js change
+2019-09-19 23:44:27,065 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/middleware/middleWare.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26838652,"size":139,"blocks":8,"atimeMs":1568907867053.7346,"mtimeMs":1568907867054.5454,"ctimeMs":1568907867054.5454,"birthtimeMs":1568907720304.7449,"atime":"2019-09-19T15:44:27.054Z","mtime":"2019-09-19T15:44:27.055Z","ctime":"2019-09-19T15:44:27.055Z","birthtime":"2019-09-19T15:42:00.305Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:45:00,198 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:44:59,992 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":287,"blocks":8,"atimeMs":1568907899928.4434,"mtimeMs":1568907899930.3962,"ctimeMs":1568907899930.3962,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:44:59.928Z","mtime":"2019-09-19T15:44:59.930Z","ctime":"2019-09-19T15:44:59.930Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:45:27,568 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/controller/search.js change
+2019-09-19 23:45:27,359 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/controller/search.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22709092,"size":222,"blocks":8,"atimeMs":1568907927278.5598,"mtimeMs":1568907927294.46,"ctimeMs":1568907927294.46,"birthtimeMs":1565625156136.3293,"atime":"2019-09-19T15:45:27.279Z","mtime":"2019-09-19T15:45:27.294Z","ctime":"2019-09-19T15:45:27.294Z","birthtime":"2019-08-12T15:52:36.136Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:47:13,680 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:47:13,475 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":290,"blocks":8,"atimeMs":1568908033398.0315,"mtimeMs":1568908033398.5269,"ctimeMs":1568908033398.5269,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:47:13.398Z","mtime":"2019-09-19T15:47:13.399Z","ctime":"2019-09-19T15:47:13.399Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:49:35,499 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-19 23:49:35,292 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":569,"blocks":8,"atimeMs":1568908175230.745,"mtimeMs":1568908175231.1501,"ctimeMs":1568908175231.1501,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T15:49:35.231Z","mtime":"2019-09-19T15:49:35.231Z","ctime":"2019-09-19T15:49:35.231Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:50:04,987 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":570,"blocks":8,"atimeMs":1568908204926.5378,"mtimeMs":1568908204926.9795,"ctimeMs":1568908204926.9795,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T15:50:04.927Z","mtime":"2019-09-19T15:50:04.927Z","ctime":"2019-09-19T15:50:04.927Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:50:05,189 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-19 23:50:18,600 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-19 23:50:18,347 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":569,"blocks":8,"atimeMs":1568908218335.33,"mtimeMs":1568908218335.7896,"ctimeMs":1568908218335.7896,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T15:50:18.335Z","mtime":"2019-09-19T15:50:18.336Z","ctime":"2019-09-19T15:50:18.336Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:50:18,396 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":569,"blocks":8,"atimeMs":1568908218335.33,"mtimeMs":1568908218335.7896,"ctimeMs":1568908218335.7896,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T15:50:18.335Z","mtime":"2019-09-19T15:50:18.336Z","ctime":"2019-09-19T15:50:18.336Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:52:41,408 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:52:41,202 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":286,"blocks":8,"atimeMs":1568908361127.0461,"mtimeMs":1568908361129.8135,"ctimeMs":1568908361129.8135,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:52:41.127Z","mtime":"2019-09-19T15:52:41.130Z","ctime":"2019-09-19T15:52:41.130Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:52:50,573 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-19 23:52:50,368 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":569,"blocks":8,"atimeMs":1568908370354.732,"mtimeMs":1568908370356.0825,"ctimeMs":1568908370356.0825,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T15:52:50.355Z","mtime":"2019-09-19T15:52:50.356Z","ctime":"2019-09-19T15:52:50.356Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:53:14,343 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:53:14,138 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":301,"blocks":8,"atimeMs":1568908394076.2617,"mtimeMs":1568908394077.293,"ctimeMs":1568908394077.293,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:53:14.076Z","mtime":"2019-09-19T15:53:14.077Z","ctime":"2019-09-19T15:53:14.077Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:53:19,436 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:53:19,234 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":290,"blocks":8,"atimeMs":1568908399222.5461,"mtimeMs":1568908399223.216,"ctimeMs":1568908399223.216,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:53:19.223Z","mtime":"2019-09-19T15:53:19.223Z","ctime":"2019-09-19T15:53:19.223Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:55:24,008 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":288,"blocks":8,"atimeMs":1568908523945.2305,"mtimeMs":1568908523945.767,"ctimeMs":1568908523945.767,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:55:23.945Z","mtime":"2019-09-19T15:55:23.946Z","ctime":"2019-09-19T15:55:23.946Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:55:24,212 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:55:35,132 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/middleware/middleWare.js change
+2019-09-19 23:55:34,930 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/middleware/middleWare.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26838652,"size":143,"blocks":8,"atimeMs":1568908534915.8896,"mtimeMs":1568908534916.7734,"ctimeMs":1568908534916.7734,"birthtimeMs":1568907720304.7449,"atime":"2019-09-19T15:55:34.916Z","mtime":"2019-09-19T15:55:34.917Z","ctime":"2019-09-19T15:55:34.917Z","birthtime":"2019-09-19T15:42:00.305Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:55:42,489 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/router.js change
+2019-09-19 23:55:42,284 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674439,"size":290,"blocks":8,"atimeMs":1568908542271.9556,"mtimeMs":1568908542272.4448,"ctimeMs":1568908542272.4448,"birthtimeMs":1565622497867.2212,"atime":"2019-09-19T15:55:42.272Z","mtime":"2019-09-19T15:55:42.272Z","ctime":"2019-09-19T15:55:42.272Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-19 23:56:54,760 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-19 23:56:54,556 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":557,"blocks":8,"atimeMs":1568908614494.4573,"mtimeMs":1568908614496.4482,"ctimeMs":1568908614496.4482,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T15:56:54.494Z","mtime":"2019-09-19T15:56:54.496Z","ctime":"2019-09-19T15:56:54.496Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}

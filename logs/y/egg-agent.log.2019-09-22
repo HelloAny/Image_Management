@@ -1,0 +1,1248 @@
+2019-09-20 00:00:01,031 INFO 54663 [egg-logrotator] agent logger reload: got log-reload message
+2019-09-20 00:06:32,935 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/extend","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26846860,"size":64,"blocks":0,"atimeMs":1568909192929.283,"mtimeMs":1568909192854.4966,"ctimeMs":1568909192854.4966,"birthtimeMs":1568909192854.4966,"atime":"2019-09-19T16:06:32.929Z","mtime":"2019-09-19T16:06:32.854Z","ctime":"2019-09-19T16:06:32.854Z","birthtime":"2019-09-19T16:06:32.854Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-09-20 00:07:24,798 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/service","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26847763,"size":64,"blocks":0,"atimeMs":1568909244795.995,"mtimeMs":1568909244737.7473,"ctimeMs":1568909244737.7473,"birthtimeMs":1568909244737.7473,"atime":"2019-09-19T16:07:24.796Z","mtime":"2019-09-19T16:07:24.738Z","ctime":"2019-09-19T16:07:24.738Z","birthtime":"2019-09-19T16:07:24.738Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-09-20 00:07:49,986 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/view","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26847907,"size":64,"blocks":0,"atimeMs":1568909269986.0403,"mtimeMs":1568909269932.2502,"ctimeMs":1568909269932.2502,"birthtimeMs":1568909269932.2502,"atime":"2019-09-19T16:07:49.986Z","mtime":"2019-09-19T16:07:49.932Z","ctime":"2019-09-19T16:07:49.932Z","birthtime":"2019-09-19T16:07:49.932Z"},"remove":false,"isDirectory":true,"isFile":false}
+2019-09-20 00:08:17,054 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/application.js rename
+2019-09-20 00:08:16,850 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/extend/application.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848082,"size":0,"blocks":0,"atimeMs":1568909296798.4856,"mtimeMs":1568909296798.4856,"ctimeMs":1568909296798.4856,"birthtimeMs":1568909296798.4856,"atime":"2019-09-19T16:08:16.798Z","mtime":"2019-09-19T16:08:16.798Z","ctime":"2019-09-19T16:08:16.798Z","birthtime":"2019-09-19T16:08:16.798Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:08:31,538 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/helper.js rename
+2019-09-20 00:08:31,333 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/extend/helper.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848191,"size":0,"blocks":0,"atimeMs":1568909311314.6033,"mtimeMs":1568909311261.5579,"ctimeMs":1568909311261.5579,"birthtimeMs":1568909311261.5579,"atime":"2019-09-19T16:08:31.315Z","mtime":"2019-09-19T16:08:31.262Z","ctime":"2019-09-19T16:08:31.262Z","birthtime":"2019-09-19T16:08:31.262Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:08:45,151 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/request.js rename
+2019-09-20 00:08:44,947 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/extend/request.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848271,"size":0,"blocks":0,"atimeMs":1568909324933.0427,"mtimeMs":1568909324933.0427,"ctimeMs":1568909324933.0427,"birthtimeMs":1568909324933.0427,"atime":"2019-09-19T16:08:44.933Z","mtime":"2019-09-19T16:08:44.933Z","ctime":"2019-09-19T16:08:44.933Z","birthtime":"2019-09-19T16:08:44.933Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:08:57,106 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/response.js rename
+2019-09-20 00:08:56,899 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/extend/response.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848362,"size":0,"blocks":0,"atimeMs":1568909336897.6223,"mtimeMs":1568909336897.6223,"ctimeMs":1568909336897.6223,"birthtimeMs":1568909336897.6223,"atime":"2019-09-19T16:08:56.898Z","mtime":"2019-09-19T16:08:56.898Z","ctime":"2019-09-19T16:08:56.898Z","birthtime":"2019-09-19T16:08:56.898Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:09:46,266 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/context.js rename
+2019-09-20 00:09:46,057 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/extend/context.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848586,"size":0,"blocks":0,"atimeMs":1568909386057.3586,"mtimeMs":1568909386004.6956,"ctimeMs":1568909386004.6956,"birthtimeMs":1568909386004.6956,"atime":"2019-09-19T16:09:46.057Z","mtime":"2019-09-19T16:09:46.005Z","ctime":"2019-09-19T16:09:46.005Z","birthtime":"2019-09-19T16:09:46.005Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:13:09,861 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/request.js change
+2019-09-20 00:13:09,656 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/extend/request.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848271,"size":169,"blocks":8,"atimeMs":1568909589595.2097,"mtimeMs":1568909589595.771,"ctimeMs":1568909589595.771,"birthtimeMs":1568909324933.0427,"atime":"2019-09-19T16:13:09.595Z","mtime":"2019-09-19T16:13:09.596Z","ctime":"2019-09-19T16:13:09.596Z","birthtime":"2019-09-19T16:08:44.933Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:14:39,972 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/request.js change
+2019-09-20 00:14:39,767 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/extend/request.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848271,"size":111,"blocks":8,"atimeMs":1568909679653.7424,"mtimeMs":1568909679654.5505,"ctimeMs":1568909679654.5505,"birthtimeMs":1568909324933.0427,"atime":"2019-09-19T16:14:39.654Z","mtime":"2019-09-19T16:14:39.655Z","ctime":"2019-09-19T16:14:39.655Z","birthtime":"2019-09-19T16:08:44.933Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:14:48,349 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/extend/response.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848362,"size":118,"blocks":8,"atimeMs":1568909688336.2512,"mtimeMs":1568909688336.646,"ctimeMs":1568909688336.646,"birthtimeMs":1568909336897.6223,"atime":"2019-09-19T16:14:48.336Z","mtime":"2019-09-19T16:14:48.337Z","ctime":"2019-09-19T16:14:48.337Z","birthtime":"2019-09-19T16:08:56.898Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:14:48,550 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/response.js change
+2019-09-20 00:18:06,983 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/extend/helper.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848191,"size":227,"blocks":8,"atimeMs":1568909886853.337,"mtimeMs":1568909886853.9749,"ctimeMs":1568909886853.9749,"birthtimeMs":1568909311261.5579,"atime":"2019-09-19T16:18:06.853Z","mtime":"2019-09-19T16:18:06.854Z","ctime":"2019-09-19T16:18:06.854Z","birthtime":"2019-09-19T16:08:31.262Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:18:07,187 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/helper.js change
+2019-09-20 00:18:18,204 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/extend/application.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848082,"size":173,"blocks":8,"atimeMs":1568909898187.219,"mtimeMs":1568909898187.5957,"ctimeMs":1568909898187.5957,"birthtimeMs":1568909296798.4856,"atime":"2019-09-19T16:18:18.187Z","mtime":"2019-09-19T16:18:18.188Z","ctime":"2019-09-19T16:18:18.188Z","birthtime":"2019-09-19T16:08:16.798Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:18:18,408 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/application.js change
+2019-09-20 00:18:22,574 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/extend/context.js change
+2019-09-20 00:18:22,324 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/extend/context.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848586,"size":169,"blocks":8,"atimeMs":1568909902305.995,"mtimeMs":1568909902307.067,"ctimeMs":1568909902307.067,"birthtimeMs":1568909386004.6956,"atime":"2019-09-19T16:18:22.306Z","mtime":"2019-09-19T16:18:22.307Z","ctime":"2019-09-19T16:18:22.307Z","birthtime":"2019-09-19T16:09:46.005Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:18:22,368 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/extend/context.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26848586,"size":169,"blocks":8,"atimeMs":1568909902305.995,"mtimeMs":1568909902307.067,"ctimeMs":1568909902307.067,"birthtimeMs":1568909386004.6956,"atime":"2019-09-19T16:18:22.306Z","mtime":"2019-09-19T16:18:22.307Z","ctime":"2019-09-19T16:18:22.307Z","birthtime":"2019-09-19T16:09:46.005Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:19:25,272 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674442,"size":214,"blocks":8,"atimeMs":1568909965209.9897,"mtimeMs":1568909965211.367,"ctimeMs":1568909965211.367,"birthtimeMs":1565622497868.3518,"atime":"2019-09-19T16:19:25.210Z","mtime":"2019-09-19T16:19:25.211Z","ctime":"2019-09-19T16:19:25.211Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:19:25,476 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/plugin.js change
+2019-09-20 00:19:30,796 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/plugin.js change
+2019-09-20 00:19:30,582 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674442,"size":200,"blocks":8,"atimeMs":1568909970570.5247,"mtimeMs":1568909970570.9998,"ctimeMs":1568909970570.9998,"birthtimeMs":1565622497868.3518,"atime":"2019-09-19T16:19:30.571Z","mtime":"2019-09-19T16:19:30.571Z","ctime":"2019-09-19T16:19:30.571Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:20:19,227 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-20 00:20:19,021 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":623,"blocks":8,"atimeMs":1568910018955.8035,"mtimeMs":1568910018956.574,"ctimeMs":1568910018956.574,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T16:20:18.956Z","mtime":"2019-09-19T16:20:18.957Z","ctime":"2019-09-19T16:20:18.957Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:22:03,352 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/config/config.default.js change
+2019-09-20 00:22:03,147 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22674441,"size":678,"blocks":8,"atimeMs":1568910123076.4229,"mtimeMs":1568910123085.0012,"ctimeMs":1568910123085.0012,"birthtimeMs":1565622497867.4893,"atime":"2019-09-19T16:22:03.076Z","mtime":"2019-09-19T16:22:03.085Z","ctime":"2019-09-19T16:22:03.085Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:22:24,163 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/view/index.html","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26853273,"size":0,"blocks":0,"atimeMs":1568910144146.8284,"mtimeMs":1568910144094.1562,"ctimeMs":1568910144094.1562,"birthtimeMs":1568910144094.1562,"atime":"2019-09-19T16:22:24.147Z","mtime":"2019-09-19T16:22:24.094Z","ctime":"2019-09-19T16:22:24.094Z","birthtime":"2019-09-19T16:22:24.094Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:22:41,453 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/view/index.html","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26853273,"size":300,"blocks":8,"atimeMs":1568910161390.855,"mtimeMs":1568910161391.425,"ctimeMs":1568910161391.425,"birthtimeMs":1568910144094.1562,"atime":"2019-09-19T16:22:41.391Z","mtime":"2019-09-19T16:22:41.391Z","ctime":"2019-09-19T16:22:41.391Z","birthtime":"2019-09-19T16:22:24.094Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:23:07,869 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/controller/search.js change
+2019-09-20 00:23:07,667 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/controller/search.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22709092,"size":228,"blocks":8,"atimeMs":1568910187603.27,"mtimeMs":1568910187604.4941,"ctimeMs":1568910187604.4941,"birthtimeMs":1565625156136.3293,"atime":"2019-09-19T16:23:07.603Z","mtime":"2019-09-19T16:23:07.604Z","ctime":"2019-09-19T16:23:07.604Z","birthtime":"2019-08-12T15:52:36.136Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:23:52,226 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/service/user.js rename
+2019-09-20 00:23:52,023 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/egg/app/service/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26854055,"size":0,"blocks":0,"atimeMs":1568910232021.3384,"mtimeMs":1568910231956.5022,"ctimeMs":1568910231956.5022,"birthtimeMs":1568910231956.5022,"atime":"2019-09-19T16:23:52.021Z","mtime":"2019-09-19T16:23:51.957Z","ctime":"2019-09-19T16:23:51.957Z","birthtime":"2019-09-19T16:23:51.957Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:24:30,390 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/service/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":26854055,"size":186,"blocks":8,"atimeMs":1568910270304.108,"mtimeMs":1568910270304.5745,"ctimeMs":1568910270304.5745,"birthtimeMs":1568910231956.5022,"atime":"2019-09-19T16:24:30.304Z","mtime":"2019-09-19T16:24:30.305Z","ctime":"2019-09-19T16:24:30.305Z","birthtime":"2019-09-19T16:23:51.957Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:24:30,591 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/service/user.js change
+2019-09-20 00:24:55,512 INFO 54663 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/egg/app/controller/search.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":22709092,"size":269,"blocks":8,"atimeMs":1568910295449.7427,"mtimeMs":1568910295450.6028,"ctimeMs":1568910295450.6028,"birthtimeMs":1565625156136.3293,"atime":"2019-09-19T16:24:55.450Z","mtime":"2019-09-19T16:24:55.451Z","ctime":"2019-09-19T16:24:55.451Z","birthtime":"2019-08-12T15:52:36.136Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-20 00:24:55,717 WARN 54663 [agent:development] reload worker because /Users/aiyining/Desktop/egg/app/controller/search.js change
+2019-09-20 07:07:07,457 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 693995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 07:17:24,672 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 577199ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 07:27:40,953 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576263ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 07:37:57,671 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576699ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 07:48:14,591 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576907ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 07:58:31,499 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576882ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 08:03:33,450 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 261921ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 08:13:30,362 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576894ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 08:23:47,108 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576726ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 08:30:16,032 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 348905ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 09:39:33,072 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 575777ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 09:49:49,975 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576881ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 09:59:47,408 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 577419ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 10:10:04,403 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576983ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 10:20:20,907 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576484ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 10:30:37,827 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576908ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 10:40:54,731 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576890ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 11:01:07,519 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 574500ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 11:11:24,426 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576897ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 11:21:41,502 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 577055ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 11:31:58,319 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576789ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 11:41:55,097 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576758ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 11:52:12,023 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576903ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 12:02:28,944 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 576900ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 12:09:32,880 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 383902ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 12:11:20,440 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 67533ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 12:20:28,365 ERROR 54663 nodejs.ClusterClientNoResponseError: client no response in 507902ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 54663
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:23,912 INFO 77568 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-20 15:51:23,919 INFO 77568 [egg:core] dump config after load, 4ms
+2019-09-20 15:51:23,956 INFO 77568 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/egg/app","/Users/aiyining/Desktop/egg/config","/Users/aiyining/Desktop/egg/mocks","/Users/aiyining/Desktop/egg/mocks_proxy","/Users/aiyining/Desktop/egg/app.js"]
+2019-09-20 15:51:23,956 INFO 77568 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/app"
+2019-09-20 15:51:23,956 INFO 77568 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/config"
+2019-09-20 15:51:23,956 INFO 77568 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/mocks"
+2019-09-20 15:51:23,956 INFO 77568 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/mocks_proxy"
+2019-09-20 15:51:23,956 INFO 77568 [egg-watcher] Start watching: "/Users/aiyining/Desktop/egg/app.js"
+2019-09-20 15:51:23,957 INFO 77568 [egg-watcher:agent] watcher start success
+2019-09-20 15:51:24,001 INFO 77568 [egg:core] dump config after ready, 24ms
+2019-09-20 15:51:30,909 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-remap-async-to-generator@7.1.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:31,720 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-regex@7.5.5@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:32,376 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-plugin-utils@7.0.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:32,847 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-optimise-call-expression@7.0.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:33,218 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-module-transforms@7.5.5@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:33,564 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-module-imports@7.0.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:33,964 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-member-expression-to-functions@7.5.5@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:34,293 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-hoist-variables@7.4.4@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:34,637 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-get-function-arity@7.0.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:34,987 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-function-name@7.1.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:35,338 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-explode-assignable-expression@7.1.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:35,658 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-define-map@7.5.5@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:35,969 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-create-class-features-plugin@7.6.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:36,328 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-call-delegate@7.4.4@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:36,671 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-builder-binary-assignment-operator-visitor@7.1.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:36,997 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_helper-annotate-as-pure@7.0.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:37,325 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_generator@7.6.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:37,701 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_core@7.6.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:38,036 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_core@7.0.0@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:38,412 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/_@babel_code-frame@7.5.5@@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:38,536 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@xtuc"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:38,663 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@webassemblyjs"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:38,786 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@vue"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:38,994 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@types"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:39,122 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@soda"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:39,252 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@samverschueren"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:39,493 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@nodelib"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:39,626 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@mrmlnc"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:39,749 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@intervolga"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:39,871 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@hapi"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:39,990 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/node_modules/@babel"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:40,124 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/mock/role"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:40,240 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/.github/ISSUE_TEMPLATE"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:40,685 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/tests"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:50,511 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/src"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:50,628 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/public"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:50,937 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/plop-templates"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:51,042 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/mock"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:51:51,152 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin/build"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,085 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public/vue-element-admin"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,105 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/view"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,108 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/service"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,120 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/public"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,122 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/middleware"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,123 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/extend"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,124 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app/controller"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,134 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/config"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,137 ERROR 77568 nodejs.EMFILEError: EMFILE: too many open files, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:125:28)
+errno: -24
+syscall: "watch"
+code: "EMFILE"
+filename: null
+dir: "/Users/aiyining/Desktop/egg/app"
+name: "EMFILEError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-20 15:56:44,205 ERROR 77568 nodejs.ClusterClientNoResponseError: client no response in 318521ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 77568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 15:02:46,410 INFO 36133 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-22 15:02:46,420 INFO 36133 [egg:core] dump config after load, 5ms
+2019-09-22 15:02:46,463 INFO 36133 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/node/egg/app","/Users/aiyining/Desktop/node/egg/config","/Users/aiyining/Desktop/node/egg/mocks","/Users/aiyining/Desktop/node/egg/mocks_proxy","/Users/aiyining/Desktop/node/egg/app.js"]
+2019-09-22 15:02:46,463 INFO 36133 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app"
+2019-09-22 15:02:46,463 INFO 36133 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/config"
+2019-09-22 15:02:46,463 INFO 36133 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks"
+2019-09-22 15:02:46,463 INFO 36133 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks_proxy"
+2019-09-22 15:02:46,464 INFO 36133 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app.js"
+2019-09-22 15:02:46,464 INFO 36133 [egg-watcher:agent] watcher start success
+2019-09-22 15:02:46,476 INFO 36133 [egg:core] dump config after ready, 4ms
+2019-09-22 15:03:12,779 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/vue-element-admin","remove":true,"isDirectory":true,"isFile":false}
+2019-09-22 15:40:26,728 WARN 36133 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:40:26,521 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":259,"blocks":8,"atimeMs":1569138026458.7664,"mtimeMs":1569138026469.4246,"ctimeMs":1569138026469.4246,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:40:26.459Z","mtime":"2019-09-22T07:40:26.469Z","ctime":"2019-09-22T07:40:26.469Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:42:24,703 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1119,"blocks":8,"atimeMs":1569138144641.4272,"mtimeMs":1569138144642.2546,"ctimeMs":1569138144642.2546,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T07:42:24.641Z","mtime":"2019-09-22T07:42:24.642Z","ctime":"2019-09-22T07:42:24.642Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:42:24,908 WARN 36133 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 15:42:46,835 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1083,"blocks":8,"atimeMs":1569138166773.881,"mtimeMs":1569138166787.0508,"ctimeMs":1569138166787.0508,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T07:42:46.774Z","mtime":"2019-09-22T07:42:46.787Z","ctime":"2019-09-22T07:42:46.787Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:42:47,039 WARN 36133 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 15:43:00,562 WARN 36133 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:43:00,311 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":259,"blocks":8,"atimeMs":1569138180295.9077,"mtimeMs":1569138180297.2935,"ctimeMs":1569138180297.2935,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:43:00.296Z","mtime":"2019-09-22T07:43:00.297Z","ctime":"2019-09-22T07:43:00.297Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:43:00,358 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":259,"blocks":8,"atimeMs":1569138180295.9077,"mtimeMs":1569138180297.2935,"ctimeMs":1569138180297.2935,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:43:00.296Z","mtime":"2019-09-22T07:43:00.297Z","ctime":"2019-09-22T07:43:00.297Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:06,075 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1176,"blocks":8,"atimeMs":1569138246009.667,"mtimeMs":1569138246013.8647,"ctimeMs":1569138246013.8647,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T07:44:06.010Z","mtime":"2019-09-22T07:44:06.014Z","ctime":"2019-09-22T07:44:06.014Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:06,279 WARN 36133 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 15:44:07,974 WARN 36133 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 15:44:07,723 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1176,"blocks":8,"atimeMs":1569138247709.2378,"mtimeMs":1569138247709.6882,"ctimeMs":1569138247709.6882,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T07:44:07.709Z","mtime":"2019-09-22T07:44:07.710Z","ctime":"2019-09-22T07:44:07.710Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:07,770 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1176,"blocks":8,"atimeMs":1569138247709.2378,"mtimeMs":1569138247709.6882,"ctimeMs":1569138247709.6882,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T07:44:07.709Z","mtime":"2019-09-22T07:44:07.710Z","ctime":"2019-09-22T07:44:07.710Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:13,592 WARN 36133 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:44:13,388 INFO 36133 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":271,"blocks":8,"atimeMs":1569138253373.0627,"mtimeMs":1569138253373.782,"ctimeMs":1569138253373.782,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:44:13.373Z","mtime":"2019-09-22T07:44:13.374Z","ctime":"2019-09-22T07:44:13.374Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:49,221 INFO 48780 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-22 15:44:49,229 INFO 48780 [egg:core] dump config after load, 3ms
+2019-09-22 15:44:49,271 INFO 48780 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/node/egg/app","/Users/aiyining/Desktop/node/egg/config","/Users/aiyining/Desktop/node/egg/mocks","/Users/aiyining/Desktop/node/egg/mocks_proxy","/Users/aiyining/Desktop/node/egg/app.js"]
+2019-09-22 15:44:49,271 INFO 48780 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app"
+2019-09-22 15:44:49,272 INFO 48780 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/config"
+2019-09-22 15:44:49,272 INFO 48780 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks"
+2019-09-22 15:44:49,272 INFO 48780 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks_proxy"
+2019-09-22 15:44:49,272 INFO 48780 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app.js"
+2019-09-22 15:44:49,272 INFO 48780 [egg-watcher:agent] watcher start success
+2019-09-22 15:44:49,283 INFO 48780 [egg:core] dump config after ready, 3ms
+2019-09-22 15:44:53,581 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:44:53,326 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":205,"blocks":8,"atimeMs":1569138293316.5093,"mtimeMs":1569138293316.9507,"ctimeMs":1569138293316.9507,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:44:53.317Z","mtime":"2019-09-22T07:44:53.317Z","ctime":"2019-09-22T07:44:53.317Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:53,376 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":205,"blocks":8,"atimeMs":1569138293316.5093,"mtimeMs":1569138293316.9507,"ctimeMs":1569138293316.9507,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:44:53.317Z","mtime":"2019-09-22T07:44:53.317Z","ctime":"2019-09-22T07:44:53.317Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:58,694 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:44:58,441 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":259,"blocks":8,"atimeMs":1569138298430.078,"mtimeMs":1569138298430.5063,"ctimeMs":1569138298430.5063,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:44:58.430Z","mtime":"2019-09-22T07:44:58.431Z","ctime":"2019-09-22T07:44:58.431Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:44:58,492 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":259,"blocks":8,"atimeMs":1569138298430.078,"mtimeMs":1569138298430.5063,"ctimeMs":1569138298430.5063,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:44:58.430Z","mtime":"2019-09-22T07:44:58.431Z","ctime":"2019-09-22T07:44:58.431Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:45:34,233 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:45:34,029 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":259,"blocks":8,"atimeMs":1569138333967.6519,"mtimeMs":1569138333968.7422,"ctimeMs":1569138333968.7422,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:45:33.968Z","mtime":"2019-09-22T07:45:33.969Z","ctime":"2019-09-22T07:45:33.969Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:45:47,102 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:45:46,897 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569138346881.7327,"mtimeMs":1569138346882.2063,"ctimeMs":1569138346882.2063,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:45:46.882Z","mtime":"2019-09-22T07:45:46.882Z","ctime":"2019-09-22T07:45:46.882Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:07,349 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:46:07,147 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":322,"blocks":8,"atimeMs":1569138367085.7412,"mtimeMs":1569138367086.4106,"ctimeMs":1569138367086.4106,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:07.086Z","mtime":"2019-09-22T07:46:07.086Z","ctime":"2019-09-22T07:46:07.086Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:11,441 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:46:11,187 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":334,"blocks":8,"atimeMs":1569138371175.6265,"mtimeMs":1569138371177.7395,"ctimeMs":1569138371177.7395,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:11.176Z","mtime":"2019-09-22T07:46:11.178Z","ctime":"2019-09-22T07:46:11.178Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:11,237 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":334,"blocks":8,"atimeMs":1569138371175.6265,"mtimeMs":1569138371177.7395,"ctimeMs":1569138371177.7395,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:11.176Z","mtime":"2019-09-22T07:46:11.178Z","ctime":"2019-09-22T07:46:11.178Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:21,445 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:46:21,191 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569138381178.8381,"mtimeMs":1569138381179.303,"ctimeMs":1569138381179.303,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:21.179Z","mtime":"2019-09-22T07:46:21.179Z","ctime":"2019-09-22T07:46:21.179Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:21,242 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569138381178.8381,"mtimeMs":1569138381179.303,"ctimeMs":1569138381179.303,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:21.179Z","mtime":"2019-09-22T07:46:21.179Z","ctime":"2019-09-22T07:46:21.179Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:40,172 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:46:39,969 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":334,"blocks":8,"atimeMs":1569138399913.6233,"mtimeMs":1569138399914.0317,"ctimeMs":1569138399914.0317,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:39.914Z","mtime":"2019-09-22T07:46:39.914Z","ctime":"2019-09-22T07:46:39.914Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:44,051 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:46:43,802 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":334,"blocks":8,"atimeMs":1569138403787.9827,"mtimeMs":1569138403788.453,"ctimeMs":1569138403788.453,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:43.788Z","mtime":"2019-09-22T07:46:43.788Z","ctime":"2019-09-22T07:46:43.788Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:43,849 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":334,"blocks":8,"atimeMs":1569138403787.9827,"mtimeMs":1569138403788.453,"ctimeMs":1569138403788.453,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:43.788Z","mtime":"2019-09-22T07:46:43.788Z","ctime":"2019-09-22T07:46:43.788Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:46:59,411 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:46:59,207 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":335,"blocks":8,"atimeMs":1569138419142.2988,"mtimeMs":1569138419142.9565,"ctimeMs":1569138419142.9565,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:46:59.142Z","mtime":"2019-09-22T07:46:59.143Z","ctime":"2019-09-22T07:46:59.143Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:47:06,670 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:47:06,463 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569138426448.325,"mtimeMs":1569138426448.896,"ctimeMs":1569138426448.896,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:47:06.448Z","mtime":"2019-09-22T07:47:06.449Z","ctime":"2019-09-22T07:47:06.449Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:47:23,542 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:47:23,339 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569138443277.9417,"mtimeMs":1569138443278.519,"ctimeMs":1569138443278.519,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:47:23.278Z","mtime":"2019-09-22T07:47:23.279Z","ctime":"2019-09-22T07:47:23.279Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:48:16,816 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":259,"blocks":8,"atimeMs":1569138496751.6355,"mtimeMs":1569138496751.9922,"ctimeMs":1569138496751.9922,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:48:16.752Z","mtime":"2019-09-22T07:48:16.752Z","ctime":"2019-09-22T07:48:16.752Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:48:17,023 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:48:57,469 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:48:57,265 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":431,"blocks":8,"atimeMs":1569138537203.1624,"mtimeMs":1569138537203.474,"ctimeMs":1569138537203.474,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:48:57.203Z","mtime":"2019-09-22T07:48:57.203Z","ctime":"2019-09-22T07:48:57.203Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:00,617 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:49:00,362 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":431,"blocks":8,"atimeMs":1569138540346.8965,"mtimeMs":1569138540352.2527,"ctimeMs":1569138540352.2527,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:00.347Z","mtime":"2019-09-22T07:49:00.352Z","ctime":"2019-09-22T07:49:00.352Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:00,413 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":431,"blocks":8,"atimeMs":1569138540346.8965,"mtimeMs":1569138540352.2527,"ctimeMs":1569138540352.2527,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:00.347Z","mtime":"2019-09-22T07:49:00.352Z","ctime":"2019-09-22T07:49:00.352Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:13,699 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:49:13,443 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":418,"blocks":8,"atimeMs":1569138553431.8484,"mtimeMs":1569138553432.3284,"ctimeMs":1569138553432.3284,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:13.432Z","mtime":"2019-09-22T07:49:13.432Z","ctime":"2019-09-22T07:49:13.432Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:13,494 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":418,"blocks":8,"atimeMs":1569138553431.8484,"mtimeMs":1569138553432.3284,"ctimeMs":1569138553432.3284,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:13.432Z","mtime":"2019-09-22T07:49:13.432Z","ctime":"2019-09-22T07:49:13.432Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:31,041 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:49:30,837 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":432,"blocks":8,"atimeMs":1569138570771.7664,"mtimeMs":1569138570772.2085,"ctimeMs":1569138570772.2085,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:30.772Z","mtime":"2019-09-22T07:49:30.772Z","ctime":"2019-09-22T07:49:30.772Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:46,947 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:49:46,742 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":418,"blocks":8,"atimeMs":1569138586678.0867,"mtimeMs":1569138586679.2563,"ctimeMs":1569138586679.2563,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:46.678Z","mtime":"2019-09-22T07:49:46.679Z","ctime":"2019-09-22T07:49:46.679Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:58,348 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":430,"blocks":8,"atimeMs":1569138598331.3804,"mtimeMs":1569138598331.7632,"ctimeMs":1569138598331.7632,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:58.331Z","mtime":"2019-09-22T07:49:58.332Z","ctime":"2019-09-22T07:49:58.332Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:49:58,596 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:49:58,392 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":430,"blocks":8,"atimeMs":1569138598331.3804,"mtimeMs":1569138598331.7632,"ctimeMs":1569138598331.7632,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:49:58.331Z","mtime":"2019-09-22T07:49:58.332Z","ctime":"2019-09-22T07:49:58.332Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:50:27,033 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:50:26,830 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":430,"blocks":8,"atimeMs":1569138626767.4497,"mtimeMs":1569138626769.275,"ctimeMs":1569138626769.275,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:50:26.767Z","mtime":"2019-09-22T07:50:26.769Z","ctime":"2019-09-22T07:50:26.769Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:50:45,500 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":430,"blocks":8,"atimeMs":1569138645439.3564,"mtimeMs":1569138645440.0386,"ctimeMs":1569138645440.0386,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:50:45.439Z","mtime":"2019-09-22T07:50:45.440Z","ctime":"2019-09-22T07:50:45.440Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:50:45,706 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:51:38,998 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:51:38,794 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":463,"blocks":8,"atimeMs":1569138698730.4,"mtimeMs":1569138698731.552,"ctimeMs":1569138698731.552,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:51:38.730Z","mtime":"2019-09-22T07:51:38.732Z","ctime":"2019-09-22T07:51:38.732Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:51:56,379 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:51:56,174 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":451,"blocks":8,"atimeMs":1569138716117.8054,"mtimeMs":1569138716119.0232,"ctimeMs":1569138716119.0232,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:51:56.118Z","mtime":"2019-09-22T07:51:56.119Z","ctime":"2019-09-22T07:51:56.119Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:52:04,709 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":463,"blocks":8,"atimeMs":1569138724697.716,"mtimeMs":1569138724698.323,"ctimeMs":1569138724698.323,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:52:04.698Z","mtime":"2019-09-22T07:52:04.698Z","ctime":"2019-09-22T07:52:04.698Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:52:04,761 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":463,"blocks":8,"atimeMs":1569138724697.716,"mtimeMs":1569138724698.323,"ctimeMs":1569138724698.323,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:52:04.698Z","mtime":"2019-09-22T07:52:04.698Z","ctime":"2019-09-22T07:52:04.698Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:52:04,965 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:52:44,638 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:52:44,432 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":436,"blocks":8,"atimeMs":1569138764370.8594,"mtimeMs":1569138764371.634,"ctimeMs":1569138764371.634,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:52:44.371Z","mtime":"2019-09-22T07:52:44.372Z","ctime":"2019-09-22T07:52:44.372Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:52:49,298 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:52:49,042 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":424,"blocks":8,"atimeMs":1569138769028.0088,"mtimeMs":1569138769032.4773,"ctimeMs":1569138769032.4773,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:52:49.028Z","mtime":"2019-09-22T07:52:49.032Z","ctime":"2019-09-22T07:52:49.032Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:52:49,092 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":424,"blocks":8,"atimeMs":1569138769028.0088,"mtimeMs":1569138769032.4773,"ctimeMs":1569138769032.4773,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:52:49.028Z","mtime":"2019-09-22T07:52:49.032Z","ctime":"2019-09-22T07:52:49.032Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:52:52,635 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:52:52,376 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":436,"blocks":8,"atimeMs":1569138772365.6443,"mtimeMs":1569138772366.3108,"ctimeMs":1569138772366.3108,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:52:52.366Z","mtime":"2019-09-22T07:52:52.366Z","ctime":"2019-09-22T07:52:52.366Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:52:52,428 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":436,"blocks":8,"atimeMs":1569138772365.6443,"mtimeMs":1569138772366.3108,"ctimeMs":1569138772366.3108,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:52:52.366Z","mtime":"2019-09-22T07:52:52.366Z","ctime":"2019-09-22T07:52:52.366Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:53:06,772 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:53:06,563 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":309,"blocks":8,"atimeMs":1569138786551.8752,"mtimeMs":1569138786552.3535,"ctimeMs":1569138786552.3535,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:53:06.552Z","mtime":"2019-09-22T07:53:06.552Z","ctime":"2019-09-22T07:53:06.552Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:58:51,157 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:58:50,952 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":408,"blocks":8,"atimeMs":1569139130888.4167,"mtimeMs":1569139130891.929,"ctimeMs":1569139130891.929,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:58:50.888Z","mtime":"2019-09-22T07:58:50.892Z","ctime":"2019-09-22T07:58:50.892Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:59:00,584 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 15:59:00,330 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":411,"blocks":8,"atimeMs":1569139140321.2407,"mtimeMs":1569139140321.797,"ctimeMs":1569139140321.797,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:59:00.321Z","mtime":"2019-09-22T07:59:00.322Z","ctime":"2019-09-22T07:59:00.322Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 15:59:00,379 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":411,"blocks":8,"atimeMs":1569139140321.2407,"mtimeMs":1569139140321.797,"ctimeMs":1569139140321.797,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T07:59:00.321Z","mtime":"2019-09-22T07:59:00.322Z","ctime":"2019-09-22T07:59:00.322Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:00:18,280 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:00:18,078 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":451,"blocks":8,"atimeMs":1569139218018.8477,"mtimeMs":1569139218019.225,"ctimeMs":1569139218019.225,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:00:18.019Z","mtime":"2019-09-22T08:00:18.019Z","ctime":"2019-09-22T08:00:18.019Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:00:21,553 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":451,"blocks":8,"atimeMs":1569139221541.204,"mtimeMs":1569139221541.8628,"ctimeMs":1569139221541.8628,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:00:21.541Z","mtime":"2019-09-22T08:00:21.542Z","ctime":"2019-09-22T08:00:21.542Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:00:21,807 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:00:21,603 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":451,"blocks":8,"atimeMs":1569139221541.204,"mtimeMs":1569139221541.8628,"ctimeMs":1569139221541.8628,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:00:21.541Z","mtime":"2019-09-22T08:00:21.542Z","ctime":"2019-09-22T08:00:21.542Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:03:08,605 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:03:08,401 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":474,"blocks":8,"atimeMs":1569139388330.749,"mtimeMs":1569139388345.469,"ctimeMs":1569139388345.469,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:03:08.331Z","mtime":"2019-09-22T08:03:08.345Z","ctime":"2019-09-22T08:03:08.345Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:03:54,782 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:03:54,580 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":284,"blocks":8,"atimeMs":1569139434517.819,"mtimeMs":1569139434518.592,"ctimeMs":1569139434518.592,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:03:54.518Z","mtime":"2019-09-22T08:03:54.519Z","ctime":"2019-09-22T08:03:54.519Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:03:57,382 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":273,"blocks":8,"atimeMs":1569139437375.8137,"mtimeMs":1569139437376.2498,"ctimeMs":1569139437376.2498,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:03:57.376Z","mtime":"2019-09-22T08:03:57.376Z","ctime":"2019-09-22T08:03:57.376Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:03:57,635 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:03:57,432 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":273,"blocks":8,"atimeMs":1569139437375.8137,"mtimeMs":1569139437376.2498,"ctimeMs":1569139437376.2498,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:03:57.376Z","mtime":"2019-09-22T08:03:57.376Z","ctime":"2019-09-22T08:03:57.376Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:04:15,874 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:04:15,668 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":253,"blocks":8,"atimeMs":1569139455606.1252,"mtimeMs":1569139455606.978,"ctimeMs":1569139455606.978,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:04:15.606Z","mtime":"2019-09-22T08:04:15.607Z","ctime":"2019-09-22T08:04:15.607Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:04:50,095 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:04:49,888 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":300,"blocks":8,"atimeMs":1569139489829.5066,"mtimeMs":1569139489837.2097,"ctimeMs":1569139489837.2097,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:04:49.830Z","mtime":"2019-09-22T08:04:49.837Z","ctime":"2019-09-22T08:04:49.837Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:01,528 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":312,"blocks":8,"atimeMs":1569139501515.0269,"mtimeMs":1569139501515.5066,"ctimeMs":1569139501515.5066,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:05:01.515Z","mtime":"2019-09-22T08:05:01.516Z","ctime":"2019-09-22T08:05:01.516Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:01,733 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:05:10,672 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":300,"blocks":8,"atimeMs":1569139510659.522,"mtimeMs":1569139510660.0044,"ctimeMs":1569139510660.0044,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:05:10.660Z","mtime":"2019-09-22T08:05:10.660Z","ctime":"2019-09-22T08:05:10.660Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:10,875 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:05:14,657 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:05:14,404 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":245,"blocks":8,"atimeMs":1569139514391.6143,"mtimeMs":1569139514392.2961,"ctimeMs":1569139514392.2961,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:05:14.392Z","mtime":"2019-09-22T08:05:14.392Z","ctime":"2019-09-22T08:05:14.392Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:14,453 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":245,"blocks":8,"atimeMs":1569139514391.6143,"mtimeMs":1569139514392.2961,"ctimeMs":1569139514392.2961,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:05:14.392Z","mtime":"2019-09-22T08:05:14.392Z","ctime":"2019-09-22T08:05:14.392Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:18,134 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:05:17,930 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":312,"blocks":8,"atimeMs":1569139517919.122,"mtimeMs":1569139517919.4778,"ctimeMs":1569139517919.4778,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:05:17.919Z","mtime":"2019-09-22T08:05:17.919Z","ctime":"2019-09-22T08:05:17.919Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:25,694 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:05:25,439 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":300,"blocks":8,"atimeMs":1569139525423.4338,"mtimeMs":1569139525426.7505,"ctimeMs":1569139525426.7505,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:05:25.423Z","mtime":"2019-09-22T08:05:25.427Z","ctime":"2019-09-22T08:05:25.427Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:25,492 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":300,"blocks":8,"atimeMs":1569139525423.4338,"mtimeMs":1569139525426.7505,"ctimeMs":1569139525426.7505,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:05:25.423Z","mtime":"2019-09-22T08:05:25.427Z","ctime":"2019-09-22T08:05:25.427Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:05:57,331 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 16:05:57,127 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1119,"blocks":8,"atimeMs":1569139557064.7302,"mtimeMs":1569139557066.25,"ctimeMs":1569139557066.25,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:05:57.065Z","mtime":"2019-09-22T08:05:57.066Z","ctime":"2019-09-22T08:05:57.066Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:08:07,875 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js rename
+2019-09-22 16:08:07,669 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28549475,"size":0,"blocks":0,"atimeMs":1569139687669.2927,"mtimeMs":1569139687618.5977,"ctimeMs":1569139687618.5977,"birthtimeMs":1569139687618.5977,"atime":"2019-09-22T08:08:07.669Z","mtime":"2019-09-22T08:08:07.619Z","ctime":"2019-09-22T08:08:07.619Z","birthtime":"2019-09-22T08:08:07.619Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:08:27,312 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28549475,"size":289,"blocks":8,"atimeMs":1569139707250.0498,"mtimeMs":1569139707250.4695,"ctimeMs":1569139707250.4695,"birthtimeMs":1569139687618.5977,"atime":"2019-09-22T08:08:27.250Z","mtime":"2019-09-22T08:08:27.250Z","ctime":"2019-09-22T08:08:27.250Z","birthtime":"2019-09-22T08:08:07.619Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:08:27,515 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js rename
+2019-09-22 16:08:50,793 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:08:50,590 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28549475,"size":317,"blocks":8,"atimeMs":1569139730528.2588,"mtimeMs":1569139730529.4744,"ctimeMs":1569139730529.4744,"birthtimeMs":1569139687618.5977,"atime":"2019-09-22T08:08:50.528Z","mtime":"2019-09-22T08:08:50.529Z","ctime":"2019-09-22T08:08:50.529Z","birthtime":"2019-09-22T08:08:07.619Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:09:39,940 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js rename
+2019-09-22 16:09:39,734 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28549912,"size":0,"blocks":0,"atimeMs":1569139779731.5527,"mtimeMs":1569139779680.8252,"ctimeMs":1569139779680.8252,"birthtimeMs":1569139779680.8252,"atime":"2019-09-22T08:09:39.732Z","mtime":"2019-09-22T08:09:39.681Z","ctime":"2019-09-22T08:09:39.681Z","birthtime":"2019-09-22T08:09:39.681Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:11:10,928 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:11:10,724 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28549912,"size":297,"blocks":8,"atimeMs":1569139870661.9114,"mtimeMs":1569139870662.5,"ctimeMs":1569139870662.5,"birthtimeMs":1569139779680.8252,"atime":"2019-09-22T08:11:10.662Z","mtime":"2019-09-22T08:11:10.663Z","ctime":"2019-09-22T08:11:10.663Z","birthtime":"2019-09-22T08:09:39.681Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:11:30,902 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/router.js change
+2019-09-22 16:11:30,699 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27216188,"size":341,"blocks":8,"atimeMs":1569139890626.7617,"mtimeMs":1569139890629.0425,"ctimeMs":1569139890629.0425,"birthtimeMs":1565622497867.2212,"atime":"2019-09-22T08:11:30.627Z","mtime":"2019-09-22T08:11:30.629Z","ctime":"2019-09-22T08:11:30.629Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:12:47,845 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:12:47,637 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28549912,"size":349,"blocks":8,"atimeMs":1569139967568.7458,"mtimeMs":1569139967573.102,"ctimeMs":1569139967573.102,"birthtimeMs":1569139779680.8252,"atime":"2019-09-22T08:12:47.569Z","mtime":"2019-09-22T08:12:47.573Z","ctime":"2019-09-22T08:12:47.573Z","birthtime":"2019-09-22T08:09:39.681Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:13:12,972 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 16:13:12,768 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1176,"blocks":8,"atimeMs":1569139992704.4583,"mtimeMs":1569139992705.1323,"ctimeMs":1569139992705.1323,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:13:12.704Z","mtime":"2019-09-22T08:13:12.705Z","ctime":"2019-09-22T08:13:12.705Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:13:21,947 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:13:21,696 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":312,"blocks":8,"atimeMs":1569140001674.8901,"mtimeMs":1569140001676.9146,"ctimeMs":1569140001676.9146,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:13:21.675Z","mtime":"2019-09-22T08:13:21.677Z","ctime":"2019-09-22T08:13:21.677Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:13:21,743 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":312,"blocks":8,"atimeMs":1569140001674.8901,"mtimeMs":1569140001676.9146,"ctimeMs":1569140001676.9146,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:13:21.675Z","mtime":"2019-09-22T08:13:21.677Z","ctime":"2019-09-22T08:13:21.677Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:13:40,484 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1119,"blocks":8,"atimeMs":1569140020422.0095,"mtimeMs":1569140020422.4512,"ctimeMs":1569140020422.4512,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:13:40.422Z","mtime":"2019-09-22T08:13:40.422Z","ctime":"2019-09-22T08:13:40.422Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:13:40,688 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 16:13:57,207 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:13:57,002 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28549912,"size":391,"blocks":8,"atimeMs":1569140036945.634,"mtimeMs":1569140036946.077,"ctimeMs":1569140036946.077,"birthtimeMs":1569139779680.8252,"atime":"2019-09-22T08:13:56.946Z","mtime":"2019-09-22T08:13:56.946Z","ctime":"2019-09-22T08:13:56.946Z","birthtime":"2019-09-22T08:09:39.681Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:09,036 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 16:14:08,832 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1176,"blocks":8,"atimeMs":1569140048805.9053,"mtimeMs":1569140048811.1147,"ctimeMs":1569140048811.1147,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:14:08.806Z","mtime":"2019-09-22T08:14:08.811Z","ctime":"2019-09-22T08:14:08.811Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:14,575 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":312,"blocks":8,"atimeMs":1569140054553.1973,"mtimeMs":1569140054562.513,"ctimeMs":1569140054562.513,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:14:14.553Z","mtime":"2019-09-22T08:14:14.563Z","ctime":"2019-09-22T08:14:14.563Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:14,618 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":312,"blocks":8,"atimeMs":1569140054553.1973,"mtimeMs":1569140054562.513,"ctimeMs":1569140054562.513,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:14:14.553Z","mtime":"2019-09-22T08:14:14.563Z","ctime":"2019-09-22T08:14:14.563Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:14,823 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:14:20,178 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/router.js change
+2019-09-22 16:14:19,923 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27216188,"size":344,"blocks":8,"atimeMs":1569140059909.7266,"mtimeMs":1569140059912.3018,"ctimeMs":1569140059912.3018,"birthtimeMs":1565622497867.2212,"atime":"2019-09-22T08:14:19.910Z","mtime":"2019-09-22T08:14:19.912Z","ctime":"2019-09-22T08:14:19.912Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:19,974 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27216188,"size":344,"blocks":8,"atimeMs":1569140059909.7266,"mtimeMs":1569140059912.3018,"ctimeMs":1569140059912.3018,"birthtimeMs":1565622497867.2212,"atime":"2019-09-22T08:14:19.910Z","mtime":"2019-09-22T08:14:19.912Z","ctime":"2019-09-22T08:14:19.912Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:42,492 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:14:42,287 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":321,"blocks":8,"atimeMs":1569140082225.1292,"mtimeMs":1569140082225.8699,"ctimeMs":1569140082225.8699,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:14:42.225Z","mtime":"2019-09-22T08:14:42.226Z","ctime":"2019-09-22T08:14:42.226Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:48,860 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569140088846.1704,"mtimeMs":1569140088847.4207,"ctimeMs":1569140088847.4207,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:14:48.846Z","mtime":"2019-09-22T08:14:48.847Z","ctime":"2019-09-22T08:14:48.847Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:49,113 WARN 48780 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:14:48,907 INFO 48780 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569140088846.1704,"mtimeMs":1569140088847.4207,"ctimeMs":1569140088847.4207,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:14:48.846Z","mtime":"2019-09-22T08:14:48.847Z","ctime":"2019-09-22T08:14:48.847Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:14:58,725 INFO 57138 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-22 16:14:58,732 INFO 57138 [egg:core] dump config after load, 4ms
+2019-09-22 16:14:58,770 INFO 57138 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/node/egg/app","/Users/aiyining/Desktop/node/egg/config","/Users/aiyining/Desktop/node/egg/mocks","/Users/aiyining/Desktop/node/egg/mocks_proxy","/Users/aiyining/Desktop/node/egg/app.js"]
+2019-09-22 16:14:58,770 INFO 57138 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app"
+2019-09-22 16:14:58,771 INFO 57138 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/config"
+2019-09-22 16:14:58,771 INFO 57138 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks"
+2019-09-22 16:14:58,771 INFO 57138 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks_proxy"
+2019-09-22 16:14:58,771 INFO 57138 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app.js"
+2019-09-22 16:14:58,773 INFO 57138 [egg-watcher:agent] watcher start success
+2019-09-22 16:14:58,928 INFO 57138 [egg:core] dump config after ready, 5ms
+2019-09-22 16:15:48,641 INFO 57470 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-22 16:15:48,650 INFO 57470 [egg:core] dump config after load, 5ms
+2019-09-22 16:15:48,683 INFO 57470 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/node/egg/app","/Users/aiyining/Desktop/node/egg/config","/Users/aiyining/Desktop/node/egg/mocks","/Users/aiyining/Desktop/node/egg/mocks_proxy","/Users/aiyining/Desktop/node/egg/app.js"]
+2019-09-22 16:15:48,683 INFO 57470 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app"
+2019-09-22 16:15:48,684 INFO 57470 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/config"
+2019-09-22 16:15:48,684 INFO 57470 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks"
+2019-09-22 16:15:48,685 INFO 57470 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks_proxy"
+2019-09-22 16:15:48,685 INFO 57470 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app.js"
+2019-09-22 16:15:48,685 INFO 57470 [egg-watcher:agent] watcher start success
+2019-09-22 16:15:48,738 INFO 57470 [egg:core] dump config after ready, 28ms
+2019-09-22 16:16:02,330 WARN 57470 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js rename
+2019-09-22 16:16:02,117 INFO 57470 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":0,"blocks":0,"atimeMs":1569140162101.5803,"mtimeMs":1569140162101.5803,"ctimeMs":1569140162101.5803,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:16:02.102Z","mtime":"2019-09-22T08:16:02.102Z","ctime":"2019-09-22T08:16:02.102Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:16:02,977 WARN 57470 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js rename
+2019-09-22 16:16:02,776 INFO 57470 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":0,"blocks":0,"atimeMs":1569140162759.0488,"mtimeMs":1569140162764.4524,"ctimeMs":1569140162764.4524,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:16:02.759Z","mtime":"2019-09-22T08:16:02.764Z","ctime":"2019-09-22T08:16:02.764Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:16:19,164 WARN 57470 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js rename
+2019-09-22 16:16:19,500 WARN 57470 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js rename
+2019-09-22 16:16:18,959 INFO 57470 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":0,"blocks":0,"atimeMs":1569140178958.7615,"mtimeMs":1569140178901.3625,"ctimeMs":1569140178901.3625,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:16:18.959Z","mtime":"2019-09-22T08:16:18.901Z","ctime":"2019-09-22T08:16:18.901Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:16:19,295 INFO 57470 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":0,"blocks":0,"atimeMs":1569140179291.9888,"mtimeMs":1569140179292.2253,"ctimeMs":1569140179292.2253,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:16:19.292Z","mtime":"2019-09-22T08:16:19.292Z","ctime":"2019-09-22T08:16:19.292Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:16:31,757 INFO 57470 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27216188,"size":335,"blocks":8,"atimeMs":1569140191753.9646,"mtimeMs":1569140191754.5125,"ctimeMs":1569140191754.5125,"birthtimeMs":1565622497867.2212,"atime":"2019-09-22T08:16:31.754Z","mtime":"2019-09-22T08:16:31.755Z","ctime":"2019-09-22T08:16:31.755Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:16:32,010 WARN 57470 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/router.js change
+2019-09-22 16:16:31,806 INFO 57470 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/router.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27216188,"size":335,"blocks":8,"atimeMs":1569140191753.9646,"mtimeMs":1569140191754.5125,"ctimeMs":1569140191754.5125,"birthtimeMs":1565622497867.2212,"atime":"2019-09-22T08:16:31.754Z","mtime":"2019-09-22T08:16:31.755Z","ctime":"2019-09-22T08:16:31.755Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:18:54,899 INFO 58835 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-22 16:18:54,909 INFO 58835 [egg:core] dump config after load, 6ms
+2019-09-22 16:18:54,948 INFO 58835 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/node/egg/app","/Users/aiyining/Desktop/node/egg/config","/Users/aiyining/Desktop/node/egg/mocks","/Users/aiyining/Desktop/node/egg/mocks_proxy","/Users/aiyining/Desktop/node/egg/app.js"]
+2019-09-22 16:18:54,948 INFO 58835 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app"
+2019-09-22 16:18:54,949 INFO 58835 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/config"
+2019-09-22 16:18:54,949 INFO 58835 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks"
+2019-09-22 16:18:54,949 INFO 58835 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks_proxy"
+2019-09-22 16:18:54,949 INFO 58835 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app.js"
+2019-09-22 16:18:54,950 INFO 58835 [egg-watcher:agent] watcher start success
+2019-09-22 16:18:54,966 INFO 58835 [egg:core] dump config after ready, 7ms
+2019-09-22 16:19:19,122 INFO 59021 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-22 16:19:19,128 INFO 59021 [egg:core] dump config after load, 2ms
+2019-09-22 16:19:19,162 INFO 59021 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/node/egg/app","/Users/aiyining/Desktop/node/egg/config","/Users/aiyining/Desktop/node/egg/mocks","/Users/aiyining/Desktop/node/egg/mocks_proxy","/Users/aiyining/Desktop/node/egg/app.js"]
+2019-09-22 16:19:19,162 INFO 59021 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app"
+2019-09-22 16:19:19,162 INFO 59021 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/config"
+2019-09-22 16:19:19,162 INFO 59021 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks"
+2019-09-22 16:19:19,162 INFO 59021 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks_proxy"
+2019-09-22 16:19:19,162 INFO 59021 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app.js"
+2019-09-22 16:19:19,163 INFO 59021 [egg-watcher:agent] watcher start success
+2019-09-22 16:19:19,182 INFO 59021 [egg:core] dump config after ready, 12ms
+2019-09-22 16:19:31,769 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:19:31,522 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":321,"blocks":8,"atimeMs":1569140371508.467,"mtimeMs":1569140371510.4553,"ctimeMs":1569140371510.4553,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:19:31.508Z","mtime":"2019-09-22T08:19:31.510Z","ctime":"2019-09-22T08:19:31.510Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:19:31,567 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":321,"blocks":8,"atimeMs":1569140371508.467,"mtimeMs":1569140371510.4553,"ctimeMs":1569140371510.4553,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:19:31.508Z","mtime":"2019-09-22T08:19:31.510Z","ctime":"2019-09-22T08:19:31.510Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:19:41,158 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1119,"blocks":8,"atimeMs":1569140381142.1372,"mtimeMs":1569140381144.0884,"ctimeMs":1569140381144.0884,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:19:41.142Z","mtime":"2019-09-22T08:19:41.144Z","ctime":"2019-09-22T08:19:41.144Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:19:41,411 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 16:19:41,206 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1119,"blocks":8,"atimeMs":1569140381142.1372,"mtimeMs":1569140381144.0884,"ctimeMs":1569140381144.0884,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:19:41.142Z","mtime":"2019-09-22T08:19:41.144Z","ctime":"2019-09-22T08:19:41.144Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:01,206 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:20:00,956 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":355,"blocks":8,"atimeMs":1569140400897.359,"mtimeMs":1569140400897.9324,"ctimeMs":1569140400897.9324,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:20:00.897Z","mtime":"2019-09-22T08:20:00.898Z","ctime":"2019-09-22T08:20:00.898Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:01,001 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":355,"blocks":8,"atimeMs":1569140400897.359,"mtimeMs":1569140400897.9324,"ctimeMs":1569140400897.9324,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:20:00.897Z","mtime":"2019-09-22T08:20:00.898Z","ctime":"2019-09-22T08:20:00.898Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:11,935 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:20:11,680 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":350,"blocks":8,"atimeMs":1569140411668.148,"mtimeMs":1569140411668.6191,"ctimeMs":1569140411668.6191,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:20:11.668Z","mtime":"2019-09-22T08:20:11.669Z","ctime":"2019-09-22T08:20:11.669Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:11,730 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":350,"blocks":8,"atimeMs":1569140411668.148,"mtimeMs":1569140411668.6191,"ctimeMs":1569140411668.6191,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:20:11.668Z","mtime":"2019-09-22T08:20:11.669Z","ctime":"2019-09-22T08:20:11.669Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:20,947 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:20:20,692 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":354,"blocks":8,"atimeMs":1569140420679.8262,"mtimeMs":1569140420682.186,"ctimeMs":1569140420682.186,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:20:20.680Z","mtime":"2019-09-22T08:20:20.682Z","ctime":"2019-09-22T08:20:20.682Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:20,742 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":354,"blocks":8,"atimeMs":1569140420679.8262,"mtimeMs":1569140420682.186,"ctimeMs":1569140420682.186,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:20:20.680Z","mtime":"2019-09-22T08:20:20.682Z","ctime":"2019-09-22T08:20:20.682Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:37,253 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":350,"blocks":8,"atimeMs":1569140437193.714,"mtimeMs":1569140437194.4226,"ctimeMs":1569140437194.4226,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:20:37.194Z","mtime":"2019-09-22T08:20:37.194Z","ctime":"2019-09-22T08:20:37.194Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:20:37,457 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:21:30,362 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:21:30,158 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":283,"blocks":8,"atimeMs":1569140490096.5713,"mtimeMs":1569140490097.2954,"ctimeMs":1569140490097.2954,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:21:30.097Z","mtime":"2019-09-22T08:21:30.097Z","ctime":"2019-09-22T08:21:30.097Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:22:40,778 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1552,"blocks":8,"atimeMs":1569140560711.536,"mtimeMs":1569140560712.1333,"ctimeMs":1569140560712.1333,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:22:40.712Z","mtime":"2019-09-22T08:22:40.712Z","ctime":"2019-09-22T08:22:40.712Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:22:40,979 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 16:27:08,326 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:27:08,121 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":282,"blocks":8,"atimeMs":1569140828054.8667,"mtimeMs":1569140828058.746,"ctimeMs":1569140828058.746,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:27:08.055Z","mtime":"2019-09-22T08:27:08.059Z","ctime":"2019-09-22T08:27:08.059Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:28:46,668 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:28:46,466 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":281,"blocks":8,"atimeMs":1569140926404.1619,"mtimeMs":1569140926404.6536,"ctimeMs":1569140926404.6536,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:28:46.404Z","mtime":"2019-09-22T08:28:46.405Z","ctime":"2019-09-22T08:28:46.405Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:37:16,790 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:37:16,587 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":279,"blocks":8,"atimeMs":1569141436513.543,"mtimeMs":1569141436514.4639,"ctimeMs":1569141436514.4639,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:37:16.514Z","mtime":"2019-09-22T08:37:16.514Z","ctime":"2019-09-22T08:37:16.514Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:37:23,645 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 16:37:23,438 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":344,"blocks":8,"atimeMs":1569141443424.339,"mtimeMs":1569141443424.885,"ctimeMs":1569141443424.885,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T08:37:23.424Z","mtime":"2019-09-22T08:37:23.425Z","ctime":"2019-09-22T08:37:23.425Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:37:46,771 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:37:46,566 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":277,"blocks":8,"atimeMs":1569141466474.561,"mtimeMs":1569141466474.9404,"ctimeMs":1569141466474.9404,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:37:46.475Z","mtime":"2019-09-22T08:37:46.475Z","ctime":"2019-09-22T08:37:46.475Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:37:53,030 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:37:52,776 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":279,"blocks":8,"atimeMs":1569141472762.3,"mtimeMs":1569141472763.687,"ctimeMs":1569141472763.687,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:37:52.762Z","mtime":"2019-09-22T08:37:52.764Z","ctime":"2019-09-22T08:37:52.764Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:37:52,824 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":279,"blocks":8,"atimeMs":1569141472762.3,"mtimeMs":1569141472763.687,"ctimeMs":1569141472763.687,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:37:52.762Z","mtime":"2019-09-22T08:37:52.764Z","ctime":"2019-09-22T08:37:52.764Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:39:33,484 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:39:33,278 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":286,"blocks":8,"atimeMs":1569141573214.3083,"mtimeMs":1569141573215.397,"ctimeMs":1569141573215.397,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:39:33.214Z","mtime":"2019-09-22T08:39:33.215Z","ctime":"2019-09-22T08:39:33.215Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:39:59,577 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:39:59,374 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":258,"blocks":8,"atimeMs":1569141599312.211,"mtimeMs":1569141599313.005,"ctimeMs":1569141599313.005,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:39:59.312Z","mtime":"2019-09-22T08:39:59.313Z","ctime":"2019-09-22T08:39:59.313Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:40:25,836 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":268,"blocks":8,"atimeMs":1569141625724.0276,"mtimeMs":1569141625724.568,"ctimeMs":1569141625724.568,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:40:25.724Z","mtime":"2019-09-22T08:40:25.725Z","ctime":"2019-09-22T08:40:25.725Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:40:26,041 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:40:45,056 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:40:44,851 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":321,"blocks":8,"atimeMs":1569141644786.4824,"mtimeMs":1569141644787.6611,"ctimeMs":1569141644787.6611,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:40:44.786Z","mtime":"2019-09-22T08:40:44.788Z","ctime":"2019-09-22T08:40:44.788Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:40:55,798 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:40:55,593 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":363,"blocks":8,"atimeMs":1569141655580.0732,"mtimeMs":1569141655580.5957,"ctimeMs":1569141655580.5957,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:40:55.580Z","mtime":"2019-09-22T08:40:55.581Z","ctime":"2019-09-22T08:40:55.581Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:41:00,961 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":363,"blocks":8,"atimeMs":1569141660949.297,"mtimeMs":1569141660949.7346,"ctimeMs":1569141660949.7346,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:41:00.949Z","mtime":"2019-09-22T08:41:00.950Z","ctime":"2019-09-22T08:41:00.950Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:41:01,165 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:43:10,454 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:43:10,247 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":321,"blocks":8,"atimeMs":1569141790187.964,"mtimeMs":1569141790188.4739,"ctimeMs":1569141790188.4739,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:10.188Z","mtime":"2019-09-22T08:43:10.188Z","ctime":"2019-09-22T08:43:10.188Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:15,455 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:43:15,184 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569141795168.603,"mtimeMs":1569141795177.352,"ctimeMs":1569141795177.352,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:15.169Z","mtime":"2019-09-22T08:43:15.177Z","ctime":"2019-09-22T08:43:15.177Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:15,249 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569141795168.603,"mtimeMs":1569141795177.352,"ctimeMs":1569141795177.352,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:15.169Z","mtime":"2019-09-22T08:43:15.177Z","ctime":"2019-09-22T08:43:15.177Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:26,492 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:43:26,287 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":312,"blocks":8,"atimeMs":1569141806275.9304,"mtimeMs":1569141806276.374,"ctimeMs":1569141806276.374,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:26.276Z","mtime":"2019-09-22T08:43:26.276Z","ctime":"2019-09-22T08:43:26.276Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:38,507 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:43:38,251 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569141818247.0884,"mtimeMs":1569141818247.663,"ctimeMs":1569141818247.663,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:38.247Z","mtime":"2019-09-22T08:43:38.248Z","ctime":"2019-09-22T08:43:38.248Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:38,302 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":333,"blocks":8,"atimeMs":1569141818247.0884,"mtimeMs":1569141818247.663,"ctimeMs":1569141818247.663,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:38.247Z","mtime":"2019-09-22T08:43:38.248Z","ctime":"2019-09-22T08:43:38.248Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:47,529 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:43:47,279 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":321,"blocks":8,"atimeMs":1569141827262.0596,"mtimeMs":1569141827263.5337,"ctimeMs":1569141827263.5337,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:47.262Z","mtime":"2019-09-22T08:43:47.264Z","ctime":"2019-09-22T08:43:47.264Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:47,324 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":321,"blocks":8,"atimeMs":1569141827262.0596,"mtimeMs":1569141827263.5337,"ctimeMs":1569141827263.5337,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:47.262Z","mtime":"2019-09-22T08:43:47.264Z","ctime":"2019-09-22T08:43:47.264Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:43:54,620 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:43:54,415 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":363,"blocks":8,"atimeMs":1569141834397.413,"mtimeMs":1569141834399.7488,"ctimeMs":1569141834399.7488,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:43:54.397Z","mtime":"2019-09-22T08:43:54.400Z","ctime":"2019-09-22T08:43:54.400Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:45:10,009 INFO 59021 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":300,"blocks":8,"atimeMs":1569141909946.369,"mtimeMs":1569141909947.175,"ctimeMs":1569141909947.175,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:45:09.946Z","mtime":"2019-09-22T08:45:09.947Z","ctime":"2019-09-22T08:45:09.947Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:45:10,212 WARN 59021 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:45:29,824 INFO 66519 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-22 16:45:29,831 INFO 66519 [egg:core] dump config after load, 3ms
+2019-09-22 16:45:29,862 INFO 66519 [egg-watcher] Start watching: ["/Users/aiyining/Desktop/node/egg/app","/Users/aiyining/Desktop/node/egg/config","/Users/aiyining/Desktop/node/egg/mocks","/Users/aiyining/Desktop/node/egg/mocks_proxy","/Users/aiyining/Desktop/node/egg/app.js"]
+2019-09-22 16:45:29,862 INFO 66519 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app"
+2019-09-22 16:45:29,862 INFO 66519 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/config"
+2019-09-22 16:45:29,862 INFO 66519 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks"
+2019-09-22 16:45:29,862 INFO 66519 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/mocks_proxy"
+2019-09-22 16:45:29,862 INFO 66519 [egg-watcher] Start watching: "/Users/aiyining/Desktop/node/egg/app.js"
+2019-09-22 16:45:29,862 INFO 66519 [egg-watcher:agent] watcher start success
+2019-09-22 16:45:29,887 INFO 66519 [egg:core] dump config after ready, 7ms
+2019-09-22 16:45:38,348 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/plugin.js change
+2019-09-22 16:45:38,097 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":234,"blocks":8,"atimeMs":1569141938091.4275,"mtimeMs":1569141938092.0234,"ctimeMs":1569141938092.0234,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:45:38.091Z","mtime":"2019-09-22T08:45:38.092Z","ctime":"2019-09-22T08:45:38.092Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:45:38,146 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/plugin.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262530,"size":234,"blocks":8,"atimeMs":1569141938091.4275,"mtimeMs":1569141938092.0234,"ctimeMs":1569141938092.0234,"birthtimeMs":1565622497868.352,"atime":"2019-09-22T08:45:38.091Z","mtime":"2019-09-22T08:45:38.092Z","ctime":"2019-09-22T08:45:38.092Z","birthtime":"2019-08-12T15:08:17.868Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:45:51,643 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/config/config.default.js change
+2019-09-22 16:45:51,442 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/config/config.default.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":27262529,"size":1119,"blocks":8,"atimeMs":1569141951424.9604,"mtimeMs":1569141951427.535,"ctimeMs":1569141951427.535,"birthtimeMs":1565622497867.4893,"atime":"2019-09-22T08:45:51.425Z","mtime":"2019-09-22T08:45:51.428Z","ctime":"2019-09-22T08:45:51.428Z","birthtime":"2019-08-12T15:08:17.867Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:53:27,178 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:53:26,974 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":268,"blocks":8,"atimeMs":1569142406911.048,"mtimeMs":1569142406912.0344,"ctimeMs":1569142406912.0344,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:53:26.911Z","mtime":"2019-09-22T08:53:26.912Z","ctime":"2019-09-22T08:53:26.912Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:53:32,910 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:53:32,705 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":267,"blocks":8,"atimeMs":1569142412688.6655,"mtimeMs":1569142412690.3738,"ctimeMs":1569142412690.3738,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:53:32.689Z","mtime":"2019-09-22T08:53:32.690Z","ctime":"2019-09-22T08:53:32.690Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:53:38,380 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":268,"blocks":8,"atimeMs":1569142418368.6611,"mtimeMs":1569142418368.999,"ctimeMs":1569142418368.999,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:53:38.369Z","mtime":"2019-09-22T08:53:38.369Z","ctime":"2019-09-22T08:53:38.369Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:53:38,432 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":268,"blocks":8,"atimeMs":1569142418368.6611,"mtimeMs":1569142418368.999,"ctimeMs":1569142418368.999,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:53:38.369Z","mtime":"2019-09-22T08:53:38.369Z","ctime":"2019-09-22T08:53:38.369Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:53:38,636 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:54:12,328 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:54:12,123 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":271,"blocks":8,"atimeMs":1569142452060.9314,"mtimeMs":1569142452063.6406,"ctimeMs":1569142452063.6406,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:54:12.061Z","mtime":"2019-09-22T08:54:12.064Z","ctime":"2019-09-22T08:54:12.064Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:54:13,581 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":269,"blocks":8,"atimeMs":1569142453562.9639,"mtimeMs":1569142453563.7122,"ctimeMs":1569142453563.7122,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:54:13.563Z","mtime":"2019-09-22T08:54:13.564Z","ctime":"2019-09-22T08:54:13.564Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:54:13,784 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:55:17,686 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:55:17,481 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":284,"blocks":8,"atimeMs":1569142517366.408,"mtimeMs":1569142517366.9292,"ctimeMs":1569142517366.9292,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:55:17.366Z","mtime":"2019-09-22T08:55:17.367Z","ctime":"2019-09-22T08:55:17.367Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 16:55:40,510 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 16:55:40,305 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":279,"blocks":8,"atimeMs":1569142540242.2307,"mtimeMs":1569142540243.0112,"ctimeMs":1569142540243.0112,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T08:55:40.242Z","mtime":"2019-09-22T08:55:40.243Z","ctime":"2019-09-22T08:55:40.243Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 17:00:28,669 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 17:00:28,462 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":279,"blocks":8,"atimeMs":1569142828397.884,"mtimeMs":1569142828399.224,"ctimeMs":1569142828399.224,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T09:00:28.398Z","mtime":"2019-09-22T09:00:28.399Z","ctime":"2019-09-22T09:00:28.399Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 17:05:11,788 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 17:05:11,585 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":279,"blocks":8,"atimeMs":1569143111507.378,"mtimeMs":1569143111508.048,"ctimeMs":1569143111508.048,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T09:05:11.507Z","mtime":"2019-09-22T09:05:11.508Z","ctime":"2019-09-22T09:05:11.508Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 17:05:27,189 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":306,"blocks":8,"atimeMs":1569143127101.3967,"mtimeMs":1569143127104.5554,"ctimeMs":1569143127104.5554,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T09:05:27.101Z","mtime":"2019-09-22T09:05:27.105Z","ctime":"2019-09-22T09:05:27.105Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 17:05:27,393 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 17:10:21,050 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/sql.js change
+2019-09-22 17:10:20,846 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/sql.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553446,"size":305,"blocks":8,"atimeMs":1569143420780.3682,"mtimeMs":1569143420786.1875,"ctimeMs":1569143420786.1875,"birthtimeMs":1569140162101.5803,"atime":"2019-09-22T09:10:20.780Z","mtime":"2019-09-22T09:10:20.786Z","ctime":"2019-09-22T09:10:20.786Z","birthtime":"2019-09-22T08:16:02.102Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 18:26:49,091 ERROR 66519 nodejs.ClusterClientNoResponseError: client no response in 564838ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 66519
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 18:37:05,918 ERROR 66519 nodejs.ClusterClientNoResponseError: client no response in 576811ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 66519
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 18:47:21,811 ERROR 66519 nodejs.ClusterClientNoResponseError: client no response in 575883ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 66519
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 18:57:38,750 ERROR 66519 nodejs.ClusterClientNoResponseError: client no response in 576911ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 66519
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 19:07:35,632 ERROR 66519 nodejs.ClusterClientNoResponseError: client no response in 576867ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 66519
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 19:12:47,548 ERROR 66519 nodejs.ClusterClientNoResponseError: client no response in 271897ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 66519
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 23:21:19,553 ERROR 66519 nodejs.ClusterClientNoResponseError: client no response in 75805ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 66519
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-22 23:32:54,778 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js rename
+2019-09-22 23:32:54,572 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":0,"blocks":0,"atimeMs":1569166374569.9297,"mtimeMs":1569166374497.374,"ctimeMs":1569166374497.374,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:32:54.570Z","mtime":"2019-09-22T15:32:54.497Z","ctime":"2019-09-22T15:32:54.497Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:34:05,561 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":679,"blocks":8,"atimeMs":1569166445498.4097,"mtimeMs":1569166445498.8804,"ctimeMs":1569166445498.8804,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:34:05.498Z","mtime":"2019-09-22T15:34:05.499Z","ctime":"2019-09-22T15:34:05.499Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:34:05,767 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:47:07,848 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/图片1.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28677849,"size":425504,"blocks":832,"atimeMs":1568972480626.875,"mtimeMs":1563984756023.849,"ctimeMs":1569167227822.4194,"birthtimeMs":1563984755951.0676,"atime":"2019-09-20T09:41:20.627Z","mtime":"2019-07-24T16:12:36.024Z","ctime":"2019-09-22T15:47:07.822Z","birthtime":"2019-07-24T16:12:35.951Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:47:15,118 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/图片1.png","remove":true,"isDirectory":false,"isFile":false}
+2019-09-22 23:47:15,120 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.png","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28677849,"size":425504,"blocks":832,"atimeMs":1568972480626.875,"mtimeMs":1563984756023.849,"ctimeMs":1569167235102.5906,"birthtimeMs":1563984755951.0676,"atime":"2019-09-20T09:41:20.627Z","mtime":"2019-07-24T16:12:36.024Z","ctime":"2019-09-22T15:47:15.103Z","birthtime":"2019-07-24T16:12:35.951Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:47:40,168 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:47:39,961 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":745,"blocks":8,"atimeMs":1569167259898.7312,"mtimeMs":1569167259900.5188,"ctimeMs":1569167259900.5188,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:47:39.899Z","mtime":"2019-09-22T15:47:39.901Z","ctime":"2019-09-22T15:47:39.901Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:48:40,072 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:48:39,866 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":834,"blocks":8,"atimeMs":1569167319799.6514,"mtimeMs":1569167319801.03,"ctimeMs":1569167319801.03,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:48:39.800Z","mtime":"2019-09-22T15:48:39.801Z","ctime":"2019-09-22T15:48:39.801Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:48:50,821 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":314,"blocks":8,"atimeMs":1569167330808.7336,"mtimeMs":1569167330809.8682,"ctimeMs":1569167330809.8682,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T15:48:50.809Z","mtime":"2019-09-22T15:48:50.810Z","ctime":"2019-09-22T15:48:50.810Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:48:50,877 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":314,"blocks":8,"atimeMs":1569167330808.7336,"mtimeMs":1569167330809.8682,"ctimeMs":1569167330809.8682,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T15:48:50.809Z","mtime":"2019-09-22T15:48:50.810Z","ctime":"2019-09-22T15:48:50.810Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:48:51,085 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 23:49:26,550 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:49:26,345 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":839,"blocks":8,"atimeMs":1569167366267.822,"mtimeMs":1569167366268.289,"ctimeMs":1569167366268.289,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:49:26.268Z","mtime":"2019-09-22T15:49:26.268Z","ctime":"2019-09-22T15:49:26.268Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:49:31,958 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":842,"blocks":8,"atimeMs":1569167371940.8276,"mtimeMs":1569167371941.3384,"ctimeMs":1569167371941.3384,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:49:31.941Z","mtime":"2019-09-22T15:49:31.941Z","ctime":"2019-09-22T15:49:31.941Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:49:32,159 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:50:04,031 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":315,"blocks":8,"atimeMs":1569167403803.9824,"mtimeMs":1569167403805.368,"ctimeMs":1569167403805.368,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T15:50:03.804Z","mtime":"2019-09-22T15:50:03.805Z","ctime":"2019-09-22T15:50:03.805Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:50:04,234 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 23:50:07,096 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":302,"blocks":8,"atimeMs":1569167407084.7576,"mtimeMs":1569167407085.192,"ctimeMs":1569167407085.192,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T15:50:07.085Z","mtime":"2019-09-22T15:50:07.085Z","ctime":"2019-09-22T15:50:07.085Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:50:07,298 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 23:50:21,851 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28679316,"size":0,"blocks":0,"atimeMs":1569167421840.0542,"mtimeMs":1569167421840.0542,"ctimeMs":1569167421840.0542,"birthtimeMs":1569167421840.0542,"atime":"2019-09-22T15:50:21.840Z","mtime":"2019-09-22T15:50:21.840Z","ctime":"2019-09-22T15:50:21.840Z","birthtime":"2019-09-22T15:50:21.840Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:50:23,412 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28679316,"size":7,"blocks":8,"atimeMs":1569167423399.7305,"mtimeMs":1569167423400.0405,"ctimeMs":1569167423400.0405,"birthtimeMs":1569167421840.0542,"atime":"2019-09-22T15:50:23.400Z","mtime":"2019-09-22T15:50:23.400Z","ctime":"2019-09-22T15:50:23.400Z","birthtime":"2019-09-22T15:50:21.840Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:50:27,962 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:50:27,759 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":842,"blocks":8,"atimeMs":1569167427743.0947,"mtimeMs":1569167427743.5723,"ctimeMs":1569167427743.5723,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:50:27.743Z","mtime":"2019-09-22T15:50:27.744Z","ctime":"2019-09-22T15:50:27.744Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:51:09,203 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":840,"blocks":8,"atimeMs":1569167469114.3809,"mtimeMs":1569167469114.96,"ctimeMs":1569167469114.96,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:51:09.114Z","mtime":"2019-09-22T15:51:09.115Z","ctime":"2019-09-22T15:51:09.115Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:51:09,404 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:51:45,500 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.doc","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28679316,"size":7,"blocks":8,"atimeMs":1569167505455.8188,"mtimeMs":1569167505395,"ctimeMs":1569167505395.629,"birthtimeMs":1569167421840.0542,"atime":"2019-09-22T15:51:45.456Z","mtime":"2019-09-22T15:51:45.395Z","ctime":"2019-09-22T15:51:45.396Z","birthtime":"2019-09-22T15:50:21.840Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:51:45,503 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.txt","remove":true,"isDirectory":false,"isFile":false}
+2019-09-22 23:51:46,103 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.doc","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28679316,"size":7,"blocks":8,"atimeMs":1569167506090.0051,"mtimeMs":1569167506090.4539,"ctimeMs":1569167506090.4539,"birthtimeMs":1569167421840.0542,"atime":"2019-09-22T15:51:46.090Z","mtime":"2019-09-22T15:51:46.090Z","ctime":"2019-09-22T15:51:46.090Z","birthtime":"2019-09-22T15:50:21.840Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:51:50,383 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":840,"blocks":8,"atimeMs":1569167510380.0388,"mtimeMs":1569167510382.0017,"ctimeMs":1569167510382.0017,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:51:50.380Z","mtime":"2019-09-22T15:51:50.382Z","ctime":"2019-09-22T15:51:50.382Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:51:50,436 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":840,"blocks":8,"atimeMs":1569167510380.0388,"mtimeMs":1569167510382.0017,"ctimeMs":1569167510382.0017,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:51:50.380Z","mtime":"2019-09-22T15:51:50.382Z","ctime":"2019-09-22T15:51:50.382Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:51:50,644 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:51:58,109 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:51:57,905 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":842,"blocks":8,"atimeMs":1569167517891.03,"mtimeMs":1569167517891.5125,"ctimeMs":1569167517891.5125,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:51:57.891Z","mtime":"2019-09-22T15:51:57.892Z","ctime":"2019-09-22T15:51:57.892Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:52:08,002 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.doc","remove":true,"isDirectory":false,"isFile":false}
+2019-09-22 23:52:08,002 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28679316,"size":7,"blocks":8,"atimeMs":1569167506090,"mtimeMs":1569167527983,"ctimeMs":1569167527983.7883,"birthtimeMs":1569167421840.0542,"atime":"2019-09-22T15:51:46.090Z","mtime":"2019-09-22T15:52:07.983Z","ctime":"2019-09-22T15:52:07.984Z","birthtime":"2019-09-22T15:50:21.840Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:52:12,213 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:52:12,009 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":842,"blocks":8,"atimeMs":1569167531990.2031,"mtimeMs":1569167531991.7705,"ctimeMs":1569167531991.7705,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:52:11.990Z","mtime":"2019-09-22T15:52:11.992Z","ctime":"2019-09-22T15:52:11.992Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:53:21,717 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:53:21,513 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":848,"blocks":8,"atimeMs":1569167601445.2915,"mtimeMs":1569167601447.3057,"ctimeMs":1569167601447.3057,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:53:21.445Z","mtime":"2019-09-22T15:53:21.447Z","ctime":"2019-09-22T15:53:21.447Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:53:33,646 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:53:33,442 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":846,"blocks":8,"atimeMs":1569167613426.9956,"mtimeMs":1569167613427.515,"ctimeMs":1569167613427.515,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:53:33.427Z","mtime":"2019-09-22T15:53:33.428Z","ctime":"2019-09-22T15:53:33.428Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:53:38,183 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:53:37,978 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":848,"blocks":8,"atimeMs":1569167617966.9895,"mtimeMs":1569167617967.4382,"ctimeMs":1569167617967.4382,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:53:37.967Z","mtime":"2019-09-22T15:53:37.967Z","ctime":"2019-09-22T15:53:37.967Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:54:05,107 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/1.txt","remove":true,"isDirectory":false,"isFile":false}
+2019-09-22 23:54:05,107 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"rename","path":"/Users/aiyining/Desktop/node/egg/app/public/a.txt","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28679316,"size":7,"blocks":8,"atimeMs":1569167645106.548,"mtimeMs":1569167645045,"ctimeMs":1569167645045.395,"birthtimeMs":1569167421840.0542,"atime":"2019-09-22T15:54:05.107Z","mtime":"2019-09-22T15:54:05.045Z","ctime":"2019-09-22T15:54:05.045Z","birthtime":"2019-09-22T15:50:21.840Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:54:09,670 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:54:09,465 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":848,"blocks":8,"atimeMs":1569167649453.364,"mtimeMs":1569167649453.834,"ctimeMs":1569167649453.834,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:54:09.453Z","mtime":"2019-09-22T15:54:09.454Z","ctime":"2019-09-22T15:54:09.454Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:57:04,615 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":895,"blocks":8,"atimeMs":1569167824552.3003,"mtimeMs":1569167824560.4678,"ctimeMs":1569167824560.4678,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:57:04.552Z","mtime":"2019-09-22T15:57:04.560Z","ctime":"2019-09-22T15:57:04.560Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:57:04,821 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:58:09,474 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change
+2019-09-22 23:58:09,271 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":895,"blocks":8,"atimeMs":1569167889209.1895,"mtimeMs":1569167889209.816,"ctimeMs":1569167889209.816,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T15:58:09.209Z","mtime":"2019-09-22T15:58:09.210Z","ctime":"2019-09-22T15:58:09.210Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-22 23:58:25,501 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/controller/user.js change
+2019-09-22 23:58:25,296 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/controller/user.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28553615,"size":314,"blocks":8,"atimeMs":1569167905233.098,"mtimeMs":1569167905235.165,"ctimeMs":1569167905235.165,"birthtimeMs":1569140178901.3625,"atime":"2019-09-22T15:58:25.233Z","mtime":"2019-09-22T15:58:25.235Z","ctime":"2019-09-22T15:58:25.235Z","birthtime":"2019-09-22T08:16:18.901Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-23 00:02:52,821 INFO 66519 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/aiyining/Desktop/node/egg/app/service/insertImg.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":28674592,"size":872,"blocks":8,"atimeMs":1569168172755.8665,"mtimeMs":1569168172759.2354,"ctimeMs":1569168172759.2354,"birthtimeMs":1569166374497.374,"atime":"2019-09-22T16:02:52.756Z","mtime":"2019-09-22T16:02:52.759Z","ctime":"2019-09-22T16:02:52.759Z","birthtime":"2019-09-22T15:32:54.497Z"},"remove":false,"isDirectory":false,"isFile":true}
+2019-09-23 00:02:53,026 WARN 66519 [agent:development] reload worker because /Users/aiyining/Desktop/node/egg/app/service/insertImg.js change

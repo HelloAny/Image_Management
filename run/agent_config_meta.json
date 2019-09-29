@@ -1,0 +1,326 @@
+{
+  "security": {
+    "csrf": {
+      "enable": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+      "type": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "useSession": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "cookieName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "sessionName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "headerName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "bodyName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "queryName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.local.js",
+      "maxAge": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "value": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "policy": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js",
+      "checkAddress": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+    }
+  },
+  "keys": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+  "view": {
+    "mapping": {
+      ".html": "/Users/aiyining/Desktop/node/egg/config/config.default.js"
+    },
+    "defaultViewEngine": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+    "root": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
+    "cache": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view@2.1.2@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js"
+  },
+  "middleware": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+      "port": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+      "user": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+      "password": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+      "database": "/Users/aiyining/Desktop/node/egg/config/config.default.js"
+    },
+    "app": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+    "agent": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+    "default": {
+      "database": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-mysql@3.0.0@egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-mysql@3.0.0@egg-mysql/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "whitelist": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+    "mode": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fields": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "files": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/config/config.default.js"
+    }
+  },
+  "cors": {
+    "allowMethods": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+    "credentials": "/Users/aiyining/Desktop/node/egg/config/config.default.js",
+    "origin": "/Users/aiyining/Desktop/node/egg/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+      "development": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js",
+      "file": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-schedule@3.6.4@egg-schedule/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "fastReady": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dir": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "dynamic": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "preload": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "buffer": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
+    "maxFiles": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/aiyining/Desktop/node/egg/node_modules/_egg-view-nunjucks@2.2.0@egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "name": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "proxy": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "maxProxyCount": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "version": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "description": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "private": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "dependencies": {
+      "await-stream-ready": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-cors": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-mysql": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-scripts": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-static": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "md5": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "stream-wormhole": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "autod-egg": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-bin": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-ci": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "egg-mock": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "eslint": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "eslint-config-egg": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "stop": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "dev": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "debug": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "test": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "test-local": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "cov": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "lint": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "ci": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "autod": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "url": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "author": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "license": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "HOME": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "rundir": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "notFound": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "sitefile": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "middlewares": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "httpClient": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "encoding": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "formLimit": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "strict": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "depth": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "onerror": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "encoding": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "env": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "level": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "consoleLevel": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "outputJSON": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "buffer": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "appLogName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "coreLogName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "agentLogName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "errorLogName": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxSockets": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxSockets": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "logging": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "serverTimeout": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "port": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+      "hostname": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/config/config.default.js"
+}

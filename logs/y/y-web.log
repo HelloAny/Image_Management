@@ -1,0 +1,375 @@
+2019-09-28 00:34:55,161 ERROR 57466 [-/::1/-/14ms POST /uploadImage] nodejs.Error: Illegal argument undefined
+    at module.exports (/Users/aiyining/Desktop/node/egg/node_modules/_md5@2.2.1@md5/md5.js:152:13)
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:25:47)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 57466
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:34:59,119 ERROR 57466 [-/::1/-/5ms POST /uploadImage] nodejs.Error: Illegal argument undefined
+    at module.exports (/Users/aiyining/Desktop/node/egg/node_modules/_md5@2.2.1@md5/md5.js:152:13)
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:25:47)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 57466
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:35:11,339 ERROR 57544 [-/::1/-/17ms POST /uploadImage] nodejs.Error: Illegal argument undefined
+    at module.exports (/Users/aiyining/Desktop/node/egg/node_modules/_md5@2.2.1@md5/md5.js:152:13)
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:25:47)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 57544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:48:31,800 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:48:38,942 ERROR 57615 [-/::1/-/5ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:48:59,387 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:49:26,542 ERROR 57615 [-/::1/-/7ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:49:34,683 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:49:39,990 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:50:11,366 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:51:07,276 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:51:11,723 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:52:31,277 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:52:36,005 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:54:56,826 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:02,760 ERROR 57615 [-/::1/-/0ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:33,704 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:37,739 ERROR 57615 [-/::1/-/4ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:55:40,375 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:56:21,777 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 00:56:26,386 ERROR 57615 [-/::1/-/1ms GET /public/img/15695995958593378ded8f78d35a12f12e066821b581f.png] nodejs.ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+ENOENTError: ENOENT: no such file or directory, stat '/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png'
+errno: -2
+code: "ENOENT"
+syscall: "stat"
+path: "/Users/aiyining/Desktop/node/egg/app/public/img/15695995958593378ded8f78d35a12f12e066821b581f.png"
+name: "ENOENTError"
+pid: 57615
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:23:49,843 ERROR 732 [-/::1/-/14ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 732
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:27:01,438 ERROR 2168 [-/::1/-/17ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 2168
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:30:16,322 ERROR 3072 [-/::1/-/13ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3072
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-28 11:30:56,961 ERROR 3270 [-/::1/-/16ms POST /uploadImage] nodejs.ReferenceError: Cannot access 'path' before initialization
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:28:24)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 3270
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 10:35:12,609 ERROR 20279 [-/::1/-/13ms POST /deleteImage] nodejs.TypeError: Cannot read property 'body' of undefined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:12:33)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 20279
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-29 10:38:05,911 ERROR 22256 [-/::1/-/28ms POST /deleteImage] nodejs.TypeError: Cannot read property 'body' of undefined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:12:33)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22256
+hostname: aiyiningdeMBP
+
+2019-09-29 10:38:34,717 ERROR 22413 [-/::1/-/36ms POST /deleteImage] nodejs.TypeError: Cannot read property 'body' of undefined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:12:33)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22413
+hostname: aiyiningdeMBP
+
+2019-09-29 10:38:52,033 ERROR 22485 [-/::1/-/39ms POST /deleteImage] nodejs.ReferenceError: data is not defined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:23:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22485
+hostname: aiyiningdeMBP
+
+2019-09-29 10:39:29,478 ERROR 22596 [-/::1/-/44ms POST /deleteImage] nodejs.ReferenceError: data is not defined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:23:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22596
+hostname: aiyiningdeMBP
+
+2019-09-29 10:40:37,855 ERROR 22964 [-/::1/-/46ms POST /deleteImage] nodejs.ReferenceError: data is not defined
+    at deleteImgController.deleteImg (/Users/aiyining/Desktop/node/egg/app/controller/deleteImg.js:23:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 22964
+hostname: aiyiningdeMBP
+

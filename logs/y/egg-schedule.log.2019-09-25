@@ -1,0 +1,12 @@
+2019-09-26 00:00:33,028 INFO 68791 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-26 00:00:33,028 INFO 68791 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-26 00:00:33,028 INFO 68791 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-26 00:07:30,789 INFO 70663 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-26 00:07:30,789 INFO 70663 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-26 00:07:30,789 INFO 70663 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-26 11:25:48,879 INFO 20544 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 45251164ms at 2019-09-27 00:00:00.043
+2019-09-26 11:25:48,860 INFO 70663 [Job#15694683488264104679662178673] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
+2019-09-26 11:25:48,909 INFO 70663 [Job#15694683488264104679662178673] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 31ms
+2019-09-26 11:25:49,825 INFO 70663 [Job#15694683498224104689598937353] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-09-26 11:25:49,846 INFO 70663 [Job#15694683498224104689598937353] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 21ms
+2019-09-26 11:25:49,834 INFO 20544 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 45251176ms at 2019-09-27 00:00:01.010

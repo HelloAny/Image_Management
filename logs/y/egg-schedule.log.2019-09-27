@@ -1,0 +1,60 @@
+2019-09-27 19:28:11,225 INFO 71621 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 19:28:11,225 INFO 71621 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 19:28:11,225 INFO 71621 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 19:28:11,533 INFO 71614 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 32508482ms at 2019-09-28 04:30:00.014
+2019-09-27 19:28:11,533 INFO 71614 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 16308467ms at 2019-09-28 00:00:00.000
+2019-09-27 19:28:11,534 INFO 71614 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 16309467ms at 2019-09-28 00:00:01.001
+2019-09-27 20:36:08,179 INFO 91267 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 20:36:08,179 INFO 91267 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 20:36:08,179 INFO 91267 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 20:36:08,425 INFO 91261 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28431577ms at 2019-09-28 04:30:00.002
+2019-09-27 20:36:08,425 INFO 91261 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 12231575ms at 2019-09-28 00:00:00.000
+2019-09-27 20:36:08,425 INFO 91261 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12232575ms at 2019-09-28 00:00:01.000
+2019-09-27 20:36:23,897 INFO 91342 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 20:36:23,897 INFO 91342 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 20:36:23,897 INFO 91342 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 20:36:54,006 INFO 91473 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 20:36:54,007 INFO 91473 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 20:36:54,007 INFO 91473 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 20:37:34,248 INFO 91885 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 20:37:34,248 INFO 91885 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 20:37:34,248 INFO 91885 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 20:37:34,443 INFO 91879 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 28345559ms at 2019-09-28 04:30:00.002
+2019-09-27 20:37:34,444 INFO 91879 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 12145556ms at 2019-09-28 00:00:00.000
+2019-09-27 20:37:34,444 INFO 91879 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 12146556ms at 2019-09-28 00:00:01.000
+2019-09-27 20:51:26,016 INFO 95639 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 20:51:26,016 INFO 95639 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 20:51:26,016 INFO 95639 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:44:49,330 INFO 43616 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:44:49,330 INFO 43616 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:44:49,330 INFO 43616 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:45:26,329 INFO 43789 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:45:26,329 INFO 43789 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:45:26,329 INFO 43789 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:46:52,722 INFO 44187 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:46:52,722 INFO 44187 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:46:52,722 INFO 44187 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:46:57,400 INFO 44208 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:46:57,400 INFO 44208 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:46:57,400 INFO 44208 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:47:18,188 INFO 44304 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:47:18,188 INFO 44304 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:47:18,188 INFO 44304 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:47:22,752 INFO 44325 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:47:22,752 INFO 44325 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:47:22,752 INFO 44325 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:50:16,413 INFO 45174 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:50:16,413 INFO 45174 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:50:16,413 INFO 45174 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:50:30,218 INFO 45235 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:50:30,218 INFO 45235 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:50:30,218 INFO 45235 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 23:51:11,925 INFO 45427 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 23:51:11,925 INFO 45427 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js
+2019-09-27 23:51:11,925 INFO 45427 [egg-schedule]: register schedule /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-28 00:00:00,200 INFO 91879 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 86399807ms at 2019-09-29 00:00:00.007
+2019-09-28 00:00:00,194 INFO 45427 [Job#15696000001924778356460883111] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
+2019-09-28 00:00:00,213 INFO 45427 [Job#15696000001924778356460883111] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 12ms
+2019-09-28 00:00:01,192 INFO 45427 [Job#15696000011924778366454100521] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-09-28 00:00:01,202 INFO 45427 [Job#15696000011924778366454100521] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 10ms
+2019-09-28 00:00:01,198 INFO 91879 [Timer] /Users/aiyining/Desktop/node/egg/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86399808ms at 2019-09-29 00:00:01.006

@@ -1,0 +1,2147 @@
+2019-09-23 09:48:16,933 ERROR 8148 [-/127.0.0.1/-/8ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:18)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 8148
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 09:48:50,856 ERROR 8306 [-/127.0.0.1/-/8ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 8306
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 09:48:51,449 ERROR 8306 [-/127.0.0.1/-/2ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 8306
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 09:48:55,790 ERROR 8306 [-/127.0.0.1/-/1ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 8306
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 09:48:56,277 ERROR 8343 [-/127.0.0.1/-/8ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 8343
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 09:48:59,724 ERROR 8343 [-/127.0.0.1/-/1ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 8343
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 10:54:08,778 ERROR 8343 [-/127.0.0.1/-/10ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 8343
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 10:54:09,445 ERROR 8343 [-/127.0.0.1/-/1ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:8:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 8343
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:17,808 ERROR 33544 [-/127.0.0.1/-/6ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 33544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:18,357 ERROR 33544 [-/127.0.0.1/-/1ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 33544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:42,671 ERROR 33544 [-/127.0.0.1/-/1ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 33544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:43,184 ERROR 33544 [-/127.0.0.1/-/0ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 33544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:43,471 ERROR 33544 [-/127.0.0.1/-/0ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '/public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "/public/a.txt"
+name: "ENOENTError"
+pid: 33544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:43,881 ERROR 33666 [-/127.0.0.1/-/6ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 33666
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:44,261 ERROR 33666 [-/127.0.0.1/-/2ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 33666
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:44,666 ERROR 33666 [-/127.0.0.1/-/0ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 33666
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 11:10:50,513 ERROR 33666 [-/127.0.0.1/-/1ms GET /user] nodejs.ENOENTError: ENOENT: no such file or directory, open '../public/a.txt'
+    at Object.openSync (fs.js:436:3)
+    at Object.readFileSync (fs.js:336:35)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/insertImg.js:9:12)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:46)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+errno: -2
+syscall: "open"
+code: "ENOENT"
+path: "../public/a.txt"
+name: "ENOENTError"
+pid: 33666
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:20:38,907 WARN 60651 [-/127.0.0.1/-/10ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 60651
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:20:49,462 WARN 63687 [-/127.0.0.1/-/6ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63687
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:20:59,712 WARN 63687 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63687
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:21:00,254 WARN 63687 [-/127.0.0.1/-/0ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63687
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:21:00,677 WARN 63687 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63687
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:21:01,121 WARN 63687 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63687
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:21:01,478 WARN 63758 [-/127.0.0.1/-/8ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63758
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:21:01,781 WARN 63758 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63758
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:21:24,533 WARN 63865 [-/127.0.0.1/-/8ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63865
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:21:25,115 WARN 63865 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at insertImgService.insert (/Users/aiyining/Desktop/node/egg/app/service/upload.js:20:34)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:43)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+message: "Content-Type must be multipart/*"
+pid: 63865
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:28:52,462 WARN 63865 [-/::1/-/7ms POST /user] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 14:28:52,464 WARN 63865 [-/::1/-/9ms POST /user] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:154:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 63865
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:30:07,058 WARN 66590 [-/::1/-/4ms POST /user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 14:30:07,063 WARN 66590 [-/::1/-/9ms POST /user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 66590
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:30:19,518 WARN 66590 [-/127.0.0.1/-/4ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:11:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 66590
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:31:01,145 WARN 66873 [-/127.0.0.1/-/11ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 66873
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:31:31,537 WARN 66873 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 66873
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:31:32,336 WARN 66873 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 66873
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:31:32,842 WARN 67017 [-/127.0.0.1/-/6ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 67017
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:31:33,066 WARN 67017 [-/127.0.0.1/-/0ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 67017
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:31:38,776 WARN 67043 [-/127.0.0.1/-/7ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 67043
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:34:18,890 WARN 67043 [-/::1/-/3ms POST /user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 14:34:18,892 WARN 67043 [-/::1/-/4ms POST /user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 67043
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:35:12,800 WARN 68025 [-/::1/-/7ms POST /user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 14:35:12,802 WARN 68025 [-/::1/-/8ms POST /user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 68025
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:35:38,036 WARN 68025 [-/127.0.0.1/-/7ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 68025
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:35:38,512 WARN 68025 [-/127.0.0.1/-/3ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 68025
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:35:38,845 WARN 68025 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 68025
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:35:39,081 WARN 68025 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 68025
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:35:39,285 WARN 68025 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 68025
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:36:07,161 WARN 68298 [-/127.0.0.1/-/11ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:24:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 68298
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:47:53,900 WARN 71587 [-/127.0.0.1/-/13ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 71587
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:47:54,831 WARN 71587 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 71587
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:47:58,321 WARN 71587 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 71587
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:47:58,662 WARN 71587 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 71587
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:51:52,822 WARN 72710 [-/127.0.0.1/-/14ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72710
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:51:53,401 WARN 72710 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72710
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:14,777 WARN 72813 [-/127.0.0.1/-/10ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:15,284 WARN 72813 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:15,500 WARN 72813 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:15,696 WARN 72813 [-/127.0.0.1/-/0ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:15,878 WARN 72813 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:26,973 WARN 72813 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:27,262 WARN 72813 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:27,494 WARN 72813 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:27,661 WARN 72813 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:27,842 WARN 72813 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:28,019 WARN 72813 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:28,214 WARN 72813 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72813
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:52:54,633 WARN 72995 [-/127.0.0.1/-/12ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72995
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:53:10,186 WARN 72995 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72995
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:53:11,938 WARN 72995 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72995
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:53:14,244 WARN 72995 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72995
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:53:18,575 WARN 72995 [-/127.0.0.1/-/0ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 72995
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:54:42,457 WARN 73499 [-/127.0.0.1/-/12ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73499
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:54:55,711 WARN 73499 [-/127.0.0.1/-/3ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73499
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:54:58,027 WARN 73568 [-/127.0.0.1/-/11ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:55:07,415 WARN 73568 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:21:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73568
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:55:12,411 WARN 73620 [-/127.0.0.1/-/7ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73620
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:55:19,882 WARN 73620 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73620
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:55:20,518 WARN 73683 [-/127.0.0.1/-/22ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73683
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:55:20,950 WARN 73683 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73683
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:55:21,363 WARN 73683 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73683
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:55:25,332 WARN 73683 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:22:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 73683
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:57:25,544 WARN 74064 [-/127.0.0.1/-/10ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74064
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:57:26,053 WARN 74064 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74064
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:08,126 WARN 74746 [-/127.0.0.1/-/11ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74746
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:08,852 WARN 74746 [-/127.0.0.1/-/4ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74746
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:09,397 WARN 74746 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74746
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:11,024 WARN 74746 [-/127.0.0.1/-/1ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74746
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:16,130 WARN 74746 [-/127.0.0.1/-/2ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74746
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:16,602 WARN 74746 [-/127.0.0.1/-/4ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74746
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:32,035 WARN 74861 [-/127.0.0.1/-/11ms GET /user] nodejs.BadRequestError: Content-Type must be multipart/*
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.multipart (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:166:17)
+    at Object.getFileStream (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/extend/context.js:206:24)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:20:34)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+message: "Content-Type must be multipart/*"
+pid: 74861
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 14:59:37,687 WARN 74861 [-/::1/-/3ms POST /user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 14:59:37,687 WARN 74861 [-/::1/-/3ms POST /user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 74861
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:00:33,525 WARN 75115 [-/::1/-/4ms POST /user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 15:00:33,527 WARN 75115 [-/::1/-/6ms POST /user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 75115
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:00:41,686 WARN 75115 [-/::1/-/1ms POST /user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 15:00:41,687 WARN 75115 [-/::1/-/2ms POST /user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 75115
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:01:06,679 WARN 75115 [-/127.0.0.1/-/2ms POST /user] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 15:01:06,681 WARN 75115 [-/127.0.0.1/-/3ms POST /user] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:154:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 75115
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:02:17,750 WARN 75621 [-/127.0.0.1/-/7ms POST /user] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-09-23 15:02:17,751 WARN 75621 [-/127.0.0.1/-/8ms POST /user] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:163:19)
+    at csrf (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/node/egg/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 75621
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:03:36,545 WARN 75971 [-/127.0.0.1/-/17ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 75971
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:04:06,080 WARN 75971 [-/127.0.0.1/-/6ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 75971
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:04:42,384 WARN 76288 [-/127.0.0.1/-/12ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76288
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:05:08,791 WARN 76429 [-/127.0.0.1/-/15ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:06:32,081 WARN 76429 [-/127.0.0.1/-/13ms POST /user] nodejs.Error: Invalid filename: 艾依宁1180290014实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:09:23,236 WARN 76429 [-/127.0.0.1/-/3ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:09:40,862 WARN 76429 [-/127.0.0.1/-/2ms POST /user] nodejs.Error: Invalid filename: appveyor.yml
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:13:09,429 WARN 76429 [-/127.0.0.1/-/5ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:14:41,976 WARN 76429 [-/127.0.0.1/-/3ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:14:58,723 WARN 76429 [-/127.0.0.1/-/1ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:15:15,909 WARN 76429 [-/127.0.0.1/-/2ms POST /user] nodejs.Error: Invalid filename: java作业.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:15:28,376 WARN 76429 [-/127.0.0.1/-/4ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:15:37,995 WARN 76429 [-/127.0.0.1/-/2ms POST /user] nodejs.Error: Invalid filename: 蓝色空间面试成绩登记表.xlsx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:15:51,053 WARN 76429 [-/127.0.0.1/-/3ms POST /user] nodejs.Error: Invalid filename: a.txt
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:19:54,194 WARN 76429 [-/127.0.0.1/-/7ms POST /user] nodejs.Error: Invalid filename: 柔软剂在定型机上的应用.doc
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 76429
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:20:50,583 WARN 80902 [-/127.0.0.1/-/13ms POST /user] nodejs.Error: Invalid filename: java作业.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 80902
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:31:51,481 WARN 83992 [-/127.0.0.1/-/16ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 83992
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 15:48:36,444 WARN 83992 [-/127.0.0.1/-/7ms POST /user] nodejs.Error: Invalid filename: 1.xlsx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 83992
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 16:08:12,505 WARN 83992 [-/::1/-/21ms POST /user] nodejs.Error: Invalid filename: 1.xlsx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 83992
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 16:15:59,329 WARN 96351 [-/::1/-/18ms POST /user] nodejs.Error: Invalid filename: 1.xlsx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 96351
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 16:20:53,857 WARN 97705 [-/::1/-/15ms POST /user] nodejs.Error: Invalid filename: 1.xlsx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 97705
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:19:30,676 WARN 97705 [-/::1/-/16ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 97705
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:22:22,375 WARN 15075 [-/::1/-/13ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 15075
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:22:41,141 WARN 15181 [-/::1/-/15ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 15181
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:23:51,721 WARN 15662 [-/::1/-/27ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 15662
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:27:12,592 WARN 16580 [-/::1/-/12ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 16580
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:35:01,190 WARN 18156 [-/::1/-/21ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 18156
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:36:47,320 WARN 19295 [-/::1/-/15ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 19295
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 17:37:27,546 WARN 19546 [-/::1/-/11ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 19546
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:16:58,685 WARN 29801 [-/::1/-/112ms POST /user] nodejs.Error: Invalid filename: 1.png
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 29801
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:17:20,139 WARN 29801 [-/::1/-/5ms POST /user] nodejs.Error: Invalid filename: 1.png
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 29801
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:21:16,291 WARN 31693 [-/::1/-/21ms POST /user] nodejs.ReferenceError: path is not defined
+    at whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:14)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+status: 400
+pid: 31693
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:21:26,645 WARN 31693 [-/::1/-/5ms POST /user] nodejs.ReferenceError: path is not defined
+    at whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:14)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+status: 400
+pid: 31693
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:21:51,443 WARN 31860 [-/::1/-/11ms POST /user] nodejs.ReferenceError: path is not defined
+    at whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:14)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+status: 400
+pid: 31860
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:24:19,685 WARN 32544 [-/::1/-/9ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 32544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:27:22,034 WARN 33315 [-/::1/-/19ms POST /user] nodejs.ReferenceError: path is not defined
+    at whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:14)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+status: 400
+pid: 33315
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:27:27,544 WARN 33315 [-/::1/-/4ms POST /user] nodejs.ReferenceError: path is not defined
+    at whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:14)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+status: 400
+pid: 33315
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:27:30,118 WARN 33315 [-/::1/-/7ms POST /user] nodejs.ReferenceError: path is not defined
+    at whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:72:14)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+status: 400
+pid: 33315
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:29:07,627 ERROR 33872 [-/::1/-/8ms POST /user] nodejs.ReferenceError: path is not defined
+    at Object.whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:19:37)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 33872
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:29:26,700 ERROR 33972 [-/::1/-/6ms POST /user] nodejs.ReferenceError: path is not defined
+    at Object.whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:19:37)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 33972
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:29:55,665 ERROR 34117 [-/::1/-/7ms POST /user] nodejs.ReferenceError: path is not defined
+    at Object.whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:19:37)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 34117
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:29:57,916 ERROR 34117 [-/::1/-/3ms POST /user] nodejs.ReferenceError: path is not defined
+    at Object.whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:19:37)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 34117
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:30:29,420 ERROR 34216 [-/::1/-/11ms POST /user] nodejs.ReferenceError: path is not defined
+    at Object.whitelist (/Users/aiyining/Desktop/node/egg/config/config.default.js:52:48)
+    at UserController.form (/Users/aiyining/Desktop/node/egg/app/controller/user.js:19:37)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+
+pid: 34216
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:31:55,374 WARN 34630 [-/::1/-/4ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 34630
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 18:32:56,261 WARN 34946 [-/::1/-/18ms POST /user] nodejs.Error: Invalid filename: 1180290014艾依宁实验一.docx
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 34946
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 23:16:27,868 WARN 74569 [-/::1/-/29ms POST /user] nodejs.Error: Invalid filename: IMG_0139.jpg
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 74569
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-23 23:16:51,471 WARN 74766 [-/::1/-/19ms POST /user] nodejs.Error: Invalid filename: IMG_0139.jpg
+    at checkFile (/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app.js:73:23)
+    at Busboy.onFile (/Users/aiyining/Desktop/node/egg/node_modules/_co-busboy@1.4.0@co-busboy/index.js:101:17)
+    at Busboy.emit (events.js:196:13)
+    at Busboy.emit (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/main.js:38:33)
+    at PartStream.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_busboy@0.2.14@busboy/lib/types/multipart.js:213:13)
+    at PartStream.emit (events.js:196:13)
+    at HeaderParser.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/Dicer.js:51:16)
+    at HeaderParser.emit (events.js:196:13)
+    at HeaderParser._finish (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:68:8)
+    at SBMH.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_dicer@0.2.5@dicer/lib/HeaderParser.js:40:12)
+status: 400
+pid: 74766
+hostname: aiyiningdeMacBook-Pro.local
+

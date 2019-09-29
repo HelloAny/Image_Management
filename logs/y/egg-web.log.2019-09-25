@@ -1,0 +1,65 @@
+2019-09-25 15:16:20,771 INFO 71656 [egg-logrotator] app logger reload: got log-reload message
+2019-09-25 18:21:20,485 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 19:10:43,004 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 20:57:00,944 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 21:07:18,334 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 21:17:34,214 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 21:27:31,095 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 21:37:47,978 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 21:48:04,925 WARN 71656 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-25 21:48:04,926 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-25 21:57:29,730 WARN 71656 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 00:00:32,996 INFO 68791 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-26 00:00:33,028 INFO 68791 [egg-multipart] stream mode enable
+2019-09-26 00:00:33,030 INFO 68791 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-26 00:00:33,233 INFO 68791 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-26 00:00:33,236 INFO 68791 [egg-security] use methodnoallow middleware
+2019-09-26 00:00:33,238 INFO 68791 [egg-security] use noopen middleware
+2019-09-26 00:00:33,239 INFO 68791 [egg-security] use nosniff middleware
+2019-09-26 00:00:33,240 INFO 68791 [egg-security] use xssProtection middleware
+2019-09-26 00:00:33,241 INFO 68791 [egg-security] use xframe middleware
+2019-09-26 00:00:33,242 INFO 68791 [egg-security] use dta middleware
+2019-09-26 00:00:33,242 INFO 68791 [egg-security] compose 6 middlewares into one security middleware
+2019-09-26 00:00:33,261 INFO 68791 [egg:core] dump config after load, 10ms
+2019-09-26 00:00:33,275 INFO 68791 [egg-watcher:application] watcher start success
+2019-09-26 00:00:33,408 INFO 68791 [egg-mysql] instance[0] status OK, rds currentTime: Thu Sep 26 2019 00:00:33 GMT+0800 (GMT+08:00)
+2019-09-26 00:00:33,422 INFO 68791 [egg:core] dump config after ready, 12ms
+2019-09-26 00:07:30,763 INFO 70663 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-26 00:07:30,789 INFO 70663 [egg-multipart] stream mode enable
+2019-09-26 00:07:30,791 INFO 70663 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-26 00:07:30,948 INFO 70663 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-26 00:07:30,951 INFO 70663 [egg-security] use methodnoallow middleware
+2019-09-26 00:07:30,952 INFO 70663 [egg-security] use noopen middleware
+2019-09-26 00:07:30,953 INFO 70663 [egg-security] use nosniff middleware
+2019-09-26 00:07:30,955 INFO 70663 [egg-security] use xssProtection middleware
+2019-09-26 00:07:30,956 INFO 70663 [egg-security] use xframe middleware
+2019-09-26 00:07:30,957 INFO 70663 [egg-security] use dta middleware
+2019-09-26 00:07:30,957 INFO 70663 [egg-security] compose 6 middlewares into one security middleware
+2019-09-26 00:07:30,973 INFO 70663 [egg:core] dump config after load, 6ms
+2019-09-26 00:07:30,994 INFO 70663 [egg-mysql] instance[0] status OK, rds currentTime: Thu Sep 26 2019 00:07:30 GMT+0800 (GMT+08:00)
+2019-09-26 00:07:30,996 INFO 70663 [egg-watcher:application] watcher start success
+2019-09-26 00:07:31,002 INFO 70663 [egg:core] dump config after ready, 5ms
+2019-09-26 03:18:35,210 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 05:49:12,888 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 06:23:48,259 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 06:39:41,136 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 06:55:33,577 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 07:07:44,443 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 07:20:17,080 WARN 70663 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-26 07:20:17,080 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 07:30:33,895 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 07:40:50,787 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 07:51:08,432 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 08:01:25,299 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 08:11:42,207 WARN 70663 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-26 08:11:42,216 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 08:21:58,305 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 08:32:15,731 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 08:42:31,949 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 08:45:07,364 WARN 70663 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-26 08:45:07,364 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 09:47:48,534 WARN 70663 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-26 09:47:48,534 WARN 70663 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-26 11:25:48,909 INFO 70663 [egg-logrotator] clean all log before 31 days
+2019-09-26 11:25:49,845 INFO 70663 [egg-logrotator] broadcast log-reload
+2019-09-26 11:25:49,846 INFO 70663 [egg-logrotator] rotate files success by DayRotator, files ["/Users/aiyining/Desktop/node/egg/logs/y/common-error.log -> /Users/aiyining/Desktop/node/egg/logs/y/common-error.log.2019-09-25","/Users/aiyining/Desktop/node/egg/logs/y/y-web.log -> /Users/aiyining/Desktop/node/egg/logs/y/y-web.log.2019-09-25","/Users/aiyining/Desktop/node/egg/logs/y/egg-web.log -> /Users/aiyining/Desktop/node/egg/logs/y/egg-web.log.2019-09-25","/Users/aiyining/Desktop/node/egg/logs/y/egg-schedule.log -> /Users/aiyining/Desktop/node/egg/logs/y/egg-schedule.log.2019-09-25","/Users/aiyining/Desktop/node/egg/logs/y/egg-agent.log -> /Users/aiyining/Desktop/node/egg/logs/y/egg-agent.log.2019-09-25"]

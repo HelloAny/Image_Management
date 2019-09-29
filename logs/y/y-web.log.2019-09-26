@@ -1,0 +1,193 @@
+2019-09-26 11:39:18,224 ERROR 38600 [-/::1/-/21ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'images' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`) VALUES('app/public/img/1569469158202屏幕快照 2019-09-19 下午7.22.05.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'images' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`) VALUES('app/public/img/1569469158202屏幕快照 2019-09-19 下午7.22.05.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 38600
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 11:49:29,994 ERROR 41392 [-/::1/-/71ms POST /uploadImage] nodejs.ReferenceError: file is not defined
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:35:48)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 41392
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 11:50:42,861 ERROR 41744 [-/::1/-/83ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'name' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469842788d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'name' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469842788d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 41744
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 11:51:34,038 ERROR 42009 [-/::1/-/94ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'name' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469893960d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'name' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469893960d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 42009
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 13:47:22,334 ERROR 42009 [-/::1/-/35ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'name' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569476842298b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'name' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569476842298b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 42009
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 14:13:13,990 ERROR 66228 [-/::1/-/30ms POST /uploadImage] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'filename' cannot be null
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`, `filename`) VALUES('app/public/img/1569478393971b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png', NULL)
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'filename' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`, `filename`) VALUES('app/public/img/1569478393971b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png', NULL)"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_BAD_NULL_ERRORError"
+pid: 66228
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 20:17:02,834 ERROR 95050 [-/undefined/-/20ms undefined undefined] nodejs.TypeError: Cannot read property 'connection' of undefined
+    at meta (/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/app/middleware/meta.js:18:92)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async cors (/Users/aiyining/Desktop/node/egg/node_modules/_@koa_cors@3.0.0@@koa/cors/index.js:88:16)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 95050
+hostname: aiyiningdeMacBook-Pro.local
+

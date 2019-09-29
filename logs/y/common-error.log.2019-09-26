@@ -1,0 +1,588 @@
+2019-09-26 11:39:18,213 ERROR 38600 [-/::1/-/21ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'images' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`) VALUES('app/public/img/1569469158202屏幕快照 2019-09-19 下午7.22.05.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'images' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`) VALUES('app/public/img/1569469158202屏幕快照 2019-09-19 下午7.22.05.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 38600
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 11:49:29,993 ERROR 41392 [-/::1/-/71ms POST /uploadImage] nodejs.ReferenceError: file is not defined
+    at UserController.upload (/Users/aiyining/Desktop/node/egg/app/controller/uploadImage.js:35:48)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 41392
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 11:50:42,854 ERROR 41744 [-/::1/-/83ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'name' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469842788d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'name' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469842788d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 41744
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 11:51:34,036 ERROR 42009 [-/::1/-/94ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'name' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469893960d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'name' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569469893960d344f15545bec39b6e339d1ab12b5409', '屏幕快照 2019-08-24 下午9.56.56.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 42009
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 13:02:28,644 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 99295ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 13:47:22,332 ERROR 42009 [-/::1/-/35ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\xB1\x8F\xE5\xB9\x95...' for column 'name' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569476842298b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\xB1\\x8F\\xE5\\xB9\\x95...' for column 'name' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`) VALUES('app/public/img/1569476842298b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 42009
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 14:13:13,987 ERROR 66228 [-/::1/-/30ms POST /uploadImage] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'filename' cannot be null
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `name`, `filename`) VALUES('app/public/img/1569478393971b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png', NULL)
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'filename' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "INSERT INTO `images`(`images`, `name`, `filename`) VALUES('app/public/img/1569478393971b15c84e9401c61430e2a170790e4bfab', '屏幕快照 2019-09-19 下午7.22.05.png', NULL)"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_BAD_NULL_ERRORError"
+pid: 66228
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 15:45:50,008 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 560425ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 15:56:06,889 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576853ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 16:06:23,800 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 16:16:40,690 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576838ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 16:26:37,563 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576859ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 16:36:54,443 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576865ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 16:47:11,337 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576879ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 16:57:08,232 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576873ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 17:07:25,106 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576851ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 17:17:41,993 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576871ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 17:27:40,005 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577965ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 17:37:56,904 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576875ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 17:48:13,812 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576888ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 17:58:30,702 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576849ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 18:08:27,583 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576864ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 18:18:43,466 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 575869ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 18:29:00,334 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576848ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 18:38:57,216 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576862ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 18:49:14,096 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576865ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 18:59:30,991 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576873ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 19:09:29,003 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 19:19:45,890 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576801ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 19:30:02,799 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576896ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 19:36:10,685 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 327843ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 20:17:02,834 ERROR 95050 [-/undefined/-/20ms undefined undefined] nodejs.TypeError: Cannot read property 'connection' of undefined
+    at meta (/Users/aiyining/Desktop/node/egg/node_modules/_egg@2.23.0@egg/app/middleware/meta.js:18:92)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async cors (/Users/aiyining/Desktop/node/egg/node_modules/_@koa_cors@3.0.0@@koa/cors/index.js:88:16)
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+pid: 95050
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 20:17:02,837 ERROR 95050 nodejs.TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at ErrorView.serializeRequest (/Users/aiyining/Desktop/node/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/lib/error_view.js:262:12)
+    at ErrorView.toHTML (/Users/aiyining/Desktop/node/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/lib/error_view.js:43:25)
+    at Object.html (/Users/aiyining/Desktop/node/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/app.js:86:29)
+    at Object.app.context.onerror (/Users/aiyining/Desktop/node/egg/node_modules/_koa-onerror@4.1.0@koa-onerror/index.js:84:23)
+    at onerror (/Users/aiyining/Desktop/node/egg/node_modules/_koa@2.7.0@koa/lib/application.js:148:32)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+
+pid: 95050
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-26 23:49:40,976 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 248666ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 00:45:33,466 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 3292451ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 03:15:50,789 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 7216737ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 05:46:08,966 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 7217539ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 06:36:08,003 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 1218453ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 06:52:00,885 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 912866ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 07:04:31,792 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 710884ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 07:14:48,685 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576864ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 07:24:45,578 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576875ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 07:35:02,491 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576898ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 07:45:19,368 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576867ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 07:55:15,238 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 575848ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 08:05:32,137 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576877ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 08:15:49,050 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576899ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 08:25:47,006 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577943ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 08:35:56,889 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 569864ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 08:54:14,878 ERROR 85100 nodejs.unhandledRejectionError: Can not auto detect update condition, please set options.where, or make sure obj.id exists
+    at RDSClient.proto.update (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:151:13)
+    at proto.update.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    at new Promise (<anonymous>)
+    at RDSClient.co (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:50:10)
+    at RDSClient.createPromise [as update] (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:30:15)
+    at getImageUrlService.getSpecifiedId (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:30:40)
+    at ChangeImageNameController.changeName (/Users/aiyining/Desktop/node/egg/app/controller/changeImageName.js:16:44)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+name: "unhandledRejectionError"
+pid: 85100
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 10:48:21,410 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 106299ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 12:27:26,636 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 1472531ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 13:20:59,881 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 906622ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 13:27:04,539 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 324589ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-27 13:49:31,838 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 1027499ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+

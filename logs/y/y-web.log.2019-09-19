@@ -1,0 +1,93 @@
+2019-08-13 19:36:09,674 ERROR 7047 [-/::1/-/13ms GET /api] nodejs.TypeError: Cannot read property 'create' of undefined
+    at HomeController.create (/Users/aiyining/Desktop/egg/eggjs/app/controller/home.js:21:36)
+    at Object.callFn (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/egg/eggjs/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/egg/eggjs/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/egg/eggjs/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 7047
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 20:15:23,929 WARN 7141 [-/::1/-/40ms POST /api] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-13 20:15:23,931 WARN 7141 [-/::1/-/42ms POST /api] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:154:19)
+    at csrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 7141
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 20:17:11,603 WARN 7141 [-/::1/-/0ms POST /api] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-13 20:17:11,603 WARN 7141 [-/::1/-/1ms POST /api] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:154:19)
+    at csrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 7141
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 20:17:59,612 WARN 7141 [-/::1/-/0ms POST /api] nodejs.Error: invalid JSON, only supports object and array, check bodyParser config
+    at parse (/Users/aiyining/Desktop/egg/eggjs/node_modules/_co-body@6.0.0@co-body/lib/json.js:55:13)
+    at AsyncFunction.module.exports [as json] (/Users/aiyining/Desktop/egg/eggjs/node_modules/_co-body@6.0.0@co-body/lib/json.js:41:20)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async parseBody (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:91:14)
+    at async bodyParser (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:76:19)
+    at async /Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-static-cache@5.1.2@koa-static-cache/index.js:51:63
+    at async notfound (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg@2.23.0@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg@2.23.0@egg/app/middleware/meta.js:12:5)
+status: 400
+body: "--data"
+pid: 7141
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 20:18:46,411 WARN 7141 [-/::1/-/1ms POST /api] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-13 20:18:46,411 WARN 7141 [-/::1/-/1ms POST /api] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:154:19)
+    at csrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 7141
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-08-13 20:20:14,740 WARN 7141 [-/::1/-/0ms POST /api] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-08-13 20:20:14,740 WARN 7141 [-/::1/-/1ms POST /api] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa@2.7.0@koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/app/extend/context.js:154:19)
+    at csrf (/Users/aiyining/Desktop/egg/eggjs/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/csrf.js:33:9)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:34:12
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at session (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-session@5.12.2@koa-session/index.js:41:13)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at overrideMethod (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-override@3.0.0@koa-override/index.js:38:12)
+    at dispatch (/Users/aiyining/Desktop/egg/eggjs/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 7141
+hostname: aiyiningdeMacBook-Pro.local
+

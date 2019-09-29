@@ -1,0 +1,937 @@
+2019-09-24 14:15:56,914 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576892ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 14:26:13,820 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576892ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 14:36:30,737 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576892ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 14:46:26,638 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 575885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 14:56:43,539 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576883ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 15:07:00,444 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 15:16:57,349 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576892ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 15:27:14,265 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576902ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 15:37:31,173 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576895ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 15:47:29,005 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577816ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 15:57:45,921 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576826ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 16:08:02,822 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576882ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 16:18:19,718 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576866ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 16:28:16,613 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576873ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 16:48:49,431 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 575883ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 16:58:46,296 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576850ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 17:09:03,199 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576881ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 17:19:21,077 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577853ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 17:29:18,076 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576911ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 17:37:48,926 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 470831ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 18:20:44,589 ERROR 42800 [-/::1/-/31ms POST /uploadImage] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'data' in 'field list'
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `data`) VALUES('app/public/img/15693204445701.png', 1569320444572)
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'data' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `images`(`images`, `data`) VALUES('app/public/img/15693204445701.png', 1569320444572)"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 42800
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 18:21:11,102 ERROR 42957 [-/::1/-/23ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUEError: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '1569320471091' for column 'date' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `date`) VALUES('app/public/img/15693204710901.png', 1569320471091)
+code: "ER_TRUNCATED_WRONG_VALUE"
+errno: 1292
+sqlMessage: "Incorrect datetime value: '1569320471091' for column 'date' at row 1"
+sqlState: "22007"
+index: 0
+sql: "INSERT INTO `images`(`images`, `date`) VALUES('app/public/img/15693204710901.png', 1569320471091)"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUEError"
+pid: 42957
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 18:21:35,631 ERROR 43066 [-/::1/-/21ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUEError: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '1569320495620' for column 'date' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `date`) VALUES('app/public/img/15693204956171.png', 1569320495620)
+code: "ER_TRUNCATED_WRONG_VALUE"
+errno: 1292
+sqlMessage: "Incorrect datetime value: '1569320495620' for column 'date' at row 1"
+sqlState: "22007"
+index: 0
+sql: "INSERT INTO `images`(`images`, `date`) VALUES('app/public/img/15693204956171.png', 1569320495620)"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUEError"
+pid: 43066
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 18:22:33,803 ERROR 43350 [-/::1/-/23ms POST /uploadImage] nodejs.ER_NO_DEFAULT_FOR_FIELDError: ER_NO_DEFAULT_FOR_FIELD: Field 'url' doesn't have a default value
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`) VALUES('app/public/img/15693205537911.png')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'url' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`) VALUES('app/public/img/15693205537911.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_NO_DEFAULT_FOR_FIELDError"
+pid: 43350
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 18:22:53,381 ERROR 43451 [-/::1/-/18ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUEError: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '' for column 'date' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `url`, `date`) VALUES('app/public/img/15693205733751.png', '', '')
+code: "ER_TRUNCATED_WRONG_VALUE"
+errno: 1292
+sqlMessage: "Incorrect datetime value: '' for column 'date' at row 1"
+sqlState: "22007"
+index: 0
+sql: "INSERT INTO `images`(`images`, `url`, `date`) VALUES('app/public/img/15693205733751.png', '', '')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUEError"
+pid: 43451
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 18:23:20,429 ERROR 43585 [-/::1/-/17ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUEError: ER_TRUNCATED_WRONG_VALUE: Incorrect datetime value: '' for column 'date' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`, `url`, `date`) VALUES('app/public/img/15693206004231.png', '', '')
+code: "ER_TRUNCATED_WRONG_VALUE"
+errno: 1292
+sqlMessage: "Incorrect datetime value: '' for column 'date' at row 1"
+sqlState: "22007"
+index: 0
+sql: "INSERT INTO `images`(`images`, `url`, `date`) VALUES('app/public/img/15693206004231.png', '', '')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUEError"
+pid: 43585
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 18:36:38,747 ERROR 44275 [-/::1/-/23ms POST /uploadImage] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect string value: '\xE5\x9B\xBE\xE7\x89\x87...' for column 'images' at row 1
+    at Query.Sequence._packetToError (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:91:28)
+    at Socket.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Connection.js:525:10)
+    at Socket.emit (events.js:196:13)
+    at addChunk (_stream_readable.js:290:12)
+    --------------------
+    at Pool.query (/Users/aiyining/Desktop/node/egg/node_modules/_mysql@2.17.1@mysql/lib/Pool.js:199:23)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:12:10)
+    at Pool.ret [as query] (/Users/aiyining/Desktop/node/egg/node_modules/_pify@2.3.0@pify/index.js:56:34)
+    at RDSClient.proto._query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/Users/aiyining/Desktop/node/egg/node_modules/_ali-rds@3.3.0@ali-rds/lib/operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (/Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:65:19)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_co@4.6.0@co/index.js:54:5
+    sql: INSERT INTO `images`(`images`) VALUES('app/public/img/1569321398731图片1.png')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect string value: '\\xE5\\x9B\\xBE\\xE7\\x89\\x87...' for column 'images' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `images`(`images`) VALUES('app/public/img/1569321398731图片1.png')"
+headers: {"Access-Control-Allow-Origin":"*","Access-Control-Allow-Credentials":"true","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 44275
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 19:36:27,078 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 558608ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 19:46:43,884 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576790ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 20:07:17,672 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576876ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 20:17:14,571 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576874ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 20:27:31,486 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576901ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 20:37:48,380 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576883ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 20:47:44,288 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 575890ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 20:58:01,185 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576883ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 21:04:01,138 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 319933ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 21:13:59,005 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577828ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-24 21:21:30,914 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 411887ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 00:57:49,060 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 2202121ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 03:28:27,004 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 7217297ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 05:58:44,470 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 7216830ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 06:43:37,137 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 912079ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 06:56:08,008 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 710859ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 07:06:24,900 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576867ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 07:16:42,333 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 577421ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 07:19:39,699 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 137359ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 07:29:35,760 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 576052ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 08:07:38,982 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 2263215ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 09:02:40,966 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 3230056ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 09:45:00,432 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 2539447ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 10:20:44,312 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 2063844ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:02:42,434 ERROR 42662 [-/127.0.0.1/-/9ms GET /] nodejs.TypeError: this.service.getImageUrl is not a function
+    at HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:10:24)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 42662
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:02:43,637 ERROR 42662 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.getImageUrl is not a function
+    at HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:10:24)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 42662
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:03:24,102 ERROR 42662 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.getImageUrl is not a function
+    at HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:10:24)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 42662
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:03:24,731 ERROR 42662 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.getImageUrl is not a function
+    at HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:10:24)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 42662
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:03:25,251 ERROR 42662 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.getImageUrl is not a function
+    at HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:10:24)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 42662
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:03:25,685 ERROR 42662 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.getImageUrl is not a function
+    at HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:10:24)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/aiyining/Desktop/node/egg/node_modules/_egg-core@4.17.3@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/aiyining/Desktop/node/egg/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+
+pid: 42662
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:07:31,415 ERROR 43999 [-/127.0.0.1/-/13ms GET /] nodejs.ReferenceError: map is not defined
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:22)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+
+pid: 43999
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:08:49,633 ERROR 43999 [-/127.0.0.1/-/2ms GET /] nodejs.ReferenceError: map is not defined
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:22)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+
+pid: 43999
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:08:50,529 ERROR 44370 [-/127.0.0.1/-/16ms GET /] nodejs.TypeError: undefined is not a function
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+
+pid: 44370
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:29,004 ERROR 44370 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: undefined is not a function
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+
+pid: 44370
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:29,578 ERROR 44370 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: undefined is not a function
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+
+pid: 44370
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:30,001 ERROR 44550 [-/127.0.0.1/-/12ms GET /] nodejs.ReferenceError: pow is not defined
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:30)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+
+pid: 44550
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:37,539 ERROR 44550 [-/127.0.0.1/-/7ms GET /] nodejs.ReferenceError: pow is not defined
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:30)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+
+pid: 44550
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:38,044 ERROR 44550 [-/127.0.0.1/-/2ms GET /] nodejs.ReferenceError: pow is not defined
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:30)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+
+pid: 44550
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:38,333 ERROR 44550 [-/127.0.0.1/-/2ms GET /] nodejs.ReferenceError: pow is not defined
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:30)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+
+pid: 44550
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:38,597 ERROR 44550 [-/127.0.0.1/-/1ms GET /] nodejs.ReferenceError: pow is not defined
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:30)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+    at async bodyParser (/Users/aiyining/Desktop/node/egg/node_modules/_koa-bodyparser@4.2.1@koa-bodyparser/index.js:86:5)
+
+pid: 44550
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:38,879 ERROR 44592 [-/127.0.0.1/-/18ms GET /] nodejs.TypeError: [object Array] is not a function
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+
+pid: 44592
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:39,140 ERROR 44592 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: [object Array] is not a function
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+
+pid: 44592
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:09:39,421 ERROR 44592 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: [object Array] is not a function
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:16:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+
+pid: 44592
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:10:55,673 ERROR 44917 [-/127.0.0.1/-/12ms GET /] nodejs.TypeError: undefined is not a function
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:20:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/aiyining/Desktop/node/egg/node_modules/_koa-session@5.12.2@koa-session/index.js:41:7)
+
+pid: 44917
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:10:56,327 ERROR 44949 [-/127.0.0.1/-/9ms GET /] nodejs.TypeError: Cannot read property 'images' of undefined
+    at getImages (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:18:25)
+    at Array.map (<anonymous>)
+    at getImageUrlService.getUrl (/Users/aiyining/Desktop/node/egg/app/service/getImageUrl.js:20:26)
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)
+    at async HomeController.index (/Users/aiyining/Desktop/node/egg/app/controller/home.js:11:5)
+    at async /Users/aiyining/Desktop/node/egg/node_modules/_egg-development@2.4.3@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/aiyining/Desktop/node/egg/node_modules/_egg-security@2.6.1@egg-security/lib/middlewares/noopen.js:8:5)
+
+pid: 44949
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 11:43:46,099 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 1209797ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 12:11:17,431 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 1611308ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 12:19:25,504 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 439974ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+
+2019-09-25 12:30:37,155 ERROR 20544 nodejs.ClusterClientNoResponseError: client no response in 86675ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/aiyining/Desktop/node/egg/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 20544
+hostname: aiyiningdeMacBook-Pro.local
+

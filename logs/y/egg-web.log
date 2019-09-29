@@ -1,0 +1,1201 @@
+2019-09-28 00:00:01,205 INFO 45427 [egg-logrotator] app logger reload: got log-reload message
+2019-09-28 00:15:56,296 INFO 52245 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:15:56,327 INFO 52245 [egg-multipart] stream mode enable
+2019-09-28 00:15:56,328 INFO 52245 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:15:56,518 INFO 52245 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:15:56,521 INFO 52245 [egg-security] use methodnoallow middleware
+2019-09-28 00:15:56,522 INFO 52245 [egg-security] use noopen middleware
+2019-09-28 00:15:56,523 INFO 52245 [egg-security] use nosniff middleware
+2019-09-28 00:15:56,523 INFO 52245 [egg-security] use xssProtection middleware
+2019-09-28 00:15:56,524 INFO 52245 [egg-security] use xframe middleware
+2019-09-28 00:15:56,525 INFO 52245 [egg-security] use dta middleware
+2019-09-28 00:15:56,525 INFO 52245 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:15:56,544 INFO 52245 [egg:core] dump config after load, 6ms
+2019-09-28 00:15:56,562 INFO 52245 [egg-watcher:application] watcher start success
+2019-09-28 00:15:56,568 INFO 52245 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:15:56 GMT+0800 (GMT+08:00)
+2019-09-28 00:15:56,574 INFO 52245 [egg:core] dump config after ready, 4ms
+2019-09-28 00:16:00,060 INFO 52266 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:16:00,101 INFO 52266 [egg-multipart] stream mode enable
+2019-09-28 00:16:00,102 INFO 52266 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:16:00,187 INFO 52266 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:16:00,188 INFO 52266 [egg-security] use methodnoallow middleware
+2019-09-28 00:16:00,189 INFO 52266 [egg-security] use noopen middleware
+2019-09-28 00:16:00,189 INFO 52266 [egg-security] use nosniff middleware
+2019-09-28 00:16:00,189 INFO 52266 [egg-security] use xssProtection middleware
+2019-09-28 00:16:00,189 INFO 52266 [egg-security] use xframe middleware
+2019-09-28 00:16:00,190 INFO 52266 [egg-security] use dta middleware
+2019-09-28 00:16:00,190 INFO 52266 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:16:00,202 INFO 52266 [egg:core] dump config after load, 4ms
+2019-09-28 00:16:00,219 INFO 52266 [egg-watcher:application] watcher start success
+2019-09-28 00:16:00,221 INFO 52266 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:16:00 GMT+0800 (GMT+08:00)
+2019-09-28 00:16:00,229 INFO 52266 [egg:core] dump config after ready, 6ms
+2019-09-28 00:17:14,171 INFO 52618 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:17:14,201 INFO 52618 [egg-multipart] stream mode enable
+2019-09-28 00:17:14,202 INFO 52618 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:17:14,352 INFO 52618 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:17:14,354 INFO 52618 [egg-security] use methodnoallow middleware
+2019-09-28 00:17:14,355 INFO 52618 [egg-security] use noopen middleware
+2019-09-28 00:17:14,355 INFO 52618 [egg-security] use nosniff middleware
+2019-09-28 00:17:14,356 INFO 52618 [egg-security] use xssProtection middleware
+2019-09-28 00:17:14,357 INFO 52618 [egg-security] use xframe middleware
+2019-09-28 00:17:14,358 INFO 52618 [egg-security] use dta middleware
+2019-09-28 00:17:14,358 INFO 52618 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:17:14,375 INFO 52618 [egg:core] dump config after load, 4ms
+2019-09-28 00:17:14,388 INFO 52618 [egg-watcher:application] watcher start success
+2019-09-28 00:17:14,391 INFO 52618 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:17:14 GMT+0800 (GMT+08:00)
+2019-09-28 00:17:14,398 INFO 52618 [egg:core] dump config after ready, 5ms
+2019-09-28 00:17:15,348 INFO 52629 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:17:15,370 INFO 52629 [egg-multipart] stream mode enable
+2019-09-28 00:17:15,371 INFO 52629 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:17:15,455 INFO 52629 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:17:15,458 INFO 52629 [egg-security] use methodnoallow middleware
+2019-09-28 00:17:15,458 INFO 52629 [egg-security] use noopen middleware
+2019-09-28 00:17:15,459 INFO 52629 [egg-security] use nosniff middleware
+2019-09-28 00:17:15,460 INFO 52629 [egg-security] use xssProtection middleware
+2019-09-28 00:17:15,460 INFO 52629 [egg-security] use xframe middleware
+2019-09-28 00:17:15,460 INFO 52629 [egg-security] use dta middleware
+2019-09-28 00:17:15,460 INFO 52629 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:17:15,476 INFO 52629 [egg:core] dump config after load, 5ms
+2019-09-28 00:17:15,500 INFO 52629 [egg-watcher:application] watcher start success
+2019-09-28 00:17:15,504 INFO 52629 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:17:15 GMT+0800 (GMT+08:00)
+2019-09-28 00:17:15,512 INFO 52629 [egg:core] dump config after ready, 5ms
+2019-09-28 00:17:42,073 INFO 52747 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:17:42,098 INFO 52747 [egg-multipart] stream mode enable
+2019-09-28 00:17:42,099 INFO 52747 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:17:42,237 INFO 52747 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:17:42,239 INFO 52747 [egg-security] use methodnoallow middleware
+2019-09-28 00:17:42,240 INFO 52747 [egg-security] use noopen middleware
+2019-09-28 00:17:42,240 INFO 52747 [egg-security] use nosniff middleware
+2019-09-28 00:17:42,241 INFO 52747 [egg-security] use xssProtection middleware
+2019-09-28 00:17:42,242 INFO 52747 [egg-security] use xframe middleware
+2019-09-28 00:17:42,242 INFO 52747 [egg-security] use dta middleware
+2019-09-28 00:17:42,243 INFO 52747 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:17:42,256 INFO 52747 [egg:core] dump config after load, 4ms
+2019-09-28 00:17:42,269 INFO 52747 [egg-watcher:application] watcher start success
+2019-09-28 00:17:42,272 INFO 52747 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:17:42 GMT+0800 (GMT+08:00)
+2019-09-28 00:17:42,278 INFO 52747 [egg:core] dump config after ready, 4ms
+2019-09-28 00:25:42,753 INFO 54942 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:25:42,787 INFO 54942 [egg-multipart] stream mode enable
+2019-09-28 00:25:42,789 INFO 54942 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:25:43,048 INFO 54942 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:25:43,053 INFO 54942 [egg-security] use methodnoallow middleware
+2019-09-28 00:25:43,053 INFO 54942 [egg-security] use noopen middleware
+2019-09-28 00:25:43,054 INFO 54942 [egg-security] use nosniff middleware
+2019-09-28 00:25:43,055 INFO 54942 [egg-security] use xssProtection middleware
+2019-09-28 00:25:43,057 INFO 54942 [egg-security] use xframe middleware
+2019-09-28 00:25:43,060 INFO 54942 [egg-security] use dta middleware
+2019-09-28 00:25:43,060 INFO 54942 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:25:43,080 INFO 54942 [egg:core] dump config after load, 7ms
+2019-09-28 00:25:43,093 INFO 54942 [egg-watcher:application] watcher start success
+2019-09-28 00:25:43,099 INFO 54942 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:25:43 GMT+0800 (GMT+08:00)
+2019-09-28 00:25:43,105 INFO 54942 [egg:core] dump config after ready, 4ms
+2019-09-28 00:34:50,508 INFO 57466 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:34:50,539 INFO 57466 [egg-multipart] stream mode enable
+2019-09-28 00:34:50,541 INFO 57466 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:34:50,781 INFO 57466 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:34:50,784 INFO 57466 [egg-security] use methodnoallow middleware
+2019-09-28 00:34:50,785 INFO 57466 [egg-security] use noopen middleware
+2019-09-28 00:34:50,786 INFO 57466 [egg-security] use nosniff middleware
+2019-09-28 00:34:50,787 INFO 57466 [egg-security] use xssProtection middleware
+2019-09-28 00:34:50,788 INFO 57466 [egg-security] use xframe middleware
+2019-09-28 00:34:50,789 INFO 57466 [egg-security] use dta middleware
+2019-09-28 00:34:50,789 INFO 57466 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:34:50,817 INFO 57466 [egg:core] dump config after load, 8ms
+2019-09-28 00:34:50,834 INFO 57466 [egg-watcher:application] watcher start success
+2019-09-28 00:34:50,837 INFO 57466 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:34:50 GMT+0800 (GMT+08:00)
+2019-09-28 00:34:50,842 INFO 57466 [egg:core] dump config after ready, 4ms
+2019-09-28 00:35:05,533 INFO 57544 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:35:05,552 INFO 57544 [egg-multipart] stream mode enable
+2019-09-28 00:35:05,554 INFO 57544 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:35:05,619 INFO 57544 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:35:05,622 INFO 57544 [egg-security] use methodnoallow middleware
+2019-09-28 00:35:05,622 INFO 57544 [egg-security] use noopen middleware
+2019-09-28 00:35:05,623 INFO 57544 [egg-security] use nosniff middleware
+2019-09-28 00:35:05,623 INFO 57544 [egg-security] use xssProtection middleware
+2019-09-28 00:35:05,623 INFO 57544 [egg-security] use xframe middleware
+2019-09-28 00:35:05,623 INFO 57544 [egg-security] use dta middleware
+2019-09-28 00:35:05,623 INFO 57544 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:35:05,633 INFO 57544 [egg:core] dump config after load, 5ms
+2019-09-28 00:35:05,651 INFO 57544 [egg-watcher:application] watcher start success
+2019-09-28 00:35:05,656 INFO 57544 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:35:05 GMT+0800 (GMT+08:00)
+2019-09-28 00:35:05,662 INFO 57544 [egg:core] dump config after ready, 4ms
+2019-09-28 00:35:21,413 INFO 57615 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 00:35:21,432 INFO 57615 [egg-multipart] stream mode enable
+2019-09-28 00:35:21,433 INFO 57615 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 00:35:21,548 INFO 57615 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 00:35:21,551 INFO 57615 [egg-security] use methodnoallow middleware
+2019-09-28 00:35:21,551 INFO 57615 [egg-security] use noopen middleware
+2019-09-28 00:35:21,552 INFO 57615 [egg-security] use nosniff middleware
+2019-09-28 00:35:21,552 INFO 57615 [egg-security] use xssProtection middleware
+2019-09-28 00:35:21,552 INFO 57615 [egg-security] use xframe middleware
+2019-09-28 00:35:21,552 INFO 57615 [egg-security] use dta middleware
+2019-09-28 00:35:21,553 INFO 57615 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 00:35:21,579 INFO 57615 [egg:core] dump config after load, 14ms
+2019-09-28 00:35:21,615 INFO 57615 [egg-watcher:application] watcher start success
+2019-09-28 00:35:21,618 INFO 57615 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 00:35:21 GMT+0800 (GMT+08:00)
+2019-09-28 00:35:21,632 INFO 57615 [egg:core] dump config after ready, 11ms
+2019-09-28 01:07:35,906 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 01:17:52,793 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 01:28:09,694 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 01:38:06,580 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 01:38:06,581 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 01:48:23,465 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 01:48:23,465 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 01:58:40,342 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 02:08:37,222 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 02:18:54,100 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 02:29:10,983 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 02:29:10,984 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 02:39:09,004 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 02:39:09,004 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 02:49:25,875 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 02:59:42,756 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 03:09:59,650 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 03:19:56,528 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 03:30:13,414 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 03:40:30,300 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 03:50:27,168 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 04:00:44,040 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 04:20:59,004 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 04:20:59,004 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 04:31:15,905 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 04:31:15,906 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 04:41:32,796 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 04:41:32,797 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 04:51:49,701 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 05:01:46,590 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 05:12:03,454 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 05:22:20,340 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 05:32:17,221 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 05:42:33,115 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 05:42:33,116 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 05:52:50,997 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 06:02:48,005 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 06:02:48,005 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 06:13:04,904 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 06:13:04,904 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 06:23:21,794 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 06:23:21,795 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 06:33:38,661 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 06:43:35,546 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 06:53:52,448 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 06:53:52,448 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 07:04:09,343 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 07:04:09,344 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 07:14:06,226 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 07:24:23,128 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 07:34:40,009 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 07:34:40,012 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 07:44:38,003 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 07:44:38,003 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 07:51:37,894 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 08:01:54,567 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 08:12:11,530 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 08:12:11,533 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 08:15:01,490 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 09:24:38,469 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 09:34:35,421 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 09:44:52,372 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 09:55:10,335 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 10:05:07,004 WARN 57615 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 10:05:07,077 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 10:15:23,988 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 10:25:40,971 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 10:32:10,962 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 10:42:07,912 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 10:47:29,881 WARN 57615 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 10:53:22,784 INFO 92702 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 10:53:22,808 INFO 92702 [egg-multipart] stream mode enable
+2019-09-28 10:53:22,810 INFO 92702 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 10:53:22,953 INFO 92702 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 10:53:22,955 INFO 92702 [egg-security] use methodnoallow middleware
+2019-09-28 10:53:22,956 INFO 92702 [egg-security] use noopen middleware
+2019-09-28 10:53:22,957 INFO 92702 [egg-security] use nosniff middleware
+2019-09-28 10:53:22,958 INFO 92702 [egg-security] use xssProtection middleware
+2019-09-28 10:53:22,959 INFO 92702 [egg-security] use xframe middleware
+2019-09-28 10:53:22,959 INFO 92702 [egg-security] use dta middleware
+2019-09-28 10:53:22,959 INFO 92702 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 10:53:22,977 INFO 92702 [egg:core] dump config after load, 5ms
+2019-09-28 10:53:22,990 INFO 92702 [egg-watcher:application] watcher start success
+2019-09-28 10:53:22,994 INFO 92702 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 10:53:22 GMT+0800 (GMT+08:00)
+2019-09-28 10:53:22,999 INFO 92702 [egg:core] dump config after ready, 3ms
+2019-09-28 11:05:41,645 INFO 96114 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:05:41,679 INFO 96114 [egg-multipart] stream mode enable
+2019-09-28 11:05:41,680 INFO 96114 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:05:41,882 INFO 96114 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:05:41,887 INFO 96114 [egg-security] use methodnoallow middleware
+2019-09-28 11:05:41,887 INFO 96114 [egg-security] use noopen middleware
+2019-09-28 11:05:41,888 INFO 96114 [egg-security] use nosniff middleware
+2019-09-28 11:05:41,889 INFO 96114 [egg-security] use xssProtection middleware
+2019-09-28 11:05:41,890 INFO 96114 [egg-security] use xframe middleware
+2019-09-28 11:05:41,890 INFO 96114 [egg-security] use dta middleware
+2019-09-28 11:05:41,890 INFO 96114 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:05:41,931 INFO 96114 [egg:core] dump config after load, 15ms
+2019-09-28 11:05:41,953 INFO 96114 [egg-watcher:application] watcher start success
+2019-09-28 11:05:41,957 INFO 96114 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:05:41 GMT+0800 (GMT+08:00)
+2019-09-28 11:05:41,967 INFO 96114 [egg:core] dump config after ready, 6ms
+2019-09-28 11:05:58,195 INFO 96190 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:05:58,221 INFO 96190 [egg-multipart] stream mode enable
+2019-09-28 11:05:58,223 INFO 96190 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:05:58,371 INFO 96190 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:05:58,374 INFO 96190 [egg-security] use methodnoallow middleware
+2019-09-28 11:05:58,377 INFO 96190 [egg-security] use noopen middleware
+2019-09-28 11:05:58,378 INFO 96190 [egg-security] use nosniff middleware
+2019-09-28 11:05:58,379 INFO 96190 [egg-security] use xssProtection middleware
+2019-09-28 11:05:58,379 INFO 96190 [egg-security] use xframe middleware
+2019-09-28 11:05:58,380 INFO 96190 [egg-security] use dta middleware
+2019-09-28 11:05:58,380 INFO 96190 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:05:58,396 INFO 96190 [egg:core] dump config after load, 7ms
+2019-09-28 11:05:58,413 INFO 96190 [egg-watcher:application] watcher start success
+2019-09-28 11:05:58,415 INFO 96190 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:05:58 GMT+0800 (GMT+08:00)
+2019-09-28 11:05:58,421 INFO 96190 [egg:core] dump config after ready, 4ms
+2019-09-28 11:12:13,179 INFO 97879 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:12:13,226 INFO 97879 [egg-multipart] stream mode enable
+2019-09-28 11:12:13,228 INFO 97879 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:12:13,501 INFO 97879 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:12:13,503 INFO 97879 [egg-security] use methodnoallow middleware
+2019-09-28 11:12:13,505 INFO 97879 [egg-security] use noopen middleware
+2019-09-28 11:12:13,505 INFO 97879 [egg-security] use nosniff middleware
+2019-09-28 11:12:13,506 INFO 97879 [egg-security] use xssProtection middleware
+2019-09-28 11:12:13,507 INFO 97879 [egg-security] use xframe middleware
+2019-09-28 11:12:13,508 INFO 97879 [egg-security] use dta middleware
+2019-09-28 11:12:13,508 INFO 97879 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:12:13,562 INFO 97879 [egg:core] dump config after load, 20ms
+2019-09-28 11:12:13,581 INFO 97879 [egg-watcher:application] watcher start success
+2019-09-28 11:12:13,586 INFO 97879 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:12:13 GMT+0800 (GMT+08:00)
+2019-09-28 11:12:13,593 INFO 97879 [egg:core] dump config after ready, 5ms
+2019-09-28 11:12:46,958 INFO 98042 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:12:46,984 INFO 98042 [egg-multipart] stream mode enable
+2019-09-28 11:12:46,987 INFO 98042 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:12:47,135 INFO 98042 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:12:47,138 INFO 98042 [egg-security] use methodnoallow middleware
+2019-09-28 11:12:47,138 INFO 98042 [egg-security] use noopen middleware
+2019-09-28 11:12:47,140 INFO 98042 [egg-security] use nosniff middleware
+2019-09-28 11:12:47,140 INFO 98042 [egg-security] use xssProtection middleware
+2019-09-28 11:12:47,141 INFO 98042 [egg-security] use xframe middleware
+2019-09-28 11:12:47,142 INFO 98042 [egg-security] use dta middleware
+2019-09-28 11:12:47,142 INFO 98042 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:12:47,161 INFO 98042 [egg:core] dump config after load, 4ms
+2019-09-28 11:12:47,177 INFO 98042 [egg-watcher:application] watcher start success
+2019-09-28 11:12:47,180 INFO 98042 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:12:47 GMT+0800 (GMT+08:00)
+2019-09-28 11:12:47,188 INFO 98042 [egg:core] dump config after ready, 5ms
+2019-09-28 11:12:53,950 INFO 98083 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:12:53,983 INFO 98083 [egg-multipart] stream mode enable
+2019-09-28 11:12:53,984 INFO 98083 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:12:54,076 INFO 98083 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:12:54,077 INFO 98083 [egg-security] use methodnoallow middleware
+2019-09-28 11:12:54,078 INFO 98083 [egg-security] use noopen middleware
+2019-09-28 11:12:54,078 INFO 98083 [egg-security] use nosniff middleware
+2019-09-28 11:12:54,078 INFO 98083 [egg-security] use xssProtection middleware
+2019-09-28 11:12:54,078 INFO 98083 [egg-security] use xframe middleware
+2019-09-28 11:12:54,079 INFO 98083 [egg-security] use dta middleware
+2019-09-28 11:12:54,079 INFO 98083 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:12:54,089 INFO 98083 [egg:core] dump config after load, 4ms
+2019-09-28 11:12:54,102 INFO 98083 [egg-watcher:application] watcher start success
+2019-09-28 11:12:54,104 INFO 98083 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:12:54 GMT+0800 (GMT+08:00)
+2019-09-28 11:12:54,109 INFO 98083 [egg:core] dump config after ready, 3ms
+2019-09-28 11:14:41,951 INFO 98572 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:14:41,980 INFO 98572 [egg-multipart] stream mode enable
+2019-09-28 11:14:41,981 INFO 98572 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:14:42,184 INFO 98572 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:14:42,187 INFO 98572 [egg-security] use methodnoallow middleware
+2019-09-28 11:14:42,188 INFO 98572 [egg-security] use noopen middleware
+2019-09-28 11:14:42,189 INFO 98572 [egg-security] use nosniff middleware
+2019-09-28 11:14:42,190 INFO 98572 [egg-security] use xssProtection middleware
+2019-09-28 11:14:42,191 INFO 98572 [egg-security] use xframe middleware
+2019-09-28 11:14:42,194 INFO 98572 [egg-security] use dta middleware
+2019-09-28 11:14:42,194 INFO 98572 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:14:42,213 INFO 98572 [egg:core] dump config after load, 7ms
+2019-09-28 11:14:42,230 INFO 98572 [egg-watcher:application] watcher start success
+2019-09-28 11:14:42,232 INFO 98572 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:14:42 GMT+0800 (GMT+08:00)
+2019-09-28 11:14:42,239 INFO 98572 [egg:core] dump config after ready, 5ms
+2019-09-28 11:18:29,096 INFO 99613 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:18:29,148 INFO 99613 [egg-multipart] stream mode enable
+2019-09-28 11:18:29,149 INFO 99613 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:18:29,415 INFO 99613 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:18:29,417 INFO 99613 [egg-security] use methodnoallow middleware
+2019-09-28 11:18:29,417 INFO 99613 [egg-security] use noopen middleware
+2019-09-28 11:18:29,418 INFO 99613 [egg-security] use nosniff middleware
+2019-09-28 11:18:29,420 INFO 99613 [egg-security] use xssProtection middleware
+2019-09-28 11:18:29,421 INFO 99613 [egg-security] use xframe middleware
+2019-09-28 11:18:29,424 INFO 99613 [egg-security] use dta middleware
+2019-09-28 11:18:29,425 INFO 99613 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:18:29,451 INFO 99613 [egg:core] dump config after load, 5ms
+2019-09-28 11:18:29,479 INFO 99613 [egg-watcher:application] watcher start success
+2019-09-28 11:18:29,483 INFO 99613 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:18:29 GMT+0800 (GMT+08:00)
+2019-09-28 11:18:29,494 INFO 99613 [egg:core] dump config after ready, 10ms
+2019-09-28 11:19:59,956 INFO 147 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:19:59,982 INFO 147 [egg-multipart] stream mode enable
+2019-09-28 11:19:59,983 INFO 147 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:20:00,123 INFO 147 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:20:00,125 INFO 147 [egg-security] use methodnoallow middleware
+2019-09-28 11:20:00,126 INFO 147 [egg-security] use noopen middleware
+2019-09-28 11:20:00,127 INFO 147 [egg-security] use nosniff middleware
+2019-09-28 11:20:00,128 INFO 147 [egg-security] use xssProtection middleware
+2019-09-28 11:20:00,129 INFO 147 [egg-security] use xframe middleware
+2019-09-28 11:20:00,130 INFO 147 [egg-security] use dta middleware
+2019-09-28 11:20:00,130 INFO 147 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:20:00,148 INFO 147 [egg:core] dump config after load, 5ms
+2019-09-28 11:20:00,164 INFO 147 [egg-watcher:application] watcher start success
+2019-09-28 11:20:00,168 INFO 147 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:20:00 GMT+0800 (GMT+08:00)
+2019-09-28 11:20:00,175 INFO 147 [egg:core] dump config after ready, 5ms
+2019-09-28 11:21:24,104 INFO 646 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:21:24,144 INFO 646 [egg-multipart] stream mode enable
+2019-09-28 11:21:24,146 INFO 646 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:21:24,396 INFO 646 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:21:24,400 INFO 646 [egg-security] use methodnoallow middleware
+2019-09-28 11:21:24,401 INFO 646 [egg-security] use noopen middleware
+2019-09-28 11:21:24,403 INFO 646 [egg-security] use nosniff middleware
+2019-09-28 11:21:24,404 INFO 646 [egg-security] use xssProtection middleware
+2019-09-28 11:21:24,405 INFO 646 [egg-security] use xframe middleware
+2019-09-28 11:21:24,406 INFO 646 [egg-security] use dta middleware
+2019-09-28 11:21:24,406 INFO 646 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:21:24,444 INFO 646 [egg:core] dump config after load, 10ms
+2019-09-28 11:21:24,460 INFO 646 [egg-watcher:application] watcher start success
+2019-09-28 11:21:24,464 INFO 646 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:21:24 GMT+0800 (GMT+08:00)
+2019-09-28 11:21:24,469 INFO 646 [egg:core] dump config after ready, 4ms
+2019-09-28 11:21:41,595 INFO 732 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:21:41,615 INFO 732 [egg-multipart] stream mode enable
+2019-09-28 11:21:41,615 INFO 732 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:21:41,699 INFO 732 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:21:41,701 INFO 732 [egg-security] use methodnoallow middleware
+2019-09-28 11:21:41,701 INFO 732 [egg-security] use noopen middleware
+2019-09-28 11:21:41,701 INFO 732 [egg-security] use nosniff middleware
+2019-09-28 11:21:41,702 INFO 732 [egg-security] use xssProtection middleware
+2019-09-28 11:21:41,702 INFO 732 [egg-security] use xframe middleware
+2019-09-28 11:21:41,702 INFO 732 [egg-security] use dta middleware
+2019-09-28 11:21:41,702 INFO 732 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:21:41,724 INFO 732 [egg:core] dump config after load, 6ms
+2019-09-28 11:21:41,743 INFO 732 [egg-watcher:application] watcher start success
+2019-09-28 11:21:41,753 INFO 732 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:21:41 GMT+0800 (GMT+08:00)
+2019-09-28 11:21:41,782 INFO 732 [egg:core] dump config after ready, 26ms
+2019-09-28 11:26:55,488 INFO 2168 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:26:55,527 INFO 2168 [egg-multipart] stream mode enable
+2019-09-28 11:26:55,531 INFO 2168 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:26:55,768 INFO 2168 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:26:55,771 INFO 2168 [egg-security] use methodnoallow middleware
+2019-09-28 11:26:55,771 INFO 2168 [egg-security] use noopen middleware
+2019-09-28 11:26:55,772 INFO 2168 [egg-security] use nosniff middleware
+2019-09-28 11:26:55,773 INFO 2168 [egg-security] use xssProtection middleware
+2019-09-28 11:26:55,774 INFO 2168 [egg-security] use xframe middleware
+2019-09-28 11:26:55,775 INFO 2168 [egg-security] use dta middleware
+2019-09-28 11:26:55,775 INFO 2168 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:26:55,812 INFO 2168 [egg:core] dump config after load, 12ms
+2019-09-28 11:26:55,832 INFO 2168 [egg-watcher:application] watcher start success
+2019-09-28 11:26:55,835 INFO 2168 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:26:55 GMT+0800 (GMT+08:00)
+2019-09-28 11:26:55,841 INFO 2168 [egg:core] dump config after ready, 4ms
+2019-09-28 11:28:13,769 INFO 2530 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:28:13,809 INFO 2530 [egg-multipart] stream mode enable
+2019-09-28 11:28:13,810 INFO 2530 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:28:13,944 INFO 2530 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:28:13,946 INFO 2530 [egg-security] use methodnoallow middleware
+2019-09-28 11:28:13,947 INFO 2530 [egg-security] use noopen middleware
+2019-09-28 11:28:13,948 INFO 2530 [egg-security] use nosniff middleware
+2019-09-28 11:28:13,949 INFO 2530 [egg-security] use xssProtection middleware
+2019-09-28 11:28:13,950 INFO 2530 [egg-security] use xframe middleware
+2019-09-28 11:28:13,951 INFO 2530 [egg-security] use dta middleware
+2019-09-28 11:28:13,951 INFO 2530 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:28:13,964 INFO 2530 [egg:core] dump config after load, 3ms
+2019-09-28 11:28:13,978 INFO 2530 [egg-watcher:application] watcher start success
+2019-09-28 11:28:13,981 INFO 2530 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:28:13 GMT+0800 (GMT+08:00)
+2019-09-28 11:28:13,986 INFO 2530 [egg:core] dump config after ready, 3ms
+2019-09-28 11:30:08,760 INFO 3056 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:30:08,789 INFO 3056 [egg-multipart] stream mode enable
+2019-09-28 11:30:08,790 INFO 3056 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:30:08,989 INFO 3056 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:30:08,991 INFO 3056 [egg-security] use methodnoallow middleware
+2019-09-28 11:30:08,993 INFO 3056 [egg-security] use noopen middleware
+2019-09-28 11:30:08,997 INFO 3056 [egg-security] use nosniff middleware
+2019-09-28 11:30:08,999 INFO 3056 [egg-security] use xssProtection middleware
+2019-09-28 11:30:09,000 INFO 3056 [egg-security] use xframe middleware
+2019-09-28 11:30:09,001 INFO 3056 [egg-security] use dta middleware
+2019-09-28 11:30:09,001 INFO 3056 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:30:09,024 INFO 3056 [egg:core] dump config after load, 4ms
+2019-09-28 11:30:09,053 INFO 3056 [egg-watcher:application] watcher start success
+2019-09-28 11:30:09,056 INFO 3056 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:30:09 GMT+0800 (GMT+08:00)
+2019-09-28 11:30:09,064 INFO 3056 [egg:core] dump config after ready, 6ms
+2019-09-28 11:30:11,516 INFO 3072 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:30:11,538 INFO 3072 [egg-multipart] stream mode enable
+2019-09-28 11:30:11,539 INFO 3072 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:30:11,612 INFO 3072 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:30:11,613 INFO 3072 [egg-security] use methodnoallow middleware
+2019-09-28 11:30:11,614 INFO 3072 [egg-security] use noopen middleware
+2019-09-28 11:30:11,614 INFO 3072 [egg-security] use nosniff middleware
+2019-09-28 11:30:11,614 INFO 3072 [egg-security] use xssProtection middleware
+2019-09-28 11:30:11,614 INFO 3072 [egg-security] use xframe middleware
+2019-09-28 11:30:11,615 INFO 3072 [egg-security] use dta middleware
+2019-09-28 11:30:11,615 INFO 3072 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:30:11,624 INFO 3072 [egg:core] dump config after load, 4ms
+2019-09-28 11:30:11,639 INFO 3072 [egg-watcher:application] watcher start success
+2019-09-28 11:30:11,643 INFO 3072 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:30:11 GMT+0800 (GMT+08:00)
+2019-09-28 11:30:11,648 INFO 3072 [egg:core] dump config after ready, 3ms
+2019-09-28 11:30:52,000 INFO 3254 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:30:52,024 INFO 3254 [egg-multipart] stream mode enable
+2019-09-28 11:30:52,026 INFO 3254 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:30:52,209 INFO 3254 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:30:52,212 INFO 3254 [egg-security] use methodnoallow middleware
+2019-09-28 11:30:52,213 INFO 3254 [egg-security] use noopen middleware
+2019-09-28 11:30:52,213 INFO 3254 [egg-security] use nosniff middleware
+2019-09-28 11:30:52,214 INFO 3254 [egg-security] use xssProtection middleware
+2019-09-28 11:30:52,214 INFO 3254 [egg-security] use xframe middleware
+2019-09-28 11:30:52,215 INFO 3254 [egg-security] use dta middleware
+2019-09-28 11:30:52,215 INFO 3254 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:30:52,244 INFO 3254 [egg:core] dump config after load, 5ms
+2019-09-28 11:30:52,259 INFO 3254 [egg-watcher:application] watcher start success
+2019-09-28 11:30:52,262 INFO 3254 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:30:52 GMT+0800 (GMT+08:00)
+2019-09-28 11:30:52,267 INFO 3254 [egg:core] dump config after ready, 4ms
+2019-09-28 11:30:55,050 INFO 3270 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:30:55,071 INFO 3270 [egg-multipart] stream mode enable
+2019-09-28 11:30:55,072 INFO 3270 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:30:55,144 INFO 3270 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:30:55,146 INFO 3270 [egg-security] use methodnoallow middleware
+2019-09-28 11:30:55,146 INFO 3270 [egg-security] use noopen middleware
+2019-09-28 11:30:55,146 INFO 3270 [egg-security] use nosniff middleware
+2019-09-28 11:30:55,147 INFO 3270 [egg-security] use xssProtection middleware
+2019-09-28 11:30:55,148 INFO 3270 [egg-security] use xframe middleware
+2019-09-28 11:30:55,148 INFO 3270 [egg-security] use dta middleware
+2019-09-28 11:30:55,148 INFO 3270 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:30:55,160 INFO 3270 [egg:core] dump config after load, 5ms
+2019-09-28 11:30:55,178 INFO 3270 [egg-watcher:application] watcher start success
+2019-09-28 11:30:55,180 INFO 3270 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:30:55 GMT+0800 (GMT+08:00)
+2019-09-28 11:30:55,187 INFO 3270 [egg:core] dump config after ready, 4ms
+2019-09-28 11:31:21,227 INFO 3392 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:31:21,244 INFO 3392 [egg-multipart] stream mode enable
+2019-09-28 11:31:21,245 INFO 3392 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:31:21,318 INFO 3392 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:31:21,319 INFO 3392 [egg-security] use methodnoallow middleware
+2019-09-28 11:31:21,320 INFO 3392 [egg-security] use noopen middleware
+2019-09-28 11:31:21,320 INFO 3392 [egg-security] use nosniff middleware
+2019-09-28 11:31:21,321 INFO 3392 [egg-security] use xssProtection middleware
+2019-09-28 11:31:21,322 INFO 3392 [egg-security] use xframe middleware
+2019-09-28 11:31:21,322 INFO 3392 [egg-security] use dta middleware
+2019-09-28 11:31:21,322 INFO 3392 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:31:21,331 INFO 3392 [egg:core] dump config after load, 4ms
+2019-09-28 11:31:21,346 INFO 3392 [egg-watcher:application] watcher start success
+2019-09-28 11:31:21,348 INFO 3392 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:31:21 GMT+0800 (GMT+08:00)
+2019-09-28 11:31:21,352 INFO 3392 [egg:core] dump config after ready, 3ms
+2019-09-28 11:32:07,795 INFO 3605 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:32:07,823 INFO 3605 [egg-multipart] stream mode enable
+2019-09-28 11:32:07,825 INFO 3605 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:32:07,990 INFO 3605 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:32:07,994 INFO 3605 [egg-security] use methodnoallow middleware
+2019-09-28 11:32:07,995 INFO 3605 [egg-security] use noopen middleware
+2019-09-28 11:32:07,996 INFO 3605 [egg-security] use nosniff middleware
+2019-09-28 11:32:07,997 INFO 3605 [egg-security] use xssProtection middleware
+2019-09-28 11:32:07,998 INFO 3605 [egg-security] use xframe middleware
+2019-09-28 11:32:07,999 INFO 3605 [egg-security] use dta middleware
+2019-09-28 11:32:07,999 INFO 3605 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:32:08,017 INFO 3605 [egg:core] dump config after load, 5ms
+2019-09-28 11:32:08,033 INFO 3605 [egg-watcher:application] watcher start success
+2019-09-28 11:32:08,037 INFO 3605 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:32:08 GMT+0800 (GMT+08:00)
+2019-09-28 11:32:08,045 INFO 3605 [egg:core] dump config after ready, 5ms
+2019-09-28 11:33:42,904 INFO 4032 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:33:42,930 INFO 4032 [egg-multipart] stream mode enable
+2019-09-28 11:33:42,931 INFO 4032 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:33:43,091 INFO 4032 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:33:43,097 INFO 4032 [egg-security] use methodnoallow middleware
+2019-09-28 11:33:43,097 INFO 4032 [egg-security] use noopen middleware
+2019-09-28 11:33:43,098 INFO 4032 [egg-security] use nosniff middleware
+2019-09-28 11:33:43,099 INFO 4032 [egg-security] use xssProtection middleware
+2019-09-28 11:33:43,102 INFO 4032 [egg-security] use xframe middleware
+2019-09-28 11:33:43,103 INFO 4032 [egg-security] use dta middleware
+2019-09-28 11:33:43,103 INFO 4032 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:33:43,120 INFO 4032 [egg:core] dump config after load, 6ms
+2019-09-28 11:33:43,133 INFO 4032 [egg-watcher:application] watcher start success
+2019-09-28 11:33:43,136 INFO 4032 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:33:43 GMT+0800 (GMT+08:00)
+2019-09-28 11:33:43,140 INFO 4032 [egg:core] dump config after ready, 3ms
+2019-09-28 11:33:47,211 INFO 4058 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:33:47,232 INFO 4058 [egg-multipart] stream mode enable
+2019-09-28 11:33:47,233 INFO 4058 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:33:47,305 INFO 4058 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:33:47,307 INFO 4058 [egg-security] use methodnoallow middleware
+2019-09-28 11:33:47,307 INFO 4058 [egg-security] use noopen middleware
+2019-09-28 11:33:47,308 INFO 4058 [egg-security] use nosniff middleware
+2019-09-28 11:33:47,308 INFO 4058 [egg-security] use xssProtection middleware
+2019-09-28 11:33:47,308 INFO 4058 [egg-security] use xframe middleware
+2019-09-28 11:33:47,308 INFO 4058 [egg-security] use dta middleware
+2019-09-28 11:33:47,308 INFO 4058 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:33:47,320 INFO 4058 [egg:core] dump config after load, 6ms
+2019-09-28 11:33:47,342 INFO 4058 [egg-watcher:application] watcher start success
+2019-09-28 11:33:47,346 INFO 4058 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:33:47 GMT+0800 (GMT+08:00)
+2019-09-28 11:33:47,354 INFO 4058 [egg:core] dump config after ready, 5ms
+2019-09-28 11:35:20,084 INFO 4481 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 11:35:20,111 INFO 4481 [egg-multipart] stream mode enable
+2019-09-28 11:35:20,112 INFO 4481 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 11:35:20,498 INFO 4481 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 11:35:20,500 INFO 4481 [egg-security] use methodnoallow middleware
+2019-09-28 11:35:20,501 INFO 4481 [egg-security] use noopen middleware
+2019-09-28 11:35:20,502 INFO 4481 [egg-security] use nosniff middleware
+2019-09-28 11:35:20,503 INFO 4481 [egg-security] use xssProtection middleware
+2019-09-28 11:35:20,503 INFO 4481 [egg-security] use xframe middleware
+2019-09-28 11:35:20,504 INFO 4481 [egg-security] use dta middleware
+2019-09-28 11:35:20,504 INFO 4481 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 11:35:20,519 INFO 4481 [egg:core] dump config after load, 3ms
+2019-09-28 11:35:20,534 INFO 4481 [egg-watcher:application] watcher start success
+2019-09-28 11:35:20,538 INFO 4481 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 11:35:20 GMT+0800 (GMT+08:00)
+2019-09-28 11:35:20,545 INFO 4481 [egg:core] dump config after ready, 5ms
+2019-09-28 12:32:25,493 INFO 4481 [-/127.0.0.1/-/1ms SCHEDULE /__schedule?path=/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/nt/b5b4p_sj1gx1z4n7gmys81mm0000gn/T/egg-multipart-tmp/y"
+2019-09-28 12:32:25,533 INFO 4481 [-/127.0.0.1/-/42ms SCHEDULE /__schedule?path=/Users/aiyining/Desktop/node/egg/node_modules/_egg-multipart@2.9.0@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-09-28 12:35:32,119 INFO 21012 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 12:35:32,147 INFO 21012 [egg-multipart] stream mode enable
+2019-09-28 12:35:32,148 INFO 21012 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 12:35:32,344 INFO 21012 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 12:35:32,348 INFO 21012 [egg-security] use methodnoallow middleware
+2019-09-28 12:35:32,349 INFO 21012 [egg-security] use noopen middleware
+2019-09-28 12:35:32,350 INFO 21012 [egg-security] use nosniff middleware
+2019-09-28 12:35:32,350 INFO 21012 [egg-security] use xssProtection middleware
+2019-09-28 12:35:32,351 INFO 21012 [egg-security] use xframe middleware
+2019-09-28 12:35:32,352 INFO 21012 [egg-security] use dta middleware
+2019-09-28 12:35:32,352 INFO 21012 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 12:35:32,371 INFO 21012 [egg:core] dump config after load, 7ms
+2019-09-28 12:35:32,386 INFO 21012 [egg-watcher:application] watcher start success
+2019-09-28 12:35:32,390 INFO 21012 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 12:35:32 GMT+0800 (GMT+08:00)
+2019-09-28 12:35:32,398 INFO 21012 [egg:core] dump config after ready, 6ms
+2019-09-28 13:03:14,437 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 13:13:11,388 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 13:23:27,363 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 13:33:44,332 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 13:44:01,298 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 13:53:58,226 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 14:04:15,204 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 14:14:32,181 WARN 21012 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 14:14:32,182 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 14:24:29,132 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 16:11:06,078 WARN 21012 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 16:11:06,080 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 16:21:22,996 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 16:31:39,954 WARN 21012 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 16:31:39,956 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 16:41:56,906 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 16:51:53,860 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 17:02:09,803 WARN 21012 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 17:02:09,804 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 17:12:26,788 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 17:14:56,769 WARN 21012 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 17:40:35,339 INFO 55656 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 17:40:35,367 INFO 55656 [egg-multipart] stream mode enable
+2019-09-28 17:40:35,368 INFO 55656 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 17:40:35,586 INFO 55656 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 17:40:35,589 INFO 55656 [egg-security] use methodnoallow middleware
+2019-09-28 17:40:35,590 INFO 55656 [egg-security] use noopen middleware
+2019-09-28 17:40:35,590 INFO 55656 [egg-security] use nosniff middleware
+2019-09-28 17:40:35,591 INFO 55656 [egg-security] use xssProtection middleware
+2019-09-28 17:40:35,591 INFO 55656 [egg-security] use xframe middleware
+2019-09-28 17:40:35,592 INFO 55656 [egg-security] use dta middleware
+2019-09-28 17:40:35,592 INFO 55656 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 17:40:35,621 INFO 55656 [egg:core] dump config after load, 13ms
+2019-09-28 17:40:35,642 INFO 55656 [egg-watcher:application] watcher start success
+2019-09-28 17:40:35,651 INFO 55656 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 17:40:35 GMT+0800 (GMT+08:00)
+2019-09-28 17:40:35,657 INFO 55656 [egg:core] dump config after ready, 4ms
+2019-09-28 17:44:27,661 INFO 56706 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 17:44:27,704 INFO 56706 [egg-multipart] stream mode enable
+2019-09-28 17:44:27,705 INFO 56706 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 17:44:27,899 INFO 56706 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 17:44:27,901 INFO 56706 [egg-security] use methodnoallow middleware
+2019-09-28 17:44:27,902 INFO 56706 [egg-security] use noopen middleware
+2019-09-28 17:44:27,903 INFO 56706 [egg-security] use nosniff middleware
+2019-09-28 17:44:27,904 INFO 56706 [egg-security] use xssProtection middleware
+2019-09-28 17:44:27,905 INFO 56706 [egg-security] use xframe middleware
+2019-09-28 17:44:27,905 INFO 56706 [egg-security] use dta middleware
+2019-09-28 17:44:27,905 INFO 56706 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 17:44:27,929 INFO 56706 [egg:core] dump config after load, 6ms
+2019-09-28 17:44:27,944 INFO 56706 [egg-watcher:application] watcher start success
+2019-09-28 17:44:27,949 INFO 56706 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 17:44:27 GMT+0800 (GMT+08:00)
+2019-09-28 17:44:27,955 INFO 56706 [egg:core] dump config after ready, 5ms
+2019-09-28 17:44:48,948 INFO 56807 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 17:44:48,984 INFO 56807 [egg-multipart] stream mode enable
+2019-09-28 17:44:48,986 INFO 56807 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 17:44:49,156 INFO 56807 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 17:44:49,158 INFO 56807 [egg-security] use methodnoallow middleware
+2019-09-28 17:44:49,159 INFO 56807 [egg-security] use noopen middleware
+2019-09-28 17:44:49,160 INFO 56807 [egg-security] use nosniff middleware
+2019-09-28 17:44:49,161 INFO 56807 [egg-security] use xssProtection middleware
+2019-09-28 17:44:49,162 INFO 56807 [egg-security] use xframe middleware
+2019-09-28 17:44:49,162 INFO 56807 [egg-security] use dta middleware
+2019-09-28 17:44:49,162 INFO 56807 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 17:44:49,181 INFO 56807 [egg:core] dump config after load, 4ms
+2019-09-28 17:44:49,198 INFO 56807 [egg-watcher:application] watcher start success
+2019-09-28 17:44:49,200 INFO 56807 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 17:44:49 GMT+0800 (GMT+08:00)
+2019-09-28 17:44:49,207 INFO 56807 [egg:core] dump config after ready, 4ms
+2019-09-28 18:01:51,070 INFO 61488 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 18:01:51,104 INFO 61488 [egg-multipart] stream mode enable
+2019-09-28 18:01:51,106 INFO 61488 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 18:01:51,354 INFO 61488 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 18:01:51,357 INFO 61488 [egg-security] use methodnoallow middleware
+2019-09-28 18:01:51,358 INFO 61488 [egg-security] use noopen middleware
+2019-09-28 18:01:51,359 INFO 61488 [egg-security] use nosniff middleware
+2019-09-28 18:01:51,359 INFO 61488 [egg-security] use xssProtection middleware
+2019-09-28 18:01:51,360 INFO 61488 [egg-security] use xframe middleware
+2019-09-28 18:01:51,361 INFO 61488 [egg-security] use dta middleware
+2019-09-28 18:01:51,361 INFO 61488 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 18:01:51,387 INFO 61488 [egg:core] dump config after load, 12ms
+2019-09-28 18:01:51,406 INFO 61488 [egg-watcher:application] watcher start success
+2019-09-28 18:01:51,409 INFO 61488 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 18:01:51 GMT+0800 (GMT+08:00)
+2019-09-28 18:01:51,416 INFO 61488 [egg:core] dump config after ready, 6ms
+2019-09-28 18:02:35,303 INFO 61698 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 18:02:35,325 INFO 61698 [egg-multipart] stream mode enable
+2019-09-28 18:02:35,327 INFO 61698 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 18:02:35,390 INFO 61698 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 18:02:35,391 INFO 61698 [egg-security] use methodnoallow middleware
+2019-09-28 18:02:35,392 INFO 61698 [egg-security] use noopen middleware
+2019-09-28 18:02:35,392 INFO 61698 [egg-security] use nosniff middleware
+2019-09-28 18:02:35,393 INFO 61698 [egg-security] use xssProtection middleware
+2019-09-28 18:02:35,394 INFO 61698 [egg-security] use xframe middleware
+2019-09-28 18:02:35,394 INFO 61698 [egg-security] use dta middleware
+2019-09-28 18:02:35,394 INFO 61698 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 18:02:35,404 INFO 61698 [egg:core] dump config after load, 5ms
+2019-09-28 18:02:35,417 INFO 61698 [egg-watcher:application] watcher start success
+2019-09-28 18:02:35,420 INFO 61698 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 18:02:35 GMT+0800 (GMT+08:00)
+2019-09-28 18:02:35,425 INFO 61698 [egg:core] dump config after ready, 4ms
+2019-09-28 18:02:46,169 INFO 61749 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 18:02:46,196 INFO 61749 [egg-multipart] stream mode enable
+2019-09-28 18:02:46,197 INFO 61749 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 18:02:46,359 INFO 61749 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 18:02:46,361 INFO 61749 [egg-security] use methodnoallow middleware
+2019-09-28 18:02:46,362 INFO 61749 [egg-security] use noopen middleware
+2019-09-28 18:02:46,363 INFO 61749 [egg-security] use nosniff middleware
+2019-09-28 18:02:46,364 INFO 61749 [egg-security] use xssProtection middleware
+2019-09-28 18:02:46,365 INFO 61749 [egg-security] use xframe middleware
+2019-09-28 18:02:46,365 INFO 61749 [egg-security] use dta middleware
+2019-09-28 18:02:46,365 INFO 61749 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 18:02:46,384 INFO 61749 [egg:core] dump config after load, 6ms
+2019-09-28 18:02:46,399 INFO 61749 [egg-watcher:application] watcher start success
+2019-09-28 18:02:46,403 INFO 61749 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 18:02:46 GMT+0800 (GMT+08:00)
+2019-09-28 18:02:46,408 INFO 61749 [egg:core] dump config after ready, 3ms
+2019-09-28 18:03:36,331 INFO 61980 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-28 18:03:36,367 INFO 61980 [egg-multipart] stream mode enable
+2019-09-28 18:03:36,369 INFO 61980 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-28 18:03:36,608 INFO 61980 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-28 18:03:36,610 INFO 61980 [egg-security] use methodnoallow middleware
+2019-09-28 18:03:36,611 INFO 61980 [egg-security] use noopen middleware
+2019-09-28 18:03:36,613 INFO 61980 [egg-security] use nosniff middleware
+2019-09-28 18:03:36,614 INFO 61980 [egg-security] use xssProtection middleware
+2019-09-28 18:03:36,615 INFO 61980 [egg-security] use xframe middleware
+2019-09-28 18:03:36,615 INFO 61980 [egg-security] use dta middleware
+2019-09-28 18:03:36,615 INFO 61980 [egg-security] compose 6 middlewares into one security middleware
+2019-09-28 18:03:36,638 INFO 61980 [egg:core] dump config after load, 6ms
+2019-09-28 18:03:36,651 INFO 61980 [egg-watcher:application] watcher start success
+2019-09-28 18:03:36,658 INFO 61980 [egg-mysql] instance[0] status OK, rds currentTime: Sat Sep 28 2019 18:03:36 GMT+0800 (GMT+08:00)
+2019-09-28 18:03:36,666 INFO 61980 [egg:core] dump config after ready, 4ms
+2019-09-28 20:14:24,079 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 20:24:40,983 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 20:34:57,944 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 20:34:57,946 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 20:45:14,906 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 20:55:12,881 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 21:05:29,813 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 21:15:46,777 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 21:15:46,778 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 21:25:42,749 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 21:35:59,706 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 21:46:16,689 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 21:46:16,690 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 21:56:14,004 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 21:56:14,005 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 22:06:30,954 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 22:06:30,954 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 22:16:47,917 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 22:16:47,918 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 22:27:03,882 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 22:37:00,850 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 22:37:00,850 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 22:47:17,810 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 22:47:17,810 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 22:57:34,765 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-28 22:57:34,766 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-28 23:01:55,708 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 00:01:24,713 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 00:11:22,008 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 00:11:22,008 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 00:21:38,965 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 00:31:55,925 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 00:42:12,891 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 00:52:08,859 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 01:02:25,817 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 01:02:25,817 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 01:12:42,764 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 01:12:42,765 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 01:22:39,720 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 01:32:56,677 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 01:43:13,661 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 01:43:13,662 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 01:53:11,003 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 01:53:11,004 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 02:03:26,968 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 02:03:26,968 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 02:13:43,910 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 02:24:00,870 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 02:33:57,827 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 02:44:14,794 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 02:44:14,794 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 02:54:31,774 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 02:54:31,775 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 03:04:28,745 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 03:04:28,746 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 03:14:45,704 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 03:14:45,704 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 03:25:01,673 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 03:34:59,003 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 03:45:15,981 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 03:55:32,942 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 04:05:49,905 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 04:16:06,471 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 04:26:23,454 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 04:36:20,402 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 04:46:37,377 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 04:46:37,377 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 04:56:54,357 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 04:56:54,358 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 05:06:51,003 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 05:06:51,003 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 05:17:07,941 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 05:27:24,906 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 05:37:41,869 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 05:47:38,828 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 05:57:55,799 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 05:57:55,799 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 06:08:12,777 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 06:18:09,715 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 06:28:25,699 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 06:28:25,699 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 06:38:42,667 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 06:48:40,004 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 06:48:40,004 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 06:58:56,976 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 07:09:13,951 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 07:19:30,698 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 07:29:47,685 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 07:29:47,685 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 07:40:04,667 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 07:40:04,668 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 07:50:01,625 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 08:00:17,580 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 08:00:17,580 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 08:10:34,538 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 08:10:34,539 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 08:20:32,004 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 08:30:48,969 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 08:41:05,932 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 08:51:22,911 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 09:00:03,848 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 09:16:56,447 WARN 61980 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-09-29 09:16:56,455 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 09:46:58,588 WARN 61980 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-09-29 09:59:35,634 INFO 11907 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 09:59:35,675 INFO 11907 [egg-multipart] stream mode enable
+2019-09-29 09:59:35,677 INFO 11907 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 09:59:35,946 INFO 11907 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 09:59:35,949 INFO 11907 [egg-security] use methodnoallow middleware
+2019-09-29 09:59:35,949 INFO 11907 [egg-security] use noopen middleware
+2019-09-29 09:59:35,950 INFO 11907 [egg-security] use nosniff middleware
+2019-09-29 09:59:35,951 INFO 11907 [egg-security] use xssProtection middleware
+2019-09-29 09:59:35,951 INFO 11907 [egg-security] use xframe middleware
+2019-09-29 09:59:35,952 INFO 11907 [egg-security] use dta middleware
+2019-09-29 09:59:35,952 INFO 11907 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 09:59:35,975 INFO 11907 [egg:core] dump config after load, 8ms
+2019-09-29 09:59:35,992 INFO 11907 [egg-watcher:application] watcher start success
+2019-09-29 09:59:35,995 INFO 11907 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 09:59:35 GMT+0800 (GMT+08:00)
+2019-09-29 09:59:36,001 INFO 11907 [egg:core] dump config after ready, 4ms
+2019-09-29 10:00:23,733 INFO 12127 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:00:23,760 INFO 12127 [egg-multipart] stream mode enable
+2019-09-29 10:00:23,761 INFO 12127 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:00:23,950 INFO 12127 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:00:23,952 INFO 12127 [egg-security] use methodnoallow middleware
+2019-09-29 10:00:23,953 INFO 12127 [egg-security] use noopen middleware
+2019-09-29 10:00:23,954 INFO 12127 [egg-security] use nosniff middleware
+2019-09-29 10:00:23,955 INFO 12127 [egg-security] use xssProtection middleware
+2019-09-29 10:00:23,956 INFO 12127 [egg-security] use xframe middleware
+2019-09-29 10:00:23,957 INFO 12127 [egg-security] use dta middleware
+2019-09-29 10:00:23,957 INFO 12127 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:00:23,978 INFO 12127 [egg:core] dump config after load, 8ms
+2019-09-29 10:00:23,995 INFO 12127 [egg-watcher:application] watcher start success
+2019-09-29 10:00:23,998 INFO 12127 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:00:23 GMT+0800 (GMT+08:00)
+2019-09-29 10:00:24,003 INFO 12127 [egg:core] dump config after ready, 4ms
+2019-09-29 10:29:22,461 INFO 20007 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:29:22,497 INFO 20007 [egg-multipart] stream mode enable
+2019-09-29 10:29:22,498 INFO 20007 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:29:22,727 INFO 20007 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:29:22,730 INFO 20007 [egg-security] use methodnoallow middleware
+2019-09-29 10:29:22,731 INFO 20007 [egg-security] use noopen middleware
+2019-09-29 10:29:22,732 INFO 20007 [egg-security] use nosniff middleware
+2019-09-29 10:29:22,733 INFO 20007 [egg-security] use xssProtection middleware
+2019-09-29 10:29:22,735 INFO 20007 [egg-security] use xframe middleware
+2019-09-29 10:29:22,736 INFO 20007 [egg-security] use dta middleware
+2019-09-29 10:29:22,736 INFO 20007 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:29:22,791 INFO 20007 [egg:core] dump config after load, 23ms
+2019-09-29 10:29:22,808 INFO 20007 [egg-watcher:application] watcher start success
+2019-09-29 10:29:22,823 INFO 20007 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:29:22 GMT+0800 (GMT+08:00)
+2019-09-29 10:29:22,831 INFO 20007 [egg:core] dump config after ready, 7ms
+2019-09-29 10:29:37,536 INFO 20073 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:29:37,565 INFO 20073 [egg-multipart] stream mode enable
+2019-09-29 10:29:37,567 INFO 20073 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:29:37,758 INFO 20073 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:29:37,760 INFO 20073 [egg-security] use methodnoallow middleware
+2019-09-29 10:29:37,762 INFO 20073 [egg-security] use noopen middleware
+2019-09-29 10:29:37,763 INFO 20073 [egg-security] use nosniff middleware
+2019-09-29 10:29:37,764 INFO 20073 [egg-security] use xssProtection middleware
+2019-09-29 10:29:37,765 INFO 20073 [egg-security] use xframe middleware
+2019-09-29 10:29:37,766 INFO 20073 [egg-security] use dta middleware
+2019-09-29 10:29:37,766 INFO 20073 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:29:37,790 INFO 20073 [egg:core] dump config after load, 5ms
+2019-09-29 10:29:37,807 INFO 20073 [egg-watcher:application] watcher start success
+2019-09-29 10:29:37,812 INFO 20073 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:29:37 GMT+0800 (GMT+08:00)
+2019-09-29 10:29:37,818 INFO 20073 [egg:core] dump config after ready, 3ms
+2019-09-29 10:29:46,547 INFO 20114 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:29:46,573 INFO 20114 [egg-multipart] stream mode enable
+2019-09-29 10:29:46,574 INFO 20114 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:29:46,703 INFO 20114 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:29:46,707 INFO 20114 [egg-security] use methodnoallow middleware
+2019-09-29 10:29:46,707 INFO 20114 [egg-security] use noopen middleware
+2019-09-29 10:29:46,708 INFO 20114 [egg-security] use nosniff middleware
+2019-09-29 10:29:46,708 INFO 20114 [egg-security] use xssProtection middleware
+2019-09-29 10:29:46,708 INFO 20114 [egg-security] use xframe middleware
+2019-09-29 10:29:46,708 INFO 20114 [egg-security] use dta middleware
+2019-09-29 10:29:46,708 INFO 20114 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:29:46,727 INFO 20114 [egg:core] dump config after load, 8ms
+2019-09-29 10:29:46,749 INFO 20114 [egg-watcher:application] watcher start success
+2019-09-29 10:29:46,754 INFO 20114 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:29:46 GMT+0800 (GMT+08:00)
+2019-09-29 10:29:46,759 INFO 20114 [egg:core] dump config after ready, 3ms
+2019-09-29 10:30:22,303 INFO 20279 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:30:22,356 INFO 20279 [egg-multipart] stream mode enable
+2019-09-29 10:30:22,359 INFO 20279 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:30:22,529 INFO 20279 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:30:22,532 INFO 20279 [egg-security] use methodnoallow middleware
+2019-09-29 10:30:22,533 INFO 20279 [egg-security] use noopen middleware
+2019-09-29 10:30:22,534 INFO 20279 [egg-security] use nosniff middleware
+2019-09-29 10:30:22,535 INFO 20279 [egg-security] use xssProtection middleware
+2019-09-29 10:30:22,536 INFO 20279 [egg-security] use xframe middleware
+2019-09-29 10:30:22,536 INFO 20279 [egg-security] use dta middleware
+2019-09-29 10:30:22,536 INFO 20279 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:30:22,559 INFO 20279 [egg:core] dump config after load, 5ms
+2019-09-29 10:30:22,573 INFO 20279 [egg-watcher:application] watcher start success
+2019-09-29 10:30:22,577 INFO 20279 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:30:22 GMT+0800 (GMT+08:00)
+2019-09-29 10:30:22,582 INFO 20279 [egg:core] dump config after ready, 3ms
+2019-09-29 10:37:59,709 INFO 22256 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:37:59,738 INFO 22256 [egg-multipart] stream mode enable
+2019-09-29 10:37:59,740 INFO 22256 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:37:59,967 INFO 22256 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:37:59,970 INFO 22256 [egg-security] use methodnoallow middleware
+2019-09-29 10:37:59,971 INFO 22256 [egg-security] use noopen middleware
+2019-09-29 10:37:59,971 INFO 22256 [egg-security] use nosniff middleware
+2019-09-29 10:37:59,972 INFO 22256 [egg-security] use xssProtection middleware
+2019-09-29 10:37:59,973 INFO 22256 [egg-security] use xframe middleware
+2019-09-29 10:37:59,974 INFO 22256 [egg-security] use dta middleware
+2019-09-29 10:37:59,974 INFO 22256 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:37:59,999 INFO 22256 [egg:core] dump config after load, 10ms
+2019-09-29 10:38:00,015 INFO 22256 [egg-watcher:application] watcher start success
+2019-09-29 10:38:00,025 INFO 22256 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:38:00 GMT+0800 (GMT+08:00)
+2019-09-29 10:38:00,033 INFO 22256 [egg:core] dump config after ready, 7ms
+2019-09-29 10:38:21,815 INFO 22357 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:38:21,844 INFO 22357 [egg-multipart] stream mode enable
+2019-09-29 10:38:21,845 INFO 22357 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:38:22,021 INFO 22357 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:38:22,023 INFO 22357 [egg-security] use methodnoallow middleware
+2019-09-29 10:38:22,024 INFO 22357 [egg-security] use noopen middleware
+2019-09-29 10:38:22,026 INFO 22357 [egg-security] use nosniff middleware
+2019-09-29 10:38:22,026 INFO 22357 [egg-security] use xssProtection middleware
+2019-09-29 10:38:22,027 INFO 22357 [egg-security] use xframe middleware
+2019-09-29 10:38:22,028 INFO 22357 [egg-security] use dta middleware
+2019-09-29 10:38:22,028 INFO 22357 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:38:22,044 INFO 22357 [egg:core] dump config after load, 6ms
+2019-09-29 10:38:22,059 INFO 22357 [egg-watcher:application] watcher start success
+2019-09-29 10:38:22,064 INFO 22357 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:38:22 GMT+0800 (GMT+08:00)
+2019-09-29 10:38:22,070 INFO 22357 [egg:core] dump config after ready, 4ms
+2019-09-29 10:38:32,294 INFO 22413 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:38:32,335 INFO 22413 [egg-multipart] stream mode enable
+2019-09-29 10:38:32,336 INFO 22413 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:38:32,525 INFO 22413 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:38:32,527 INFO 22413 [egg-security] use methodnoallow middleware
+2019-09-29 10:38:32,532 INFO 22413 [egg-security] use noopen middleware
+2019-09-29 10:38:32,533 INFO 22413 [egg-security] use nosniff middleware
+2019-09-29 10:38:32,534 INFO 22413 [egg-security] use xssProtection middleware
+2019-09-29 10:38:32,536 INFO 22413 [egg-security] use xframe middleware
+2019-09-29 10:38:32,537 INFO 22413 [egg-security] use dta middleware
+2019-09-29 10:38:32,537 INFO 22413 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:38:32,573 INFO 22413 [egg:core] dump config after load, 18ms
+2019-09-29 10:38:32,591 INFO 22413 [egg-watcher:application] watcher start success
+2019-09-29 10:38:32,593 INFO 22413 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:38:32 GMT+0800 (GMT+08:00)
+2019-09-29 10:38:32,600 INFO 22413 [egg:core] dump config after ready, 3ms
+2019-09-29 10:38:44,621 INFO 22469 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:38:44,645 INFO 22469 [egg-multipart] stream mode enable
+2019-09-29 10:38:44,645 INFO 22469 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:38:44,793 INFO 22469 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:38:44,795 INFO 22469 [egg-security] use methodnoallow middleware
+2019-09-29 10:38:44,795 INFO 22469 [egg-security] use noopen middleware
+2019-09-29 10:38:44,796 INFO 22469 [egg-security] use nosniff middleware
+2019-09-29 10:38:44,796 INFO 22469 [egg-security] use xssProtection middleware
+2019-09-29 10:38:44,796 INFO 22469 [egg-security] use xframe middleware
+2019-09-29 10:38:44,800 INFO 22469 [egg-security] use dta middleware
+2019-09-29 10:38:44,800 INFO 22469 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:38:44,812 INFO 22469 [egg:core] dump config after load, 3ms
+2019-09-29 10:38:44,830 INFO 22469 [egg-watcher:application] watcher start success
+2019-09-29 10:38:44,837 INFO 22469 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:38:44 GMT+0800 (GMT+08:00)
+2019-09-29 10:38:44,842 INFO 22469 [egg:core] dump config after ready, 4ms
+2019-09-29 10:38:48,487 INFO 22485 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:38:48,509 INFO 22485 [egg-multipart] stream mode enable
+2019-09-29 10:38:48,510 INFO 22485 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:38:48,591 INFO 22485 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:38:48,593 INFO 22485 [egg-security] use methodnoallow middleware
+2019-09-29 10:38:48,593 INFO 22485 [egg-security] use noopen middleware
+2019-09-29 10:38:48,593 INFO 22485 [egg-security] use nosniff middleware
+2019-09-29 10:38:48,594 INFO 22485 [egg-security] use xssProtection middleware
+2019-09-29 10:38:48,594 INFO 22485 [egg-security] use xframe middleware
+2019-09-29 10:38:48,594 INFO 22485 [egg-security] use dta middleware
+2019-09-29 10:38:48,594 INFO 22485 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:38:48,607 INFO 22485 [egg:core] dump config after load, 5ms
+2019-09-29 10:38:48,626 INFO 22485 [egg-watcher:application] watcher start success
+2019-09-29 10:38:48,632 INFO 22485 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:38:48 GMT+0800 (GMT+08:00)
+2019-09-29 10:38:48,640 INFO 22485 [egg:core] dump config after ready, 5ms
+2019-09-29 10:39:13,551 INFO 22596 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:39:13,582 INFO 22596 [egg-multipart] stream mode enable
+2019-09-29 10:39:13,583 INFO 22596 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:39:13,754 INFO 22596 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:39:13,758 INFO 22596 [egg-security] use methodnoallow middleware
+2019-09-29 10:39:13,759 INFO 22596 [egg-security] use noopen middleware
+2019-09-29 10:39:13,761 INFO 22596 [egg-security] use nosniff middleware
+2019-09-29 10:39:13,762 INFO 22596 [egg-security] use xssProtection middleware
+2019-09-29 10:39:13,763 INFO 22596 [egg-security] use xframe middleware
+2019-09-29 10:39:13,763 INFO 22596 [egg-security] use dta middleware
+2019-09-29 10:39:13,763 INFO 22596 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:39:13,782 INFO 22596 [egg:core] dump config after load, 5ms
+2019-09-29 10:39:13,797 INFO 22596 [egg-watcher:application] watcher start success
+2019-09-29 10:39:13,802 INFO 22596 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:39:13 GMT+0800 (GMT+08:00)
+2019-09-29 10:39:13,807 INFO 22596 [egg:core] dump config after ready, 3ms
+2019-09-29 10:40:29,713 INFO 22933 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:40:29,741 INFO 22933 [egg-multipart] stream mode enable
+2019-09-29 10:40:29,746 INFO 22933 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:40:29,981 INFO 22933 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:40:29,983 INFO 22933 [egg-security] use methodnoallow middleware
+2019-09-29 10:40:29,983 INFO 22933 [egg-security] use noopen middleware
+2019-09-29 10:40:29,984 INFO 22933 [egg-security] use nosniff middleware
+2019-09-29 10:40:29,985 INFO 22933 [egg-security] use xssProtection middleware
+2019-09-29 10:40:29,986 INFO 22933 [egg-security] use xframe middleware
+2019-09-29 10:40:29,988 INFO 22933 [egg-security] use dta middleware
+2019-09-29 10:40:29,988 INFO 22933 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:40:30,012 INFO 22933 [egg:core] dump config after load, 7ms
+2019-09-29 10:40:30,030 INFO 22933 [egg-watcher:application] watcher start success
+2019-09-29 10:40:30,038 INFO 22933 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:40:30 GMT+0800 (GMT+08:00)
+2019-09-29 10:40:30,048 INFO 22933 [egg:core] dump config after ready, 8ms
+2019-09-29 10:40:34,660 INFO 22964 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:40:34,687 INFO 22964 [egg-multipart] stream mode enable
+2019-09-29 10:40:34,688 INFO 22964 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:40:34,763 INFO 22964 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:40:34,768 INFO 22964 [egg-security] use methodnoallow middleware
+2019-09-29 10:40:34,768 INFO 22964 [egg-security] use noopen middleware
+2019-09-29 10:40:34,769 INFO 22964 [egg-security] use nosniff middleware
+2019-09-29 10:40:34,769 INFO 22964 [egg-security] use xssProtection middleware
+2019-09-29 10:40:34,769 INFO 22964 [egg-security] use xframe middleware
+2019-09-29 10:40:34,770 INFO 22964 [egg-security] use dta middleware
+2019-09-29 10:40:34,770 INFO 22964 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:40:34,779 INFO 22964 [egg:core] dump config after load, 4ms
+2019-09-29 10:40:34,798 INFO 22964 [egg-watcher:application] watcher start success
+2019-09-29 10:40:34,805 INFO 22964 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:40:34 GMT+0800 (GMT+08:00)
+2019-09-29 10:40:34,810 INFO 22964 [egg:core] dump config after ready, 4ms
+2019-09-29 10:41:00,054 INFO 23082 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:41:00,078 INFO 23082 [egg-multipart] stream mode enable
+2019-09-29 10:41:00,080 INFO 23082 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:41:00,377 INFO 23082 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:41:00,382 INFO 23082 [egg-security] use methodnoallow middleware
+2019-09-29 10:41:00,383 INFO 23082 [egg-security] use noopen middleware
+2019-09-29 10:41:00,384 INFO 23082 [egg-security] use nosniff middleware
+2019-09-29 10:41:00,386 INFO 23082 [egg-security] use xssProtection middleware
+2019-09-29 10:41:00,386 INFO 23082 [egg-security] use xframe middleware
+2019-09-29 10:41:00,387 INFO 23082 [egg-security] use dta middleware
+2019-09-29 10:41:00,387 INFO 23082 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:41:00,411 INFO 23082 [egg:core] dump config after load, 8ms
+2019-09-29 10:41:00,506 INFO 23082 [egg-watcher:application] watcher start success
+2019-09-29 10:41:00,516 INFO 23082 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:41:00 GMT+0800 (GMT+08:00)
+2019-09-29 10:41:00,532 INFO 23082 [egg:core] dump config after ready, 8ms
+2019-09-29 10:43:07,161 INFO 23663 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:43:07,180 INFO 23663 [egg-multipart] stream mode enable
+2019-09-29 10:43:07,181 INFO 23663 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:43:07,300 INFO 23663 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:43:07,302 INFO 23663 [egg-security] use methodnoallow middleware
+2019-09-29 10:43:07,303 INFO 23663 [egg-security] use noopen middleware
+2019-09-29 10:43:07,304 INFO 23663 [egg-security] use nosniff middleware
+2019-09-29 10:43:07,305 INFO 23663 [egg-security] use xssProtection middleware
+2019-09-29 10:43:07,305 INFO 23663 [egg-security] use xframe middleware
+2019-09-29 10:43:07,310 INFO 23663 [egg-security] use dta middleware
+2019-09-29 10:43:07,310 INFO 23663 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:43:07,332 INFO 23663 [egg:core] dump config after load, 11ms
+2019-09-29 10:43:07,354 INFO 23663 [egg-watcher:application] watcher start success
+2019-09-29 10:43:07,359 INFO 23663 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:43:07 GMT+0800 (GMT+08:00)
+2019-09-29 10:43:07,372 INFO 23663 [egg:core] dump config after ready, 11ms
+2019-09-29 10:43:38,915 INFO 23818 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:43:38,950 INFO 23818 [egg-multipart] stream mode enable
+2019-09-29 10:43:38,952 INFO 23818 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:43:39,113 INFO 23818 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:43:39,115 INFO 23818 [egg-security] use methodnoallow middleware
+2019-09-29 10:43:39,115 INFO 23818 [egg-security] use noopen middleware
+2019-09-29 10:43:39,116 INFO 23818 [egg-security] use nosniff middleware
+2019-09-29 10:43:39,117 INFO 23818 [egg-security] use xssProtection middleware
+2019-09-29 10:43:39,119 INFO 23818 [egg-security] use xframe middleware
+2019-09-29 10:43:39,119 INFO 23818 [egg-security] use dta middleware
+2019-09-29 10:43:39,119 INFO 23818 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:43:39,143 INFO 23818 [egg:core] dump config after load, 9ms
+2019-09-29 10:43:39,166 INFO 23818 [egg-watcher:application] watcher start success
+2019-09-29 10:43:39,178 INFO 23818 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:43:39 GMT+0800 (GMT+08:00)
+2019-09-29 10:43:39,190 INFO 23818 [egg:core] dump config after ready, 9ms
+2019-09-29 10:46:54,422 INFO 24695 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:46:54,471 INFO 24695 [egg-multipart] stream mode enable
+2019-09-29 10:46:54,474 INFO 24695 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:46:54,719 INFO 24695 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:46:54,722 INFO 24695 [egg-security] use methodnoallow middleware
+2019-09-29 10:46:54,724 INFO 24695 [egg-security] use noopen middleware
+2019-09-29 10:46:54,725 INFO 24695 [egg-security] use nosniff middleware
+2019-09-29 10:46:54,726 INFO 24695 [egg-security] use xssProtection middleware
+2019-09-29 10:46:54,726 INFO 24695 [egg-security] use xframe middleware
+2019-09-29 10:46:54,727 INFO 24695 [egg-security] use dta middleware
+2019-09-29 10:46:54,727 INFO 24695 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:46:54,747 INFO 24695 [egg:core] dump config after load, 4ms
+2019-09-29 10:46:54,763 INFO 24695 [egg-watcher:application] watcher start success
+2019-09-29 10:46:54,765 INFO 24695 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:46:54 GMT+0800 (GMT+08:00)
+2019-09-29 10:46:54,770 INFO 24695 [egg:core] dump config after ready, 3ms
+2019-09-29 10:49:00,029 INFO 25254 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:49:00,062 INFO 25254 [egg-multipart] stream mode enable
+2019-09-29 10:49:00,063 INFO 25254 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:49:00,299 INFO 25254 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:49:00,303 INFO 25254 [egg-security] use methodnoallow middleware
+2019-09-29 10:49:00,304 INFO 25254 [egg-security] use noopen middleware
+2019-09-29 10:49:00,305 INFO 25254 [egg-security] use nosniff middleware
+2019-09-29 10:49:00,306 INFO 25254 [egg-security] use xssProtection middleware
+2019-09-29 10:49:00,307 INFO 25254 [egg-security] use xframe middleware
+2019-09-29 10:49:00,308 INFO 25254 [egg-security] use dta middleware
+2019-09-29 10:49:00,308 INFO 25254 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:49:00,331 INFO 25254 [egg:core] dump config after load, 5ms
+2019-09-29 10:49:00,358 INFO 25254 [egg-watcher:application] watcher start success
+2019-09-29 10:49:00,362 INFO 25254 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:49:00 GMT+0800 (GMT+08:00)
+2019-09-29 10:49:00,371 INFO 25254 [egg:core] dump config after ready, 8ms
+2019-09-29 10:49:09,614 INFO 25300 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:49:09,688 INFO 25300 [egg-multipart] stream mode enable
+2019-09-29 10:49:09,690 INFO 25300 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:49:09,855 INFO 25300 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:49:09,858 INFO 25300 [egg-security] use methodnoallow middleware
+2019-09-29 10:49:09,858 INFO 25300 [egg-security] use noopen middleware
+2019-09-29 10:49:09,859 INFO 25300 [egg-security] use nosniff middleware
+2019-09-29 10:49:09,860 INFO 25300 [egg-security] use xssProtection middleware
+2019-09-29 10:49:09,861 INFO 25300 [egg-security] use xframe middleware
+2019-09-29 10:49:09,861 INFO 25300 [egg-security] use dta middleware
+2019-09-29 10:49:09,862 INFO 25300 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:49:09,878 INFO 25300 [egg:core] dump config after load, 4ms
+2019-09-29 10:49:09,891 INFO 25300 [egg-watcher:application] watcher start success
+2019-09-29 10:49:09,894 INFO 25300 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:49:09 GMT+0800 (GMT+08:00)
+2019-09-29 10:49:09,899 INFO 25300 [egg:core] dump config after ready, 4ms
+2019-09-29 10:49:28,184 INFO 25386 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:49:28,236 INFO 25386 [egg-multipart] stream mode enable
+2019-09-29 10:49:28,244 INFO 25386 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:49:28,497 INFO 25386 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:49:28,501 INFO 25386 [egg-security] use methodnoallow middleware
+2019-09-29 10:49:28,502 INFO 25386 [egg-security] use noopen middleware
+2019-09-29 10:49:28,503 INFO 25386 [egg-security] use nosniff middleware
+2019-09-29 10:49:28,503 INFO 25386 [egg-security] use xssProtection middleware
+2019-09-29 10:49:28,504 INFO 25386 [egg-security] use xframe middleware
+2019-09-29 10:49:28,505 INFO 25386 [egg-security] use dta middleware
+2019-09-29 10:49:28,505 INFO 25386 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:49:28,529 INFO 25386 [egg:core] dump config after load, 6ms
+2019-09-29 10:49:28,548 INFO 25386 [egg-watcher:application] watcher start success
+2019-09-29 10:49:28,553 INFO 25386 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:49:28 GMT+0800 (GMT+08:00)
+2019-09-29 10:49:28,559 INFO 25386 [egg:core] dump config after ready, 5ms
+2019-09-29 10:51:06,448 INFO 25823 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 10:51:06,477 INFO 25823 [egg-multipart] stream mode enable
+2019-09-29 10:51:06,478 INFO 25823 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 10:51:06,643 INFO 25823 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 10:51:06,646 INFO 25823 [egg-security] use methodnoallow middleware
+2019-09-29 10:51:06,647 INFO 25823 [egg-security] use noopen middleware
+2019-09-29 10:51:06,647 INFO 25823 [egg-security] use nosniff middleware
+2019-09-29 10:51:06,649 INFO 25823 [egg-security] use xssProtection middleware
+2019-09-29 10:51:06,649 INFO 25823 [egg-security] use xframe middleware
+2019-09-29 10:51:06,650 INFO 25823 [egg-security] use dta middleware
+2019-09-29 10:51:06,650 INFO 25823 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 10:51:06,672 INFO 25823 [egg:core] dump config after load, 9ms
+2019-09-29 10:51:06,685 INFO 25823 [egg-watcher:application] watcher start success
+2019-09-29 10:51:06,694 INFO 25823 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 10:51:06 GMT+0800 (GMT+08:00)
+2019-09-29 10:51:06,699 INFO 25823 [egg:core] dump config after ready, 3ms
+2019-09-29 11:03:38,545 INFO 29216 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 11:03:38,593 INFO 29216 [egg-multipart] stream mode enable
+2019-09-29 11:03:38,594 INFO 29216 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 11:03:38,749 INFO 29216 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 11:03:38,752 INFO 29216 [egg-security] use methodnoallow middleware
+2019-09-29 11:03:38,753 INFO 29216 [egg-security] use noopen middleware
+2019-09-29 11:03:38,754 INFO 29216 [egg-security] use nosniff middleware
+2019-09-29 11:03:38,755 INFO 29216 [egg-security] use xssProtection middleware
+2019-09-29 11:03:38,755 INFO 29216 [egg-security] use xframe middleware
+2019-09-29 11:03:38,756 INFO 29216 [egg-security] use dta middleware
+2019-09-29 11:03:38,756 INFO 29216 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 11:03:38,774 INFO 29216 [egg:core] dump config after load, 5ms
+2019-09-29 11:03:38,792 INFO 29216 [egg-watcher:application] watcher start success
+2019-09-29 11:03:38,794 INFO 29216 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 11:03:38 GMT+0800 (GMT+08:00)
+2019-09-29 11:03:38,801 INFO 29216 [egg:core] dump config after ready, 4ms
+2019-09-29 11:03:39,749 INFO 29227 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 11:03:39,791 INFO 29227 [egg-multipart] stream mode enable
+2019-09-29 11:03:39,792 INFO 29227 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 11:03:39,879 INFO 29227 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 11:03:39,881 INFO 29227 [egg-security] use methodnoallow middleware
+2019-09-29 11:03:39,881 INFO 29227 [egg-security] use noopen middleware
+2019-09-29 11:03:39,882 INFO 29227 [egg-security] use nosniff middleware
+2019-09-29 11:03:39,882 INFO 29227 [egg-security] use xssProtection middleware
+2019-09-29 11:03:39,882 INFO 29227 [egg-security] use xframe middleware
+2019-09-29 11:03:39,882 INFO 29227 [egg-security] use dta middleware
+2019-09-29 11:03:39,882 INFO 29227 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 11:03:39,895 INFO 29227 [egg:core] dump config after load, 4ms
+2019-09-29 11:03:39,913 INFO 29227 [egg-watcher:application] watcher start success
+2019-09-29 11:03:39,917 INFO 29227 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 11:03:39 GMT+0800 (GMT+08:00)
+2019-09-29 11:03:39,927 INFO 29227 [egg:core] dump config after ready, 8ms
+2019-09-29 11:03:41,109 INFO 29233 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 11:03:41,170 INFO 29233 [egg-multipart] stream mode enable
+2019-09-29 11:03:41,173 INFO 29233 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 11:03:41,381 INFO 29233 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 11:03:41,383 INFO 29233 [egg-security] use methodnoallow middleware
+2019-09-29 11:03:41,383 INFO 29233 [egg-security] use noopen middleware
+2019-09-29 11:03:41,385 INFO 29233 [egg-security] use nosniff middleware
+2019-09-29 11:03:41,385 INFO 29233 [egg-security] use xssProtection middleware
+2019-09-29 11:03:41,385 INFO 29233 [egg-security] use xframe middleware
+2019-09-29 11:03:41,385 INFO 29233 [egg-security] use dta middleware
+2019-09-29 11:03:41,385 INFO 29233 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 11:03:41,399 INFO 29233 [egg:core] dump config after load, 8ms
+2019-09-29 11:03:41,419 INFO 29233 [egg-watcher:application] watcher start success
+2019-09-29 11:03:41,427 INFO 29233 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 11:03:41 GMT+0800 (GMT+08:00)
+2019-09-29 11:03:41,443 INFO 29233 [egg:core] dump config after ready, 13ms
+2019-09-29 11:03:42,984 INFO 29239 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 11:03:43,020 INFO 29239 [egg-multipart] stream mode enable
+2019-09-29 11:03:43,023 INFO 29239 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 11:03:43,132 INFO 29239 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 11:03:43,138 INFO 29239 [egg-security] use methodnoallow middleware
+2019-09-29 11:03:43,141 INFO 29239 [egg-security] use noopen middleware
+2019-09-29 11:03:43,142 INFO 29239 [egg-security] use nosniff middleware
+2019-09-29 11:03:43,142 INFO 29239 [egg-security] use xssProtection middleware
+2019-09-29 11:03:43,142 INFO 29239 [egg-security] use xframe middleware
+2019-09-29 11:03:43,143 INFO 29239 [egg-security] use dta middleware
+2019-09-29 11:03:43,143 INFO 29239 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 11:03:43,174 INFO 29239 [egg:core] dump config after load, 12ms
+2019-09-29 11:03:43,223 INFO 29239 [egg-watcher:application] watcher start success
+2019-09-29 11:03:43,596 INFO 29245 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 11:03:43,625 INFO 29245 [egg-multipart] stream mode enable
+2019-09-29 11:03:43,626 INFO 29245 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 11:03:43,708 INFO 29245 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 11:03:43,710 INFO 29245 [egg-security] use methodnoallow middleware
+2019-09-29 11:03:43,710 INFO 29245 [egg-security] use noopen middleware
+2019-09-29 11:03:43,711 INFO 29245 [egg-security] use nosniff middleware
+2019-09-29 11:03:43,711 INFO 29245 [egg-security] use xssProtection middleware
+2019-09-29 11:03:43,714 INFO 29245 [egg-security] use xframe middleware
+2019-09-29 11:03:43,714 INFO 29245 [egg-security] use dta middleware
+2019-09-29 11:03:43,714 INFO 29245 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 11:03:43,724 INFO 29245 [egg:core] dump config after load, 3ms
+2019-09-29 11:03:43,750 INFO 29245 [egg-watcher:application] watcher start success
+2019-09-29 11:03:43,754 INFO 29245 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 11:03:43 GMT+0800 (GMT+08:00)
+2019-09-29 11:03:43,760 INFO 29245 [egg:core] dump config after ready, 5ms
+2019-09-29 11:03:44,071 INFO 29251 [egg:logger] init all loggers with options: {"dir":"/Users/aiyining/Desktop/node/egg/logs/y","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"y-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-29 11:03:44,090 INFO 29251 [egg-multipart] stream mode enable
+2019-09-29 11:03:44,090 INFO 29251 [egg-mysql] connecting root@localhost:3306/blog
+2019-09-29 11:03:44,162 INFO 29251 [egg-static] starting static serve /public/ -> /Users/aiyining/Desktop/node/egg/app/public
+2019-09-29 11:03:44,163 INFO 29251 [egg-security] use methodnoallow middleware
+2019-09-29 11:03:44,164 INFO 29251 [egg-security] use noopen middleware
+2019-09-29 11:03:44,164 INFO 29251 [egg-security] use nosniff middleware
+2019-09-29 11:03:44,164 INFO 29251 [egg-security] use xssProtection middleware
+2019-09-29 11:03:44,165 INFO 29251 [egg-security] use xframe middleware
+2019-09-29 11:03:44,165 INFO 29251 [egg-security] use dta middleware
+2019-09-29 11:03:44,165 INFO 29251 [egg-security] compose 6 middlewares into one security middleware
+2019-09-29 11:03:44,173 INFO 29251 [egg:core] dump config after load, 3ms
+2019-09-29 11:03:44,186 INFO 29251 [egg-watcher:application] watcher start success
+2019-09-29 11:03:44,191 INFO 29251 [egg-mysql] instance[0] status OK, rds currentTime: Sun Sep 29 2019 11:03:44 GMT+0800 (GMT+08:00)
+2019-09-29 11:03:44,195 INFO 29251 [egg:core] dump config after ready, 3ms
