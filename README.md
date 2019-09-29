@@ -8,6 +8,15 @@ y
 
 see [egg docs][egg] for more detail.
 
+
+
+### Index
+
+```bash
+cd app/public/index_el.html
+```
+
+
 ### Development
 
 ```bash
@@ -31,3 +40,4 @@ $ npm stop
 
 
 [egg]: https://eggjs.org# Image_Management
+# Images_Management
