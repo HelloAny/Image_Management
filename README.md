@@ -1,6 +1,7 @@
-# y
+# Image_Management
 
-y
+eggjs静态图片管理工具
+学习egg
 
 ## QuickStart
 
